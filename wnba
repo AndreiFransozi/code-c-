@@ -1,0 +1,230 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <locale.h>
+int ano;
+int main(){
+setlocale(LC_ALL, "Portuguese");
+
+printf ("Digite o ano do titulo da wnba: ");
+scanf ("%d", &ano);
+    
+if (ano < 1997)
+    
+    {
+      
+printf ("Não existia a WNBA");
+    
+}
+if (ano == 1997)
+    
+    {
+      
+printf ("Houston Comets\n");
+    
+}
+  
+ 
+if (ano == 1998)
+    
+    {
+      
+printf ("Houston Comets\n");
+    
+}
+  
+ 
+if (ano == 1999)
+    
+    {
+      
+printf ("Houston Comets\n");
+    
+}
+  
+ 
+if (ano == 2000)
+    
+    {
+      
+printf ("Houston Comets\n");
+    
+}
+  
+ 
+if (ano == 2001)
+    
+    {
+      
+printf ("Los Angeles Sparks\n");
+    
+}
+  
+ 
+if (ano == 2002)
+    
+    {
+      
+printf ("Los Angeles Sparks\n");
+    
+}
+  
+ 
+if (ano == 2003)
+    
+    {
+      
+printf ("Seattle Storm\n");
+    
+}
+  
+if (ano == 2004)
+    
+    {
+      
+printf ("Seattle Storm\n");
+    
+}
+  
+ 
+if (ano == 2005)
+    
+    {
+      
+printf ("Sacramento Monarchs\n");
+    
+}
+  
+ 
+if (ano == 2006)
+    
+    {
+      
+printf ("Detroit Shock\n");
+    
+}
+  
+ 
+if (ano == 2007)
+    
+    {
+      
+printf ("Phoenix Mercury\n");
+    
+}
+  
+ 
+if (ano == 2008)
+    
+    {
+      
+printf ("Detroit Shock\n");
+    
+}
+  
+if (ano == 2009)
+    
+    {
+      
+printf ("Phoenix Mercury\n");
+    
+}
+  
+ 
+if (ano == 2010)
+    
+    {
+      
+printf ("Seattle Storm\n");
+    
+}
+  
+ 
+if (ano == 2011)
+    
+    {
+      
+printf ("Minnesota Lynx\n");
+    
+}
+  
+ 
+if (ano == 2012)
+    
+    {
+      
+printf ("Indiana Fever\n");
+    
+}
+  
+ 
+if (ano == 2013)
+    
+    {
+      
+printf ("Minnesota Lynx\n");
+    
+}
+  
+ 
+if (ano == 2014)
+    
+    {
+      
+printf ("Phoenix Mercury\n");
+    
+}
+  
+ 
+if (ano == 2015)
+    
+    {
+      
+printf ("Minnesota Lynx\n");
+    
+}
+  
+ 
+if (ano == 2016)
+    
+    {
+      
+printf ("Los Angeles Sparks\n");
+    
+}
+  
+if (ano == 2017)
+    
+    {
+      
+printf ("Minnesota Lynx\n");
+    
+}
+  
+ 
+if (ano == 2018)
+    
+    {
+      
+printf ("Seattle Storm\n");
+    
+}
+  
+ 
+if (ano == 2019)
+    
+    {
+      
+printf ("Washington Mystics\n");
+    
+}
+  
+ 
+if (ano == 2020)
+    
+    {
+      
+printf ("Seattle Storm\n");
+    
+}
+  return(0);
+}
