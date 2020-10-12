@@ -1,0 +1,666 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <locale.h>
+int ano;
+int main(){
+setlocale(LC_ALL, "Portuguese");
+
+printf ("Digite o ano do titulo da nba: ");
+scanf ("%d", &ano);
+    
+if (ano < 1947)
+    
+    {
+      
+printf ("Não existia a NBA");
+    
+}
+if (ano == 1947)
+    
+    {
+      
+printf ("Golden State wariors\n");
+    
+}
+  
+if (ano == 1948)
+    
+    {
+      
+printf ("Baltimore Bullets\n");
+    
+}
+  
+if (ano == 1949)
+    
+    {
+      
+printf ("Los Angeles Lakers\n");
+    
+}
+  
+if (ano == 1950)
+    
+    {
+      
+printf ("Los Angeles Lakers\n");
+    
+}
+  
+if (ano == 1951)
+    
+    {
+      
+printf ("Sacramento Kings\n");
+    
+}
+  
+if (ano == 1952)
+    
+    {
+      
+printf ("Los Angeles Lakers\n");
+    
+}
+  
+if (ano == 1953)
+    
+    {
+      
+printf ("Los Angeles Lakers\n");
+    
+}
+  
+if (ano == 1954)
+    
+    {
+      
+printf ("Los Angeles Lakers\n");
+    
+}
+  
+if (ano == 1955)
+    
+    {
+      
+printf ("Detroit Pistons\n");
+    
+}
+  
+if (ano == 1956)
+    
+    {
+      
+printf ("Golden State Warriors \n");
+    
+}
+  
+ 
+if (ano == 1957)
+    
+    {
+      
+printf ("Boston Celtics\n");
+    
+}
+  
+ 
+if (ano == 1958)
+    
+    {
+      
+printf ("Atlanta Hawks\n");
+    
+}
+  
+ 
+if (ano == 1959)
+    
+    {
+      
+printf ("Boston Celtics\n");
+    
+}
+  
+ 
+if (ano == 1960)
+    
+    {
+      
+printf ("Boston Celtics\n");
+    
+}
+  
+ 
+if (ano == 1961)
+    
+    {
+      
+printf ("Boston Celtics\n");
+    
+}
+  
+ 
+if (ano == 1962)
+    
+    {
+      
+printf ("Boston Celtics\n");
+    
+}
+  
+ 
+if (ano == 1963)
+    
+    {
+      
+printf ("Boston Celtics\n");
+    
+}
+  
+ 
+if (ano == 1964)
+    
+    {
+      
+printf ("Boston Celtics\n");
+    
+}
+  
+if (ano == 1965)
+    
+    {
+      
+printf ("Boston Celtics\n");
+    
+}
+  
+ 
+if (ano == 1966)
+    
+    {
+      
+printf ("Boston Celtics\n");
+    
+}
+  
+ 
+if (ano == 1967)
+    
+    {
+      
+printf ("Philadelphia 76\n");
+    
+}
+  
+ 
+if (ano == 1968)
+    
+    {
+      
+printf ("Boston Celtics\n");
+    
+}
+  
+ 
+if (ano == 1969)
+    
+    {
+      
+printf ("Boston Celtics\n");
+    
+}
+  
+if (ano == 1970)
+    
+    {
+      
+printf ("New York Knicks\n");
+    
+}
+  
+ 
+if (ano == 1971)
+    
+    {
+      
+printf ("Milwaukee Bucks\n");
+    
+}
+  
+ 
+if (ano == 1972)
+    
+    {
+      
+printf ("Los Angeles Lakers\n");
+    
+}
+  
+ 
+if (ano == 1973)
+    
+    {
+      
+printf ("New York Knicks\n");
+    
+}
+  
+ 
+if (ano == 1974)
+    
+    {
+      
+printf ("Boston Celtics\n");
+    
+}
+  
+ 
+if (ano == 1975)
+    
+    {
+      
+printf ("Golden State Warriors\n");
+    
+}
+  
+ 
+if (ano == 1976)
+    
+    {
+      
+printf ("Boston Celtics\n");
+    
+}
+  
+ 
+if (ano == 1977)
+    
+    {
+      
+printf ("Portland Trail Blazers\n");
+    
+}
+  
+if (ano == 1978)
+    
+    {
+      
+printf ("Washington Wizards \n");
+    
+}
+  
+ 
+if (ano == 1979)
+    
+    {
+      
+printf ("Oklahoma City Thunder\n");
+    
+}
+  
+ 
+if (ano == 1980)
+    
+    {
+      
+printf ("Los Angeles Lakers\n");
+    
+}
+  
+ 
+if (ano == 1981)
+    
+    {
+      
+printf ("Boston Celtics\n");
+    
+}
+  
+ 
+if (ano == 1982)
+    
+    {
+      
+printf ("Los Angeles Lakers\n");
+    
+}
+  
+if (ano == 1983)
+    
+    {
+      
+printf ("Philadelphia 76ers\n");
+    
+}
+  
+ 
+if (ano == 1984)
+    
+    {
+      
+printf ("Boston Celtics\n");
+    
+}
+  
+ 
+if (ano == 1985)
+    
+    {
+      
+printf ("Los Angeles Lakers\n");
+    
+}
+  
+ 
+if (ano == 1986)
+    
+    {
+      
+printf ("Boston Celtics\n");
+    
+}
+  
+ 
+if (ano == 1987)
+    
+    {
+      
+printf ("Los Angeles Lakers\n");
+    
+}
+  
+ 
+if (ano == 1988)
+    
+    {
+      
+printf ("Los Angeles Lakers\n");
+    
+}
+  
+ 
+if (ano == 1989)
+    
+    {
+      
+printf ("Detroit Pistons\n");
+    
+}
+  
+ 
+if (ano == 1990)
+    
+    {
+      
+printf ("Detroit Pistons\n");
+    
+}
+  
+if (ano == 1991)
+    
+    {
+      
+printf ("Chicago Bulls \n");
+    
+}
+  
+ 
+if (ano == 1992)
+    
+    {
+      
+printf ("Chicago Bulls \n");
+    
+}
+  
+ 
+if (ano == 1993)
+    
+    {
+      
+printf ("Chicago Bulls \n");
+    
+}
+  
+ 
+if (ano == 1994)
+    
+    {
+      
+printf ("Houston Rockets \n");
+    
+}
+  
+ 
+if (ano == 1995)
+    
+    {
+      
+printf ("Houston Rockets \n");
+    
+}
+  
+ 
+if (ano == 1996)
+    
+    {
+      
+printf ("Chicago Bulls \n");
+    
+}
+  
+ 
+if (ano == 1997)
+    
+    {
+      
+printf ("Chicago Bulls \n");
+    
+}
+  
+ 
+if (ano == 1998)
+    
+    {
+      
+printf ("Chicago Bulls \n");
+    
+}
+  
+ 
+if (ano == 1999)
+    
+    {
+      
+printf ("San Antonio Spurs \n");
+    
+}
+  
+ 
+if (ano == 2000)
+    
+    {
+      
+printf ("Los Angeles Lakers\n");
+    
+}
+  
+ 
+if (ano == 2001)
+    
+    {
+      
+printf ("Los Angeles Lakers\n");
+    
+}
+  
+ 
+if (ano == 2002)
+    
+    {
+      
+printf ("Los Angeles Lakers\n");
+    
+}
+  
+ 
+if (ano == 2003)
+    
+    {
+      
+printf ("San Antonio Spurs \n");
+    
+}
+  
+if (ano == 2004)
+    
+    {
+      
+printf ("Detroit Pistons\n");
+    
+}
+  
+ 
+if (ano == 2005)
+    
+    {
+      
+printf ("San Antonio Spurs\n");
+    
+}
+  
+ 
+if (ano == 2006)
+    
+    {
+      
+printf ("Miami Heat\n");
+    
+}
+  
+ 
+if (ano == 2007)
+    
+    {
+      
+printf ("San Antonio Spurs\n");
+    
+}
+  
+ 
+if (ano == 2008)
+    
+    {
+      
+printf ("Boston Celtics\n");
+    
+}
+  
+if (ano == 2009)
+    
+    {
+      
+printf ("Los Angeles Lakers\n");
+    
+}
+  
+ 
+if (ano == 2010)
+    
+    {
+      
+printf ("Los Angeles Lakers\n");
+    
+}
+  
+ 
+if (ano == 2011)
+    
+    {
+      
+printf ("Dallas Mavericks\n");
+    
+}
+  
+ 
+if (ano == 2012)
+    
+    {
+      
+printf ("Miami Heat\n");
+    
+}
+  
+ 
+if (ano == 2013)
+    
+    {
+      
+printf ("Miami Heat\n");
+    
+}
+  
+ 
+if (ano == 2014)
+    
+    {
+      
+printf ("San Antonio Spurs\n");
+    
+}
+  
+ 
+if (ano == 2015)
+    
+    {
+      
+printf ("Golden State Warriors\n");
+    
+}
+  
+ 
+if (ano == 2016)
+    
+    {
+      
+printf ("Cleveland Cavaliers\n");
+    
+}
+  
+if (ano == 2017)
+    
+    {
+      
+printf ("Golden State Warriors\n");
+    
+}
+  
+ 
+if (ano == 2018)
+    
+    {
+      
+printf ("Golden State Warriors\n");
+    
+}
+  
+ 
+if (ano == 2019)
+    
+    {
+      
+printf ("Toronto Raptors\n");
+    
+}
+  
+ 
+if (ano == 2020)
+    
+    {
+      
+printf ("Los Angeles Lakers\n");
+    
+}
+  return(0);
+}
