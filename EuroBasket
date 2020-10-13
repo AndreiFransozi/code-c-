@@ -1,0 +1,351 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <locale.h>
+int ano;
+int main(){
+setlocale(LC_ALL, "Portuguese");
+
+printf ("Digite o ano do titulo do EuroBasket: ");
+scanf ("%d", &ano);
+if (ano < 1935)
+
+    {
+
+printf ("Letônia\n");
+
+}
+if (ano == 1937)
+
+    {
+
+printf ("Lituânia\n");
+
+}
+if (ano == 1939)
+
+    {
+
+printf ("Lituânia\n");
+
+}
+if (ano < 1946)
+
+    {
+
+printf ("Tchecoslováquia\n");
+
+}
+if (ano == 1947)
+
+    {
+
+printf ("União Soviética\n");
+
+}
+
+
+if (ano == 1949)
+
+    {
+
+printf ("Egito\n");
+
+}
+
+
+if (ano == 1951)
+
+    {
+
+printf ("União Soviética\n");
+
+}
+
+
+
+if (ano == 1953)
+
+    {
+
+printf ("União Soviética\n");
+
+}
+if (ano == 1955)
+
+    {
+
+printf ("Hungria\n");
+
+}
+
+
+if (ano == 1957)
+
+    {
+
+printf ("União Soviética\n");
+
+}
+
+if (ano == 1959)
+
+    {
+
+printf ("União Soviética\n");
+
+}
+
+
+if (ano == 1961)
+
+    {
+
+printf ("União Soviética\n");
+
+}
+
+
+
+
+if (ano == 1963)
+
+    {
+
+printf ("União Soviética\n");
+
+}
+
+
+if (ano == 1965)
+
+    {
+
+printf ("União Soviética\n");
+
+}
+
+
+
+
+if (ano == 1967)
+
+    {
+
+printf ("União Soviética\n");
+
+}
+
+
+
+if (ano == 1969)
+
+    {
+
+printf ("União Soviética\n");
+
+}
+
+
+if (ano == 1971)
+
+    {
+
+printf ("União Soviética\n");
+
+}
+
+if (ano == 1973)
+
+    {
+
+printf ("Iugoslávia\n");
+
+}
+
+
+if (ano == 1975)
+
+    {
+
+printf ("Iugoslávia\n");
+
+}
+if (ano == 1977)
+
+    {
+
+printf ("Iugoslávia\n");
+
+}
+
+
+if (ano == 1979)
+
+    {
+
+printf ("União Soviética\n");
+
+}
+
+
+if (ano == 1981)
+
+    {
+
+printf ("União Soviética\n");
+
+}
+
+if (ano == 1983)
+
+    {
+
+printf ("Itália\n");
+
+}
+
+
+
+if (ano == 1985)
+
+    {
+
+printf ("União Soviética\n");
+
+}
+
+if (ano == 1987)
+
+    {
+
+printf ("Grécia\n");
+
+}
+
+if (ano == 1989)
+
+    {
+
+printf ("Iugoslávia\n");
+
+}
+
+if (ano == 1991)
+
+    {
+
+printf ("Iugoslávia\n");
+
+}
+
+if (ano == 1993)
+
+    {
+
+printf ("Alemanha\n");
+
+}
+
+
+if (ano == 1995)
+
+    {
+
+printf ("Iugoslávia\n");
+
+}
+
+if (ano == 1997)
+
+    {
+
+printf ("Iugoslávia\n");
+
+}
+
+
+if (ano == 1999)
+
+    {
+
+printf ("Itália\n");
+
+}
+
+if (ano == 2001)
+
+    {
+
+printf ("Iugoslávia\n");
+
+}
+
+
+if (ano == 2003)
+
+    {
+
+printf ("Lituânia\n");
+
+}
+
+if (ano == 2005)
+
+    {
+
+printf ("Grécia\n");
+
+}
+
+
+if (ano == 2007)
+
+    {
+
+printf ("Rússia\n");
+
+}
+
+if (ano == 2009)
+
+    {
+
+printf ("Espanha\n");
+
+}
+
+if (ano == 2011)
+
+    {
+
+printf ("Espanha\n");
+
+}
+
+if (ano == 2013)
+
+    {
+
+printf ("França\n");
+
+}
+if (ano == 2015)
+
+    {
+
+printf ("Espanha\n");
+
+}
+
+
+if (ano == 2017)
+
+    {
+
+printf ("Eslovênia\n");
+
+}else{
+    printf("Não houve EuroBasket");
+}
+
+  return(0);
