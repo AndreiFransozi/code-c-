@@ -1,0 +1,116 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <locale.h>
+int ano;
+int main(){
+setlocale(LC_ALL, "Portuguese");
+
+printf ("Digite o ano do titulo da NBB: ");
+scanf ("%d", &ano);
+if (ano == 2009)
+
+    {
+
+printf ("Lobos Brasília\n");
+
+}
+
+if (ano == 2010)
+
+    {
+
+printf ("Lobos Brasília\n");
+
+}
+
+
+if (ano == 2011)
+
+    {
+
+printf ("Lobos Brasília\n");
+
+}
+
+
+if (ano == 2012)
+
+    {
+
+printf ("Lobos Brasília\n");
+
+}
+
+
+if (ano == 2013)
+
+    {
+
+printf ("Flamengo\n");
+
+}
+
+
+if (ano == 2014)
+
+    {
+
+printf ("Flamengo\n");
+
+}
+
+
+if (ano == 2015)
+
+    {
+
+printf ("Flamengo\n");
+
+}
+
+
+if (ano == 2016)
+
+    {
+
+printf ("Flamengo\n");
+
+}
+
+
+if (ano == 2017)
+
+    {
+
+printf ("Bauru\n");
+
+}
+
+if (ano == 2018)
+
+    {
+
+printf ("Paulistano\n");
+
+}
+
+
+if (ano == 2019)
+
+    {
+
+printf ("Flamengo\n");
+
+}
+
+
+if (ano == 2020)
+
+    {
+
+printf ("Cancelado pelo Covid-19\n");
+}else{
+    printf("Não ocoreu o campeonato");
+}
+  return(0);
+}
