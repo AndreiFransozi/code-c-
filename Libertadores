@@ -1,0 +1,551 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <locale.h>
+int ano;
+int main(){
+setlocale(LC_ALL, "Portuguese");
+
+printf ("Digite o ano do titulo da Libertadore: ");
+scanf ("%d", &ano);
+if (ano == 1960)
+    
+    {
+      
+printf ("Peñarol\n");
+    
+}
+  
+ 
+if (ano == 1961)
+    
+    {
+      
+printf ("Peñarol\n");
+    
+}
+  
+ 
+if (ano == 1962)
+    
+    {
+      
+printf ("Peñarol\n");
+    
+}
+  
+ 
+if (ano == 1963)
+    
+    {
+      
+printf ("Santos\n");
+    
+}
+  
+ 
+if (ano == 1964)
+    
+    {
+      
+printf ("Independiente\n");
+    
+}
+  
+if (ano == 1965)
+    
+    {
+      
+printf ("Independiente\n");
+    
+}
+  
+ 
+if (ano == 1966)
+    
+    {
+      
+printf ("Peñarol\n");
+    
+}
+  
+ 
+if (ano == 1967)
+    
+    {
+      
+;
+printf ("Racing Club\n");  
+}
+  
+ 
+if (ano == 1968)
+    
+    {
+printf ("Estudiantes\n");
+}
+  
+ 
+if (ano == 1969)
+    
+    {
+      
+printf ("Estudiantes\n");
+    
+}
+  
+if (ano == 1970)
+    
+    {
+      
+printf ("Estudiantes\n");
+    
+}
+  
+ 
+if (ano == 1971)
+    
+    {
+      
+printf ("Nacional\n");
+    
+}
+  
+ 
+if (ano == 1972)
+    
+    {
+      
+printf ("Independiente\n");
+    
+}
+  
+ 
+if (ano == 1973)
+    
+    {
+      
+printf ("Independiente\n");
+    
+}
+  
+ 
+if (ano == 1974)
+    
+    {
+      
+printf ("Independiente\n");
+    
+}
+  
+ 
+if (ano == 1975)
+    
+    {
+      
+printf ("Independiente\n");
+    
+}
+  
+ 
+if (ano == 1976)
+    
+    {
+      
+printf ("Cruzeiro\n");
+    
+}
+  
+ 
+if (ano == 1977)
+    
+    {
+      
+printf ("Boca Juniors\n");
+    
+}
+  
+if (ano == 1978)
+    
+    {
+      
+printf ("Boca Juniors\n");
+    
+}
+  
+ 
+if (ano == 1979)
+    
+    {
+      
+printf ("Olímpia\n");
+    
+}
+  
+ 
+if (ano == 1980)
+    
+    {
+      
+printf ("Nacional\n");
+    
+}
+  
+ 
+if (ano == 1981)
+    
+    {
+      
+printf ("Flamengo\n");
+    
+}
+  
+ 
+if (ano == 1982)
+    
+    {
+      
+printf ("Peñarol\n");
+    
+}
+  
+if (ano == 1983)
+    
+    {
+      
+printf ("Grêmio\n");
+    
+}
+  
+ 
+if (ano == 1984)
+    
+    {
+      
+printf ("Independiente\n");
+    
+}
+  
+ 
+if (ano == 1985)
+    
+    {
+      
+printf ("Argentinos Juniors\n");
+    
+}
+  
+ 
+if (ano == 1986)
+    
+    {
+      
+printf ("River Plate\n");
+    
+}
+  
+ 
+if (ano == 1987)
+    
+    {
+      
+printf ("Peñarol\n");
+    
+}
+  
+ 
+if (ano == 1988)
+    
+    {
+      
+printf ("Nacional\n");
+    
+}
+  
+ 
+if (ano == 1989)
+    
+    {
+      
+printf ("Atlético Nacional\n");
+    
+}
+  
+ 
+if (ano == 1990)
+    
+    {
+      
+printf ("Olímpia\n");
+    
+}
+  
+if (ano == 1991)
+    
+    {
+      
+printf ("Colo-Colo\n");
+    
+}
+  
+ 
+if (ano == 1992)
+    
+    {
+      
+printf ("São Paulo\n");
+    
+}
+  
+ 
+if (ano == 1993)
+    
+    {
+      
+printf ("São Paulo\n");
+    
+}
+  
+ 
+if (ano == 1994)
+    
+    {
+      
+printf ("Vélez Sársfield\n");
+    
+}
+  
+ 
+if (ano == 1995)
+    
+    {
+      
+printf ("Grêmio\n");
+    
+}
+  
+ 
+if (ano == 1996)
+    
+    {
+      
+printf ("River Plate\n");
+    
+}
+  
+ 
+if (ano == 1997)
+    
+    {
+      
+printf ("Cruzeiro\n");
+    
+}
+  
+ 
+if (ano == 1998)
+    
+    {
+      
+printf ("Vasco da Gama\n");
+    
+}
+  
+ 
+if (ano == 1999)
+    
+    {
+      
+printf ("Palmeiras\n");
+    
+}
+  
+ 
+if (ano == 2000)
+    
+    {
+      
+printf ("Boca Juniors\n");
+    
+}
+  
+ 
+if (ano == 2001)
+    
+    {
+      
+printf ("Boca Juniors\n");
+    
+}
+  
+ 
+if (ano == 2002)
+    
+    {
+      
+printf ("Olímpia\n");
+    
+}
+  
+ 
+if (ano == 2003)
+    
+    {
+      
+printf ("Boca Juniors\n");
+    
+}
+  
+if (ano == 2004)
+    
+    {
+      
+printf ("Once Caldas\n");
+    
+}
+  
+ 
+if (ano == 2005)
+    
+    {
+      
+printf ("São Paulo\n");
+    
+}
+  
+ 
+if (ano == 2006)
+    
+    {
+      
+printf ("Internacional\n");
+    
+}
+  
+ 
+if (ano == 2007)
+    
+    {
+      
+printf ("Boca Juniors\n");
+    
+}
+  
+ 
+if (ano == 2008)
+    
+    {
+      
+printf ("Liga Deportiva Universitaria\n");
+    
+}
+  
+if (ano == 2009)
+    
+    {
+      
+printf ("Estudiantes\n");
+    
+}
+  
+ 
+if (ano == 2010)
+    
+    {
+      
+printf ("Internacional\n");
+    
+}
+  
+ 
+if (ano == 2011)
+    
+    {
+      
+printf ("Santos\n");
+    
+}
+  
+ 
+if (ano == 2012)
+    
+    {
+      
+printf ("Corinthians\n");
+    
+}
+  
+ 
+if (ano == 2013)
+    
+    {
+      
+printf ("Atlético Mineiro\n");
+    
+}
+  
+ 
+if (ano == 2014)
+    
+    {
+      
+printf ("San Lorenzo\n");
+    
+}
+  
+ 
+if (ano == 2015)
+    
+    {
+      
+printf ("River Plate\n");
+    
+}
+  
+ 
+if (ano == 2016)
+    
+    {
+      
+printf ("Atlético Nacional\n");
+    
+}
+  
+if (ano == 2017)
+    
+    {
+      
+printf ("Grêmio\n");
+    
+}
+  
+ 
+if (ano == 2018)
+    
+    {
+      
+printf ("River Plate\n");
+    
+}
+  
+ 
+if (ano == 2019)
+    
+    {
+      
+printf ("Flamengo\n");
+    
+}
+  
+ 
+if (ano == 2020)
+    
+    {
+      
+printf ("Não terminou o campeonato\n");
+    
+}
+else{
+    exit;
+}
+  return(0);
+}
