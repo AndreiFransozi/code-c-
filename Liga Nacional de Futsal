@@ -1,0 +1,235 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <locale.h>
+int ano;
+int main(){
+setlocale(LC_ALL, "Portuguese");
+
+printf ("Digite o ano do titulo da Liga Nacional de Futsal: ");
+scanf ("%d", &ano);
+  
+if (ano == 1996)
+    
+    {
+      
+printf ("Internacional\n");
+    
+}
+  
+ 
+if (ano == 1997)
+    
+    {
+      
+printf ("Atlético Mineiro\n");
+    
+}
+  
+ 
+if (ano == 1998)
+    
+    {
+      
+printf ("Ulbra\n");
+    
+}
+  
+ 
+if (ano == 1999)
+    
+    {
+      
+printf ("Atlético Mineiro\n");
+    
+}
+  
+ 
+if (ano == 2000)
+    
+    {
+      
+printf ("Vasco da Gama\n");
+    
+}
+  
+ 
+if (ano == 2001)
+    
+    {
+      
+printf ("Carlos Barbosa\n");
+    
+}
+  
+ 
+if (ano == 2002)
+    
+    {
+      
+printf ("Ulbra\n");
+    
+}
+  
+ 
+if (ano == 2003)
+    
+    {
+      
+printf ("Ulbra\n");
+    
+}
+  
+if (ano == 2004)
+    
+    {
+      
+printf ("Carlos Barbosa\n");
+    
+}
+  
+ 
+if (ano == 2005)
+    
+    {
+      
+printf ("Jaraguá\n");
+    
+}
+  
+ 
+if (ano == 2006)
+    
+    {
+      
+printf ("Carlos Barbosa\n");
+    
+}
+  
+ 
+if (ano == 2007)
+    
+    {
+      
+printf ("Jaraguá\n");
+    
+}
+  
+ 
+if (ano == 2008)
+    
+    {
+      
+printf ("Jaraguá\n");
+    
+}
+  
+if (ano == 2009)
+    
+    {
+      
+printf ("Carlos Barbosa\n");
+    
+}
+  
+ 
+if (ano == 2010)
+    
+    {
+      
+printf ("Jaraguá\n");
+    
+}
+  
+ 
+if (ano == 2011)
+    
+    {
+      
+printf ("Santos\n");
+    
+}
+  
+ 
+if (ano == 2012)
+    
+    {
+      
+printf ("ADC Intelli\n");
+    
+}
+  
+ 
+if (ano == 2013)
+    
+    {
+      
+printf ("ADC Intelli\n");
+    
+}
+  
+ 
+if (ano == 2014)
+    
+    {
+      
+printf ("Sorocaba Futsal\n");
+    
+}
+  
+ 
+if (ano == 2015)
+    
+    {
+      
+printf ("Carlos Barbosa\n");
+    
+}
+  
+ 
+if (ano == 2016)
+    
+    {
+      
+printf ("Corinthians\n");
+    
+}
+  
+if (ano == 2017)
+    
+    {
+      
+printf ("Joinville\n");
+    
+}
+  
+ 
+if (ano == 2018)
+    
+    {
+      
+printf ("Pato Futsal\n");
+    
+}
+  
+ 
+if (ano == 2019)
+    
+    {
+      
+printf ("Pato Futsal\n");
+    
+}
+  
+ 
+if (ano == 2020)
+    
+    {
+      
+printf ("Não terminou o campeonato\n");
+    
+}
+else{
+    exit;
+}
+  return(0);
+}
