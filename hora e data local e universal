@@ -1,0 +1,13 @@
+#include <time.h>
+#include <stdio.h>
+void main(void)
+{
+    struct tm * local;
+    time_t t;
+
+    t = time(NULL);
+    local = localtime(&t);
+    printf("Hora local e data: %s\n",asctime(local));
+    local = gmtime (&t);
+    printf("Hora de Utc e data: %s\n", asctime(local));
+}
