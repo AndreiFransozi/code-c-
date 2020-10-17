@@ -1,0 +1,1028 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <locale.h>
+int ano;
+int main(){
+setlocale(LC_ALL, "Portuguese");
+
+printf ("Digite o ano do titulo da Copa Stanley(NHL): ");
+scanf ("%d", &ano);
+if (ano == 1893)
+    
+    {
+      
+printf ("Montreal AAA");
+    
+}
+if (ano == 1894)
+    
+    {
+      
+printf ("Montreal AAA");
+    
+}
+if (ano == 1895)
+    
+    {
+      
+printf ("Montreal AAA");
+    
+}
+if (ano == 1896)
+    
+    {
+      
+printf ("Montreal Victorias e Winnipeg Victorias");
+    
+}
+if (ano == 1897)
+    
+    {
+      
+printf ("Montreal Victorias");
+    
+}
+if (ano == 1898)
+    
+    {
+      
+printf ("Montreal Victorias");
+    
+}
+if (ano == 1899)
+    
+    {
+      
+printf ("Montreal Shamrocks e Montreal Victorias");
+    
+}
+if (ano == 1900)
+    
+    {
+      
+printf ("Montreal Shamrocks");
+    
+}
+if (ano == 1901)
+    
+    {
+      
+printf ("Winnipeg Victorias");
+    
+}
+if (ano == 1902)
+    
+    {
+      
+printf ("Montreal AAA e Winnipeg Victorias");
+    
+}
+if (ano == 1903)
+    
+    {
+      
+printf ("Ottawa Silver Seven e Montreal AAA");
+    
+}
+if (ano == 1904)
+    
+    {
+      
+printf ("Ottawa Silver Seven");
+    
+}
+if (ano == 1905)
+    
+    {
+      
+printf ("Ottawa Silver Seven");
+    
+}
+if (ano == 1906)
+    
+    {
+      
+printf ("Montreal Wanderers e Ottawa Silver Seven");
+    
+}
+if (ano == 1907)
+    
+    {
+      
+printf ("Montreal Wanderers e Kenora Thistles");
+    
+}
+if (ano == 1908)
+    
+    {
+      
+printf ("Montreal Wanderers");
+    
+}
+if (ano == 1909)
+    
+    {
+      
+printf ("Ottawa Senators");
+    
+}
+if (ano == 1910)
+    
+    {
+      
+printf ("Montreal Wanderers e Ottawa Senators");
+    
+}
+if (ano == 1911)
+    
+    {
+      
+printf ("Ottawa Senators");
+    
+}
+if (ano == 1912)
+    
+    {
+      
+printf ("Quebec Bulldogs");
+    
+}
+if (ano == 1913)
+    
+    {
+      
+printf ("Quebec Bulldogs");
+    
+}
+if (ano == 1914)
+    
+    {
+      
+printf ("Vancouver Millionaires");
+    
+}
+if (ano == 1915)
+    
+    {
+      
+printf ("Montreal Canadiens");
+    
+}
+if (ano == 1916)
+    
+    {
+      
+printf ("Seattle Metropolitans");
+    
+}
+if (ano == 1917)
+    
+    {
+      
+printf ("Toronto Arenas");
+    
+}
+if (ano == 1918)
+    
+    {
+      
+printf ("Campeonato Cancelado");
+    
+}
+if (ano == 1919)
+    
+    {
+      
+printf ("Ottawa Senators");
+    
+}
+if (ano == 1920)
+    
+    {
+      
+printf ("Ottawa Senators");
+    
+}
+if (ano == 1921)
+    
+    {
+      
+printf ("Toronto St. Pats");
+    
+}
+if (ano == 1922)
+    
+    {
+      
+printf ("Ottawa Senators");
+    
+}
+if (ano == 1923)
+    
+    {
+      
+printf ("Montreal Canadiens");
+    
+}
+if (ano == 1924)
+    
+    {
+      
+printf ("Victoria Cougars");
+    
+}
+if (ano == 1925)
+    
+    {
+      
+printf ("Montreal Maroons");
+    
+}
+if (ano == 1926)
+    
+    {
+      
+printf ("Ottawa Senators");
+    
+}
+if (ano == 1927)
+    
+    {
+      
+printf ("New York Rangers");
+    
+}
+if (ano == 1928)
+    
+    {
+      
+printf ("Boston Bruins");
+    
+}
+if (ano == 1929)
+    
+    {
+      
+printf ("Montreal Canadiens");
+    
+}
+if (ano == 1930)
+    
+    {
+      
+printf ("Montreal Canadiens");
+    
+}
+if (ano == 1931)
+    
+    {
+      
+printf ("Toronto Maple Leafs");
+    
+}
+if (ano == 1932)
+    
+    {
+      
+printf ("New York Rangers");
+    
+    
+}
+if (ano == 1933)
+    
+    {
+      
+printf ("Chicago Black Hawks");
+    
+}
+if (ano == 1934)
+    
+    {
+      
+printf ("Montreal Maroons");
+    
+}
+if (ano == 1935)
+    
+    {
+      
+printf ("Detroit Red Wings");
+    
+}
+if (ano == 1936)
+    
+    {
+      
+printf ("Detroit Red Wings");
+    
+}
+if (ano == 1937)
+    
+    {
+      
+printf ("Chicago Blackhawks");
+    
+}
+if (ano == 1938)
+    
+    {
+      
+printf ("Boston Bruins");
+    
+}
+if (ano == 1939)
+    
+    {
+      
+printf ("New York Rangers");
+    
+}
+if (ano == 1940)
+    
+    {
+      
+printf ("Boston Bruins");
+    
+}
+if (ano == 1941)
+    
+    {
+      
+printf ("Toronto Maple Leafs");
+    
+}
+if (ano == 1942)
+    
+    {
+      
+printf ("Detroit Red Wings");
+    
+}
+if (ano == 1943)
+    
+    {
+      
+printf ("Montreal Canadiens");
+    
+}
+if (ano == 1944)
+    
+    {
+      
+printf ("Toronto Maple Leafs");
+    
+}
+if (ano == 1945)
+    
+    {
+      
+printf ("Montreal Canadiens");
+    
+}  
+if (ano == 1946)
+    
+    {
+      
+printf ("Toronto Maple Leafs");
+    
+}
+if (ano == 1947)
+    
+    {
+      
+printf ("Toronto Maple Leafs\n");
+    
+}
+  
+if (ano == 1948)
+    
+    {
+      
+printf ("Toronto Maple Leafs\n");
+    
+}
+  
+if (ano == 1949)
+    
+    {
+      
+printf ("Detroit Red Wings\n");
+    
+}
+  
+if (ano == 1950)
+    
+    {
+      
+printf ("Toronto Maple Leafs\n");
+    
+}
+  
+if (ano == 1951)
+    
+    {
+      
+printf ("Detroit Red Wings\n");
+    
+}
+  
+if (ano == 1952)
+    
+    {
+      
+printf ("Montreal Canadiens\n");
+    
+}
+  
+if (ano == 1953)
+    
+    {
+      
+printf ("Detroit Red Wings\n");
+    
+}
+  
+if (ano == 1954)
+    
+    {
+      
+printf ("Detroit Red Wings\n");
+    
+}
+  
+if (ano == 1955)
+    
+    {
+      
+printf ("Montreal Canadiens\n");
+    
+}
+  
+if (ano == 1956)
+    
+    {
+      
+printf ("Montreal Canadiens\n");
+    
+}
+  
+ 
+if (ano == 1957)
+    
+    {
+      
+printf ("Montreal Canadiens\n");
+    
+}
+  
+ 
+if (ano == 1958)
+    
+    {
+      
+printf ("Montreal Canadiens\n");
+    
+}
+  
+ 
+if (ano == 1959)
+    
+    {
+      
+printf ("Montreal Canadiens\n");
+    
+}
+  
+ 
+if (ano == 1960)
+    
+    {
+      
+printf ("Chicago Blackhawks\n");
+    
+}
+  
+ 
+if (ano == 1961)
+    
+    {
+      
+printf ("Toronto Maple Leafs\n");
+    
+}
+  
+ 
+if (ano == 1962)
+    
+    {
+      
+printf ("Toronto Maple Leafs\n");
+    
+}
+  
+ 
+if (ano == 1963)
+    
+    {
+      
+printf ("Toronto Maple Leafs\n");
+    
+}
+  
+ 
+if (ano == 1964)
+    
+    {
+      
+printf ("Montreal Canadiens\n");
+    
+}
+  
+if (ano == 1965)
+    
+    {
+      
+printf ("Montreal Canadiens\n");
+    
+}
+  
+ 
+if (ano == 1966)
+    
+    {
+      
+printf ("Toronto Maple Leafs\n");
+    
+}
+  
+ 
+if (ano == 1967)
+    
+    {
+      
+printf ("Montreal Canadiens\n");
+    
+}
+  
+ 
+if (ano == 1968)
+    
+    {
+      
+printf ("Montreal Canadiens\n");
+    
+}
+  
+ 
+if (ano == 1969)
+    
+    {
+      
+printf ("Boston Bruins\n");
+    
+}
+  
+if (ano == 1970)
+    
+    {
+      
+printf ("Montreal Canadiens\n");
+    
+}
+  
+ 
+if (ano == 1971)
+    
+    {
+      
+printf ("Boston Bruins\n");
+    
+}
+  
+ 
+if (ano == 1972)
+    
+    {
+      
+printf ("Montreal Canadiens\n");
+    
+}
+  
+ 
+if (ano == 1973)
+    
+    {
+      
+printf ("Philadelphia Flyers\n");
+    
+}
+  
+ 
+if (ano == 1974)
+    
+    {
+      
+printf ("Philadelphia Flyers\n");
+    
+}
+  
+ 
+if (ano == 1975)
+    
+    {
+      
+printf ("Montreal Canadiens\n");
+    
+}
+  
+ 
+if (ano == 1976)
+    
+    {
+      
+printf ("Montreal Canadiens\n");
+    
+}
+  
+ 
+if (ano == 1977)
+    
+    {
+      
+printf ("Montreal Canadiens\n");
+    
+}
+  
+if (ano == 1978)
+    
+    {
+      
+printf ("Montreal Canadiens\n");
+    
+}
+  
+ 
+if (ano == 1979)
+    
+    {
+      
+printf ("New York Islanders\n");
+    
+}
+  
+ 
+if (ano == 1980)
+    
+    {
+      
+printf ("New York Islanders\n");
+    
+}
+  
+ 
+if (ano == 1981)
+    
+    {
+      
+printf ("New York Islanders\n");
+    
+}
+  
+ 
+if (ano == 1982)
+    
+    {
+      
+printf ("New York Islanders\n");
+    
+}
+  
+if (ano == 1983)
+    
+    {
+      
+printf ("Edmonton Oilers\n");
+    
+}
+  
+ 
+if (ano == 1984)
+    
+    {
+      
+printf ("Edmonton Oilers\n");
+    
+}
+  
+ 
+if (ano == 1985)
+    
+    {
+      
+printf ("Montreal Canadiens\n");
+    
+}
+  
+ 
+if (ano == 1986)
+    
+    {
+      
+printf ("Edmonton Oilers\n");
+    
+}
+  
+ 
+if (ano == 1987)
+    
+    {
+      
+printf ("Edmonton Oilers\n");
+    
+}
+  
+ 
+if (ano == 1988)
+    
+    {
+      
+printf ("Calgary Flames\n");
+    
+}
+  
+ 
+if (ano == 1989)
+    
+    {
+      
+printf ("Edmonton Oilers\n");
+    
+}
+  
+ 
+if (ano == 1990)
+    
+    {
+      
+printf ("Pittsburgh Penguins\n");
+    
+}
+  
+if (ano == 1991)
+    
+    {
+      
+printf ("Pittsburgh Penguins\n");
+    
+}
+  
+ 
+if (ano == 1992)
+    
+    {
+      
+printf ("Montreal Canadiens\n");
+    
+}
+  
+ 
+if (ano == 1993)
+    
+    {
+      
+printf ("New York Rangers\n");
+    
+}
+  
+ 
+if (ano == 1994)
+    
+    {
+      
+printf ("New Jersey Devils\n");
+    
+}
+  
+ 
+if (ano == 1995)
+    
+    {
+      
+printf ("Colorado Avalanche\n");
+    
+}
+  
+ 
+if (ano == 1996)
+    
+    {
+      
+printf ("Detroit Red Wings\n");
+    
+}
+  
+ 
+if (ano == 1997)
+    
+    {
+      
+printf ("Detroit Red Wings\n");
+    
+}
+  
+ 
+if (ano == 1998)
+    
+    {
+      
+printf ("Dallas Stars\n");
+    
+}
+  
+ 
+if (ano == 1999)
+    
+    {
+      
+printf ("New Jersey Devils\n");
+    
+}
+  
+ 
+if (ano == 2000)
+    
+    {
+      
+printf ("Colorado Avalanche\n");
+    
+}
+  
+ 
+if (ano == 2001)
+    
+    {
+      
+printf ("Detroit Red Wings\n");
+    
+}
+  
+ 
+if (ano == 2002)
+    
+    {
+      
+printf ("New Jersey Devils\n");
+    
+}
+  
+ 
+if (ano == 2003)
+    
+    {
+      
+printf ("Tampa Bay Lightning\n");
+    
+}
+  
+if (ano == 2004)
+    
+    {
+      
+printf ("Não disputado\n");
+    
+}
+  
+ 
+if (ano == 2005)
+    
+    {
+      
+printf ("Carolina Hurricanes\n");
+    
+}
+  
+ 
+if (ano == 2006)
+    
+    {
+      
+printf ("Anaheim Ducks\n");
+    
+}
+  
+ 
+if (ano == 2007)
+    
+    {
+      
+printf ("Detroit Red Wings\n");
+    
+}
+  
+ 
+if (ano == 2008)
+    
+    {
+      
+printf ("Pittsburgh Penguins\n");
+    
+}
+  
+if (ano == 2009)
+    
+    {
+      
+printf ("Chicago Blackhawks\n");
+    
+}
+  
+ 
+if (ano == 2010)
+    
+    {
+      
+printf ("Boston Bruins\n");
+    
+}
+  
+ 
+if (ano == 2011)
+    
+    {
+      
+printf ("Los Angeles Kings\n");
+    
+}
+  
+ 
+if (ano == 2012)
+    
+    {
+      
+printf ("Chicago Blackhawks\n");
+    
+}
+  
+ 
+if (ano == 2013)
+    
+    {
+      
+printf ("Los Angeles Kings\n");
+    
+}
+  
+ 
+if (ano == 2014)
+    
+    {
+      
+printf ("Chicago Blackhawks\n");
+    
+}
+  
+ 
+if (ano == 2015)
+    
+    {
+      
+printf ("Pittsburgh Penguins\n");
+    
+}
+  
+ 
+if (ano == 2016)
+    
+    {
+      
+printf ("Pittsburgh Penguins\n");
+    
+}
+  
+if (ano == 2017)
+    
+    {
+      
+printf ("Washington Capitals\n");
+    
+}
+  
+ 
+if (ano == 2018)
+    
+    {
+      
+printf ("St. Louis Blues\n");
+    
+}
+  
+ 
+if (ano == 2019)
+    
+    {
+      
+printf ("Tampa Bay Lightning\n");
+    
+}
+  return(0);
+}
