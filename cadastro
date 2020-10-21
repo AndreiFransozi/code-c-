@@ -1,0 +1,23 @@
+//cadastro
+#include <stdio.h>
+#include <locale.h>
+#include <stdlib.h>
+char nome[50];
+int idade;
+int dia;
+char mes [15];
+int ano;
+int main(){
+    setlocale(LC_ALL, "Portuguese");
+
+    printf ("Digite o seu nome: ");
+    scanf ("%s", &nome);
+    printf ("Digite a sua idade: ");
+    scanf ("%d", &idade);
+    printf ("Digite o dia do seu nascimento: ");
+    scanf ("%d", &dia);
+    printf ("Digite o seu mes de nascimento: ");
+    scanf ("%s", &mes);
+    printf ("Digite o seu ano de nascimento: ");
+    scanf ("%s", &ano);
+}
