@@ -1,0 +1,89 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <locale.h>
+int ano;
+int main(){
+    setlocale(LC_ALL, "Portuguese");
+
+    printf ("Digite o ano do campeonato de LOL: ");
+    scanf ("%d", &ano);
+    if (ano == 2011)
+
+    {
+
+        printf ("Fnatic\n");
+
+    }
+
+
+    if (ano == 2012)
+
+    {
+
+        printf ("Taipei Assassins\n");
+
+    }
+
+
+    if (ano == 2013)
+
+    {
+
+        printf ("SK Telecom T1\n");
+
+    }
+
+
+    if (ano == 2014)
+
+    {
+
+        printf ("Samsung Galaxy White\n");
+
+    }
+
+
+    if (ano == 2015)
+
+    {
+
+        printf ("SK Telecom T1\n");
+
+    }
+
+
+    if (ano == 2016)
+
+    {
+
+        printf ("SK Telecom T1\n");
+
+    }
+
+    if (ano == 2017)
+
+    {
+
+        printf ("Samsung Galaxy\n");
+
+    }
+
+
+    if (ano == 2018)
+
+    {
+
+        printf ("Invictus Gaming\n");
+
+    }
+
+
+    if (ano == 2019)
+
+    {
+
+        printf ("FunPlus Phoenix\n");
+
+    }
+    return(0);
+}
