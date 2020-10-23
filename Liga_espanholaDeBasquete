@@ -1,0 +1,570 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <locale.h>
+int ano;
+int
+main ()
+{
+  setlocale (LC_ALL, "Portuguese");
+
+  printf ("Digite o ano do titulo da Liga Espanhola de Basketball ");
+  scanf ("%d", &ano);
+  if (ano == 1957)
+
+    {
+
+      printf ("Real Madrid\n");
+
+    }
+
+
+  if (ano == 1958)
+
+    {
+
+      printf ("FC Barcelona\n");
+
+    }
+
+
+  if (ano == 1959)
+
+    {
+
+      printf ("Real Madrid\n");
+
+    }
+
+
+  if (ano == 1960)
+
+    {
+
+      printf ("Real Madrid\n");
+
+    }
+
+
+  if (ano == 1961)
+
+    {
+
+      printf ("Real Madrid\n");
+
+    }
+
+
+  if (ano == 1962)
+
+    {
+
+      printf ("Real Madrid\n");
+
+    }
+
+
+  if (ano == 1963)
+
+    {
+
+      printf ("Real Madrid\n");
+
+    }
+
+
+  if (ano == 1964)
+
+    {
+
+      printf ("Real Madrid\n");
+
+    }
+
+  if (ano == 1965)
+
+    {
+
+      printf ("Real Madrid\n");
+
+    }
+
+
+  if (ano == 1966)
+
+    {
+
+      printf ("Joventut de Badalona\n");
+
+    }
+
+
+  if (ano == 1967)
+
+    {
+
+      printf ("Real Madrid\n");
+
+    }
+
+
+  if (ano == 1968)
+
+    {
+
+      printf ("Real Madrid\n");
+
+    }
+
+
+  if (ano == 1969)
+
+    {
+
+      printf ("Real Madrid\n");
+
+    }
+
+  if (ano == 1970)
+
+    {
+
+      printf ("Real Madrid\n");
+
+    }
+
+
+  if (ano == 1971)
+
+    {
+
+      printf ("Real Madrid\n");
+
+    }
+
+
+  if (ano == 1972)
+
+    {
+
+      printf ("Real Madrid\n");
+
+    }
+
+
+  if (ano == 1973)
+
+    {
+
+      printf ("Real Madrid\n");
+
+    }
+
+
+  if (ano == 1974)
+
+    {
+
+      printf ("Real Madrid\n");
+
+    }
+
+
+  if (ano == 1975)
+
+    {
+
+      printf ("Real Madrid\n");
+
+    }
+
+
+  if (ano == 1976)
+
+    {
+
+      printf ("Real Madrid\n");
+
+    }
+
+
+  if (ano == 1977)
+
+    {
+
+      printf ("Joventut de Badalona\n");
+
+    }
+
+  if (ano == 1978)
+
+    {
+
+      printf ("Real Madrid\n");
+
+    }
+
+
+  if (ano == 1979)
+
+    {
+
+      printf ("Real Madrid\n");
+
+    }
+
+
+  if (ano == 1980)
+
+    {
+
+      printf ("FC Barcelona\n");
+
+    }
+
+
+  if (ano == 1981)
+
+    {
+
+      printf ("Real Madrid\n");
+
+    }
+
+
+  if (ano == 1982)
+
+    {
+
+      printf ("FC Barcelona\n");
+
+    }
+
+  if (ano == 1983)
+
+    {
+
+      printf ("Real Madrid\n");
+
+    }
+
+
+  if (ano == 1984)
+
+    {
+
+      printf ("Real Madrid\n");
+
+    }
+
+
+  if (ano == 1985)
+
+    {
+
+      printf ("Real Madrid\n");
+
+    }
+
+
+  if (ano == 1986)
+
+    {
+
+      printf ("FC Barcelona\n");
+
+    }
+
+
+  if (ano == 1987)
+
+    {
+
+      printf ("FC Barcelona\n");
+
+    }
+
+
+  if (ano == 1988)
+
+    {
+
+      printf ("FC Barcelona\n");
+
+    }
+
+
+  if (ano == 1989)
+
+    {
+
+      printf ("FC Barcelona\n");
+
+    }
+
+
+  if (ano == 1990)
+
+    {
+
+      printf ("Joventut de Badalona\n");
+
+    }
+
+  if (ano == 1991)
+
+    {
+
+      printf ("Joventut de Badalona\n");
+
+    }
+
+
+  if (ano == 1992)
+
+    {
+
+      printf ("Real Madrid\n");
+
+    }
+
+
+  if (ano == 1993)
+
+    {
+
+      printf ("Real Madrid\n");
+
+    }
+
+
+  if (ano == 1994)
+
+    {
+
+      printf ("FC Barcelona\n");
+
+    }
+
+
+  if (ano == 1995)
+
+    {
+
+      printf ("FC Barcelona\n");
+
+    }
+
+
+  if (ano == 1996)
+
+    {
+
+      printf ("FC Barcelona\n");
+
+    }
+
+
+  if (ano == 1997)
+
+    {
+
+      printf ("BC squet Manresa\n");
+
+    }
+
+
+  if (ano == 1998)
+
+    {
+
+      printf ("FC Barcelona\n");
+
+    }
+
+
+  if (ano == 1999)
+
+    {
+
+      printf ("Real Madrid\n");
+
+    }
+
+
+  if (ano == 2000)
+
+    {
+
+      printf ("FC Barcelona\n");
+
+    }
+
+
+  if (ano == 2001)
+
+    {
+
+      printf ("Caja Laboral Baskonia\n");
+
+    }
+
+
+  if (ano == 2002)
+
+    {
+
+      printf ("FC Barcelona\n");
+
+    }
+
+
+  if (ano == 2003)
+
+    {
+
+      printf ("FC Barcelona\n");
+
+    }
+
+  if (ano == 2004)
+
+    {
+
+      printf ("Real Madrid\n");
+
+    }
+
+
+  if (ano == 2005)
+
+    {
+
+      printf ("Unicaja MC!laga\n");
+
+    }
+
+
+  if (ano == 2006)
+
+    {
+
+      printf ("Real Madrid\n");
+
+    }
+
+
+  if (ano == 2007)
+
+    {
+
+      printf ("Real Madrid\n");
+
+    }
+
+
+  if (ano == 2008)
+
+    {
+
+      printf ("FC Barcelona\n");
+
+    }
+
+  if (ano == 2009)
+
+    {
+
+      printf ("Caja Laboral Baskonia\n");
+
+    }
+
+
+  if (ano == 2010)
+
+    {
+
+      printf ("FC Barcelona\n");
+
+    }
+
+
+  if (ano == 2011)
+
+    {
+
+      printf ("FC Barcelona\n");
+
+    }
+
+
+  if (ano == 2012)
+
+    {
+
+      printf ("Real Madrid\n");
+
+    }
+
+
+  if (ano == 2013)
+
+    {
+
+      printf ("FC Barcelona\n");
+
+    }
+
+
+  if (ano == 2014)
+
+    {
+
+      printf ("Real Madrid\n");
+
+    }
+
+
+  if (ano == 2015)
+
+    {
+
+      printf ("Real Madrid\n");
+
+    }
+
+
+  if (ano == 2016)
+
+    {
+
+      printf ("Valencia\n");
+
+    }
+
+  if (ano == 2017)
+
+    {
+
+      printf ("Real Madrid\n");
+
+    }
+
+
+  if (ano == 2018)
+
+    {
+
+      printf ("Real Madrid\n");
+
+    }
+
+
+  if (ano == 2019)
+
+    {
+
+      printf ("Caja Laboral Baskonia\n");
+
+    }
+  return (0);
+}
