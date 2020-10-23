@@ -1,0 +1,222 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <locale.h>
+int ano;
+int main(){
+setlocale(LC_ALL, "Portuguese");
+
+printf ("Digite o ano do titulo da MLS: ");
+scanf ("%d", &ano);
+if (ano == 1996)
+    
+    {
+      
+printf ("Dc United\n");
+    
+}
+  
+ 
+if (ano == 1997)
+    
+    {
+      
+printf ("Dc United\n");
+    
+}
+  
+ 
+if (ano == 1998)
+    
+    {
+      
+printf ("Chicago Fire\n");
+    
+}
+  
+ 
+if (ano == 1999)
+    
+    {
+      
+printf ("Dc United\n");
+    
+}
+  
+ 
+if (ano == 2000)
+    
+    {
+      
+printf ("Kansas City Wizards\n");
+    
+}
+  
+ 
+if (ano == 2001)
+    
+    {
+      
+printf ("San José Earthquakes\n");
+    
+}
+  
+ 
+if (ano == 2002)
+    
+    {
+      
+printf ("Los Angeles Galaxy\n");
+    
+}
+  
+ 
+if (ano == 2003)
+    
+    {
+      
+printf ("San José Earthquakes\n");
+    
+}
+  
+if (ano == 2004)
+    
+    {
+      
+printf ("DC United\n");
+    
+}
+  
+ 
+if (ano == 2005)
+    
+    {
+      
+printf ("Los Angeles Galaxy\n");
+    
+}
+  
+ 
+if (ano == 2006)
+    
+    {
+      
+printf ("Houston Dynamo\n");
+    
+}
+  
+ 
+if (ano == 2007)
+    
+    {
+      
+printf ("Houston Dynamo\n");
+    
+}
+  
+ 
+if (ano == 2008)
+    
+    {
+      
+printf ("Columbus Crew\n");
+    
+}
+  
+if (ano == 2009)
+    
+    {
+      
+printf ("Real Salt Lake\n");
+    
+}
+  
+ 
+if (ano == 2010)
+    
+    {
+      
+printf ("Colorado Rapids\n");
+    
+}
+  
+ 
+if (ano == 2011)
+    
+    {
+      
+printf ("Los Angeles Galaxy\n");
+    
+}
+  
+ 
+if (ano == 2012)
+    
+    {
+      
+printf ("Los Angeles Galaxy\n");
+    
+}
+  
+ 
+if (ano == 2013)
+    
+    {
+      
+printf ("Sporting Kansas City\n");
+    
+}
+  
+ 
+if (ano == 2014)
+    
+    {
+      
+printf ("Los Angeles Galaxy\n");
+    
+}
+  
+ 
+if (ano == 2015)
+    
+    {
+      
+printf ("Portland Timbers\n");
+    
+}
+  
+ 
+if (ano == 2016)
+    
+    {
+      
+printf ("Seattle Sounders FC\n");
+    
+}
+  
+if (ano == 2017)
+    
+    {
+      
+printf ("Toronto FC\n");
+    
+}
+  
+ 
+if (ano == 2018)
+    
+    {
+      
+printf ("Atlanta United FC\n");
+    
+}
+  
+ 
+if (ano == 2019)
+    
+    {
+      
+printf ("Seattle Sounders FC\n");
+    
+}
+  return(0);
+}
