@@ -1,0 +1,3707 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <locale.h>
+int nationaldex;
+int main(){
+    setlocale(LC_ALL, "Portuguese");
+
+    printf ("Digite o numero da pokedex: ");
+    scanf ("%d", &nationaldex);
+    if (nationaldex == 1)
+    {
+        printf ("Bulbasaur\n");
+    }
+    if (nationaldex == 2)
+    {
+        printf ("Ivysaur\n");
+    }
+    if (nationaldex == 3)
+    {
+        printf ("Venusaur\n");
+    }
+    if (nationaldex == 4)
+    {
+        printf ("Charmander\n");
+    }
+    if (nationaldex == 5)
+    {
+        printf ("Charmeleon\n");
+    }
+    if (nationaldex == 6)
+    {
+        printf ("Charizard\n");
+    }
+    if (nationaldex == 7)
+    {
+        printf ("Squirtle\n");
+    }
+    if (nationaldex == 8)
+
+    {
+        printf ("Wartortle\n");
+    }
+    if (nationaldex == 9)
+    {
+        printf ("Blastoise\n");
+    }
+    if (nationaldex == 10)
+    {
+        printf ("Caterpie\n");
+    }
+    if (nationaldex == 11)
+    {
+        printf ("Metapod\n");
+    }
+    if (nationaldex == 12)
+    {
+        printf ("Butterfree\n");
+    }
+    if (nationaldex == 13)
+    {
+        printf ("Weedle\n");
+    }
+    if (nationaldex == 14)
+    {
+        printf ("Kakuna\n");
+    }
+    if (nationaldex == 15)
+    {
+        printf ("Beedrill\n");
+    }
+    if (nationaldex == 16)
+
+    {
+        printf ("Pidgey\n");
+    }
+    if (nationaldex == 17)
+    {
+        printf ("Pidgeotto\n");
+    }
+    if (nationaldex == 18)
+    {
+        printf ("Pidgeot\n");
+    }
+    if (nationaldex == 19)
+    {
+        printf ("Rattata\n");
+    }
+    if (nationaldex == 20)
+    {
+        printf ("Raticate\n");
+    }
+    if (nationaldex == 21)
+    {
+        printf ("Spearow\n");
+    }
+    if (nationaldex == 22)
+    {
+        printf ("Fearow\n");
+    }
+    if (nationaldex == 23)
+    {
+        printf ("Ekans\n");
+    }
+    if (nationaldex == 24)
+
+    {
+        printf ("Arbok\n");
+    }
+    if (nationaldex == 25)
+    {
+        printf ("Pikachu\n");
+    }
+    if (nationaldex == 26)
+    {
+        printf ("Raichu\n");
+    }
+    if (nationaldex == 27)
+    {
+        printf ("Sandshrew\n");
+    }
+    if (nationaldex == 28)
+    {
+        printf ("Sandslash\n");
+    }
+    if (nationaldex == 29)
+    {
+        printf ("Nidoran♀\n");
+    }
+    if (nationaldex == 30)
+    {
+        printf ("Nidorina\n");
+    }
+    if (nationaldex == 31)
+    {
+        printf ("Nidoqueen\n");
+    }
+    if (nationaldex == 32)
+
+    {
+        printf ("Nidoran♂\n");
+    }
+    if (nationaldex == 33)
+    {
+        printf ("Nidorino\n");
+    }
+    if (nationaldex == 34)
+    {
+        printf ("Nidoking\n");
+    }
+    if (nationaldex == 35)
+    {
+        printf ("Clefairy\n");
+    }
+    if (nationaldex == 36)
+    {
+        printf ("Clefable\n");
+    }
+    if (nationaldex == 37)
+    {
+        printf ("Vulpix\n");
+    }
+    if (nationaldex == 38)
+    {
+        printf ("Ninetales\n");
+    }
+    if (nationaldex == 39)
+    {
+        printf ("Jigglypuff\n");
+    }
+    if (nationaldex == 40)
+
+    {
+        printf ("Wigglytuff\n");
+    }
+    if (nationaldex == 41)
+    {
+        printf ("Zubat\n");
+    }
+    if (nationaldex == 42)
+    {
+        printf ("Golbat\n");
+    }
+    if (nationaldex == 43)
+    {
+        printf ("Oddish\n");
+    }
+    if (nationaldex == 44)
+    {
+        printf ("Gloom\n");
+    }
+    if (nationaldex == 45)
+    {
+        printf ("Vileplume\n");
+    }
+    if (nationaldex == 46)
+    {
+        printf ("Paras\n");
+    }
+    if (nationaldex == 47)
+    {
+        printf ("Parasect\n");
+    }
+    if (nationaldex == 48)
+
+    {
+        printf ("Venonat\n");
+    }
+    if (nationaldex == 49)
+    {
+        printf ("Venomoth\n");
+    }
+    if (nationaldex == 50)
+    {
+        printf ("Diglett\n");
+    }
+    if (nationaldex == 51)
+    {
+        printf ("Dugtrio\n");
+    }
+    if (nationaldex == 52)
+    {
+        printf ("Meowth\n");
+    }
+    if (nationaldex == 53)
+    {
+        printf ("Persian\n");
+    }
+    if (nationaldex == 54)
+    {
+        printf ("Psyduck\n");
+    }
+    if (nationaldex == 55)
+    {
+        printf ("Golduck\n");
+    }
+    if (nationaldex == 56)
+
+    {
+        printf ("Mankey\n");
+    }
+    if (nationaldex == 57)
+    {
+        printf ("Primeape\n");
+    }
+    if (nationaldex == 58)
+    {
+        printf ("Growlithe\n");
+    }
+    if (nationaldex == 59)
+    {
+        printf ("Arcanine\n");
+    }
+    if (nationaldex == 60)
+    {
+        printf ("Poliwag\n");
+    }
+    if (nationaldex == 61)
+    {
+        printf ("Poliwhirl\n");
+    }
+    if (nationaldex == 62)
+    {
+        printf ("Poliwrath\n");
+    }
+    if (nationaldex == 63)
+    {
+        printf ("Abra\n");
+    }
+    if (nationaldex == 64)
+
+    {
+        printf ("Kadabra\n");
+    }
+    if (nationaldex == 65)
+    {
+        printf ("Alakazam\n");
+    }
+    if (nationaldex == 66)
+    {
+        printf ("Machop\n");
+    }
+    if (nationaldex == 67)
+    {
+        printf ("Machoke\n");
+    }
+    if (nationaldex == 68)
+    {
+        printf ("Machamp\n");
+    }
+    if (nationaldex == 69)
+    {
+        printf ("Bellsprout\n");
+    }
+    if (nationaldex == 70)
+    {
+        printf ("Weepinbell\n");
+    }
+    if (nationaldex == 71)
+    {
+        printf ("Victreebel\n");
+    }
+    if (nationaldex == 72)
+
+    {
+        printf ("Tentacool\n");
+    }
+    if (nationaldex == 73)
+    {
+        printf ("Tentacruel\n");
+    }
+    if (nationaldex == 74)
+    {
+        printf ("Geodude\n");
+    }
+    if (nationaldex == 75)
+    {
+        printf ("Graveler\n");
+    }
+    if (nationaldex == 76)
+    {
+        printf ("Golem\n");
+    }
+    if (nationaldex == 77)
+    {
+        printf ("Ponyta\n");
+    }
+    if (nationaldex == 78)
+    {
+        printf ("Rapidash\n");
+    }
+    if (nationaldex == 79)
+    {
+        printf ("Slowpoke\n");
+    }
+    if (nationaldex == 80)
+
+    {
+        printf ("Slowbro\n");
+    }
+    if (nationaldex == 81)
+    {
+        printf ("Magnemite\n");
+    }
+    if (nationaldex == 82)
+    {
+        printf ("Magneton\n");
+    }
+    if (nationaldex == 83)
+    {
+        printf ("Farfetch'd\n");
+    }
+    if (nationaldex == 84)
+    {
+        printf ("Doduo\n");
+    }
+    if (nationaldex == 85)
+    {
+        printf ("Dodrio\n");
+    }
+    if (nationaldex == 86)
+    {
+        printf ("Seel\n");
+    }
+    if (nationaldex == 87)
+    {
+        printf ("Dewgong\n");
+    }
+    if (nationaldex == 88)
+
+    {
+        printf ("Grimer\n");
+    }
+    if (nationaldex == 89)
+    {
+        printf ("Muk\n");
+    }
+    if (nationaldex == 90)
+    {
+        printf ("Shellder\n");
+    }
+    if (nationaldex == 91)
+    {
+        printf ("Cloyster\n");
+    }
+    if (nationaldex == 92)
+    {
+        printf ("gastly\n");
+    }
+    if (nationaldex == 93)
+    {
+        printf ("Haunter\n");
+    }
+    if (nationaldex == 94)
+    {
+        printf ("Gengar\n");
+    }
+    if (nationaldex == 95)
+    {
+        printf ("Onix\n");
+    }
+    if (nationaldex == 96)
+
+    {
+        printf ("Drowzee\n");
+    }
+    if (nationaldex == 97)
+    {
+        printf ("Hypno\n");
+    }
+    if (nationaldex == 98)
+    {
+        printf ("Krabby\n");
+    }
+    if (nationaldex == 99)
+    {
+        printf ("Kingler\n");
+    }
+    if (nationaldex == 100)
+    {
+        printf ("Voltorb\n");
+    }
+        if (nationaldex == 101)
+        {
+            printf ("Electrode\n");
+        }
+        if (nationaldex == 102)
+        {
+            printf ("Exeggcute\n");
+        }
+        if (nationaldex == 103)
+        {
+            printf ("Exeggutor\n");
+        }
+        if (nationaldex == 104)
+        {
+            printf ("Cubone\n");
+        }
+        if (nationaldex == 105)
+        {
+            printf ("Marowak\n");
+        }
+        if (nationaldex == 106)
+        {
+            printf ("Hitmonlee\n");
+        }
+        if (nationaldex == 107)
+        {
+            printf ("Hitmonchan\n");
+        }
+        if (nationaldex == 108)
+
+        {
+            printf ("Lickitung\n");
+        }
+        if (nationaldex == 109)
+        {
+            printf ("Koffing\n");
+        }
+        if (nationaldex == 110)
+        {
+            printf ("weezing\n");
+        }
+        if (nationaldex == 111)
+        {
+            printf ("Rhyhorn\n");
+        }
+        if (nationaldex == 112)
+        {
+            printf ("Rhydon\n");
+        }
+        if (nationaldex == 113)
+        {
+            printf ("Chansey\n");
+        }
+        if (nationaldex == 114)
+        {
+            printf ("Tangela\n");
+        }
+        if (nationaldex == 115)
+        {
+            printf ("Kangaskhan\n");
+        }
+        if (nationaldex == 116)
+
+        {
+            printf ("Horsea\n");
+        }
+        if (nationaldex == 117)
+        {
+            printf ("Seadra\n");
+        }
+        if (nationaldex == 118)
+        {
+            printf ("Goldeen");
+        }
+        if (nationaldex == 119)
+        {
+            printf ("Seaking\n");
+        }
+        if (nationaldex == 120)
+        {
+            printf ("Staryu\n");
+        }
+        if (nationaldex == 121)
+        {
+            printf ("Starmie\n");
+        }
+        if (nationaldex == 122)
+        {
+            printf ("Mr. Mime\n");
+        }
+        if (nationaldex == 123)
+        {
+            printf ("Scyther\n");
+        }
+        if (nationaldex == 124)
+
+        {
+            printf ("Jynx\n");
+        }
+        if (nationaldex == 125)
+        {
+            printf ("Electabuzz\n");
+        }
+        if (nationaldex == 126)
+        {
+            printf ("Magmar\n");
+        }
+        if (nationaldex == 127)
+        {
+            printf ("Pinsir\n");
+        }
+        if (nationaldex == 128)
+        {
+            printf ("Tauros\n");
+        }
+        if (nationaldex == 129)
+        {
+            printf ("Magikarp\n");
+        }
+        if (nationaldex == 130)
+        {
+            printf ("Gyarados\n");
+        }
+        if (nationaldex == 131)
+        {
+            printf ("Lapras\n");
+        }
+        if (nationaldex == 132)
+
+        {
+            printf ("Ditto\n");
+        }
+        if (nationaldex == 133)
+        {
+            printf ("Eevee\n");
+        }
+        if (nationaldex == 134)
+        {
+            printf ("Vaporeon\n");
+        }
+        if (nationaldex == 135)
+        {
+            printf ("Jolteon\n");
+        }
+        if (nationaldex == 136)
+        {
+            printf ("Flareon\n");
+        }
+        if (nationaldex == 137)
+        {
+            printf ("Porygon\n");
+        }
+        if (nationaldex == 138)
+        {
+            printf ("Omanyte\n");
+        }
+        if (nationaldex == 139)
+        {
+            printf ("Omastar\n");
+        }
+        if (nationaldex == 140)
+
+        {
+            printf ("Kabuto\n");
+        }
+        if (nationaldex == 141)
+        {
+            printf ("Kabutops\n");
+        }
+        if (nationaldex == 142)
+        {
+            printf ("Aerodactyl\n");
+        }
+        if (nationaldex == 143)
+        {
+            printf ("Snorlax\n");
+        }
+        if (nationaldex == 144)
+        {
+            printf ("Articuno\n");
+        }
+        if (nationaldex == 145)
+        {
+            printf ("Zapdos\n");
+        }
+        if (nationaldex == 146)
+        {
+            printf ("Moltres\n");
+        }
+        if (nationaldex == 147)
+        {
+            printf ("Dratini\n");
+        }
+        if (nationaldex == 148)
+
+        {
+            printf ("Dragonair\n");
+        }
+        if (nationaldex == 149)
+        {
+            printf ("Dragonite\n");
+        }
+        if (nationaldex == 150)
+        {
+            printf ("Mewtwo\n");
+        }
+        if (nationaldex == 151)
+        {
+            printf ("Mew\n");
+        }
+        if (nationaldex == 152)
+        {
+            printf ("Chikorita\n");
+        }
+        if (nationaldex == 153)
+        {
+            printf ("Bayleef\n");
+        }
+        if (nationaldex == 154)
+        {
+            printf ("Meganium\n");
+        }
+        if (nationaldex == 155)
+        {
+            printf ("Cyndaquil \n");
+        }
+        if (nationaldex == 156)
+
+        {
+            printf ("Quilava\n");
+        }
+        if (nationaldex == 157)
+        {
+            printf ("Typhlosion\n");
+        }
+        if (nationaldex == 158)
+        {
+            printf ("Totodile\n");
+        }
+        if (nationaldex == 159)
+        {
+            printf ("Croconaw\n");
+        }
+        if (nationaldex == 160)
+        {
+            printf ("Feraligatr\n");
+        }
+        if (nationaldex == 161)
+        {
+            printf ("Sentret\n");
+        }
+        if (nationaldex == 162)
+        {
+            printf ("Furret\n");
+        }
+        if (nationaldex == 163)
+        {
+            printf ("Hoothoot\n");
+        }
+        if (nationaldex == 164)
+
+        {
+            printf ("Noctowl\n");
+        }
+        if (nationaldex == 165)
+        {
+            printf ("Ledyba\n");
+        }
+        if (nationaldex == 166)
+        {
+            printf ("Ledian\n");
+        }
+        if (nationaldex == 167)
+        {
+            printf ("Spinarak\n");
+        }
+        if (nationaldex == 168)
+        {
+            printf ("Ariados\n");
+        }
+        if (nationaldex == 169)
+        {
+            printf ("Crobat\n");
+        }
+        if (nationaldex == 170)
+        {
+            printf ("Chinchou\n");
+        }
+        if (nationaldex == 171)
+        {
+            printf ("Lanturn\n");
+        }
+        if (nationaldex == 172)
+
+        {
+            printf ("Pichu\n");
+        }
+        if (nationaldex == 173)
+        {
+            printf ("Cleffa\n");
+        }
+        if (nationaldex == 174)
+        {
+            printf ("Igglybuff\n");
+        }
+        if (nationaldex == 175)
+        {
+            printf ("Togepi\n");
+        }
+        if (nationaldex == 176)
+        {
+            printf ("Togetic\n");
+        }
+        if (nationaldex == 177)
+        {
+            printf ("Natu\n");
+        }
+        if (nationaldex == 178)
+        {
+            printf ("Xatu\n");
+        }
+        if (nationaldex == 179)
+        {
+            printf ("Mareep\n");
+        }
+        if (nationaldex == 180)
+
+        {
+            printf ("Flaaffy\n");
+        }
+        if (nationaldex == 181)
+        {
+            printf ("Ampharos\n");
+        }
+        if (nationaldex == 182)
+        {
+            printf ("Bellossom\n");
+        }
+        if (nationaldex == 183)
+        {
+            printf ("Marill\n");
+        }
+        if (nationaldex == 184)
+        {
+            printf ("Azumarill\n");
+        }
+        if (nationaldex == 185)
+        {
+            printf ("Sudowoodo\n");
+        }
+        if (nationaldex == 186)
+        {
+            printf ("Politoed\n");
+        }
+        if (nationaldex == 187)
+        {
+            printf ("Hoppip\n");
+        }
+        if (nationaldex == 188)
+
+        {
+            printf ("Skiploom\n");
+        }
+        if (nationaldex == 189)
+        {
+            printf ("Jumpluff\n");
+        }
+        if (nationaldex == 190)
+        {
+            printf ("Aipom\n");
+        }
+        if (nationaldex == 191)
+        {
+            printf ("Sunkern\n");
+        }
+        if (nationaldex == 192)
+        {
+            printf ("Sunflora\n");
+        }
+        if (nationaldex == 193)
+        {
+            printf ("Yanma\n");
+        }
+        if (nationaldex == 194)
+        {
+            printf ("Wooper\n");
+        }
+        if (nationaldex == 195)
+        {
+            printf ("Quagsire\n");
+        }
+        if (nationaldex == 196)
+
+        {
+            printf ("Espeon\n");
+        }
+        if (nationaldex == 197)
+        {
+            printf ("Umbreon\n");
+        }
+        if (nationaldex == 198)
+        {
+            printf ("Murkrow\n");
+        }
+        if (nationaldex == 199)
+        {
+            printf ("Slowking\n");
+        }
+        if (nationaldex == 200)
+        {
+            printf ("Misdreavus\n");
+        }
+            if (nationaldex == 201)
+            {
+                printf ("Unown\n");
+            }
+            if (nationaldex == 202)
+            {
+                printf ("Wobbuffet\n");
+            }
+            if (nationaldex == 203)
+            {
+                printf ("Girafarig\n");
+            }
+            if (nationaldex == 204)
+            {
+                printf ("Pineco\n");
+            }
+            if (nationaldex == 205)
+            {
+                printf ("Forretress\n");
+            }
+            if (nationaldex == 206)
+            {
+                printf ("Dunsparce\n");
+            }
+            if (nationaldex == 207)
+            {
+                printf ("Gligar\n");
+            }
+            if (nationaldex == 208)
+
+            {
+                printf ("Steelix\n");
+            }
+            if (nationaldex == 209)
+            {
+                printf ("Snubbull\n");
+            }
+            if (nationaldex == 210)
+            {
+                printf ("Granbull\n");
+            }
+            if (nationaldex == 211)
+            {
+                printf ("Qwilfish\n");
+            }
+            if (nationaldex == 212)
+            {
+                printf ("Scizor\n");
+            }
+            if (nationaldex == 213)
+            {
+                printf ("Shuckle\n");
+            }
+            if (nationaldex == 214)
+            {
+                printf ("Heracross\n");
+            }
+            if (nationaldex == 215)
+            {
+                printf ("Sneasel\n");
+            }
+            if (nationaldex == 216)
+
+            {
+                printf ("Teddiursa\n");
+            }
+            if (nationaldex == 217)
+            {
+                printf ("Ursaring\n");
+            }
+            if (nationaldex == 218)
+            {
+                printf ("Slugma\n");
+            }
+            if (nationaldex == 219)
+            {
+                printf ("Magcargo\n");
+            }
+            if (nationaldex == 220)
+            {
+                printf ("Swinub\n");
+            }
+            if (nationaldex == 221)
+            {
+                printf ("Piloswine\n");
+            }
+            if (nationaldex == 222)
+            {
+                printf ("Corsola\n");
+            }
+            if (nationaldex == 223)
+            {
+                printf ("Remoraid\n");
+            }
+            if (nationaldex == 224)
+
+            {
+                printf ("Octillery\n");
+            }
+            if (nationaldex == 225)
+            {
+                printf ("Delibird\n");
+            }
+            if (nationaldex == 226)
+            {
+                printf ("Mantine\n");
+            }
+            if (nationaldex == 227)
+            {
+                printf ("Skarmory\n");
+            }
+            if (nationaldex == 228)
+            {
+                printf ("Houndour\n");
+            }
+            if (nationaldex == 229)
+            {
+                printf ("Houndoom\n");
+            }
+            if (nationaldex == 230)
+            {
+                printf ("Kingdra\n");
+            }
+            if (nationaldex == 231)
+            {
+                printf ("Phanpy\n");
+            }
+            if (nationaldex == 232)
+
+            {
+                printf ("Donphan\n");
+            }
+            if (nationaldex == 233)
+            {
+                printf ("Porygon2\n");
+            }
+            if (nationaldex == 234)
+            {
+                printf ("Stantler\n");
+            }
+            if (nationaldex == 235)
+            {
+                printf ("Smeargle\n");
+            }
+            if (nationaldex == 236)
+            {
+                printf ("Tyrogue\n");
+            }
+            if (nationaldex == 237)
+            {
+                printf ("Hitmontop\n");
+            }
+            if (nationaldex == 238)
+            {
+                printf ("Smoochum\n");
+            }
+            if (nationaldex == 239)
+            {
+                printf ("Elekid\n");
+            }
+            if (nationaldex == 240)
+
+            {
+                printf ("Magby\n");
+            }
+            if (nationaldex == 241)
+            {
+                printf ("Miltank\n");
+            }
+            if (nationaldex == 242)
+            {
+                printf ("Blissey\n");
+            }
+            if (nationaldex == 243)
+            {
+                printf ("Raikou\n");
+            }
+            if (nationaldex == 244)
+            {
+                printf ("Entei\n");
+            }
+            if (nationaldex == 245)
+            {
+                printf ("Suicune\n");
+            }
+            if (nationaldex == 246)
+            {
+                printf ("Larvitar\n");
+            }
+            if (nationaldex == 247)
+            {
+                printf ("Pupitar\n");
+            }
+            if (nationaldex == 248)
+
+            {
+                printf ("Tyranitar\n");
+            }
+            if (nationaldex == 249)
+            {
+                printf ("Lugia\n");
+            }
+            if (nationaldex == 250)
+            {
+                printf ("Ho-Oh\n");
+            }
+            if (nationaldex == 251)
+            {
+                printf ("Celebi\n");
+            }
+            if (nationaldex == 252)
+            {
+                printf ("Treecko\n");
+            }
+            if (nationaldex == 253)
+            {
+                printf ("Grovyle\n");
+            }
+            if (nationaldex == 254)
+            {
+                printf ("Sceptile\n");
+            }
+            if (nationaldex == 255)
+            {
+                printf ("Torchic\n");
+            }
+            if (nationaldex == 256)
+
+            {
+                printf ("Combusken\n");
+            }
+            if (nationaldex == 257)
+            {
+                printf ("Blaziken\n");
+            }
+            if (nationaldex == 258)
+            {
+                printf ("Mudkip\n");
+            }
+            if (nationaldex == 259)
+            {
+                printf ("Marshtomp\n");
+            }
+            if (nationaldex == 260)
+            {
+                printf ("Swampert\n");
+            }
+            if (nationaldex == 261)
+            {
+                printf ("Poochyena\n");
+            }
+            if (nationaldex == 262)
+            {
+                printf ("Mightyena\n");
+            }
+            if (nationaldex == 263)
+            {
+                printf ("Zigzagoon\n");
+            }
+            if (nationaldex == 264)
+
+            {
+                printf ("Linoone\n");
+            }
+            if (nationaldex == 265)
+            {
+                printf ("Wurmple\n");
+            }
+            if (nationaldex == 266)
+            {
+                printf ("ilcoon\n");
+            }
+            if (nationaldex == 267)
+            {
+                printf ("Beautifly\n");
+            }
+            if (nationaldex == 268)
+            {
+                printf ("Cascoon\n");
+            }
+            if (nationaldex == 269)
+            {
+                printf ("Dustox\n");
+            }
+            if (nationaldex == 270)
+            {
+                printf ("Lotad\n");
+            }
+            if (nationaldex == 271)
+            {
+                printf ("Lombre\n");
+            }
+            if (nationaldex == 272)
+
+            {
+                printf ("Ludicolo\n");
+            }
+            if (nationaldex == 273)
+            {
+                printf ("Seedot\n");
+            }
+            if (nationaldex == 274)
+            {
+                printf ("Nuzleaf\n");
+            }
+            if (nationaldex == 275)
+            {
+                printf ("Shiftry\n");
+            }
+            if (nationaldex == 276)
+            {
+                printf ("Taillow\n");
+            }
+            if (nationaldex == 277)
+            {
+                printf ("Swellow\n");
+            }
+            if (nationaldex == 278)
+            {
+                printf ("Wingull\n");
+            }
+            if (nationaldex == 279)
+            {
+                printf ("Pelipper\n");
+            }
+            if (nationaldex == 280)
+
+            {
+                printf ("Ralts\n");
+            }
+            if (nationaldex == 281)
+            {
+                printf ("Kirlia\n");
+            }
+            if (nationaldex == 282)
+            {
+                printf ("Gardevoir\n");
+            }
+            if (nationaldex == 283)
+            {
+                printf ("Surskit\n");
+            }
+            if (nationaldex == 284)
+            {
+                printf ("Masquerain\n");
+            }
+            if (nationaldex == 285)
+            {
+                printf ("Shroomish\n");
+            }
+            if (nationaldex == 286)
+            {
+                printf ("Breloom\n");
+            }
+            if (nationaldex == 287)
+            {
+                printf ("Slakoth\n");
+            }
+            if (nationaldex == 288)
+
+            {
+                printf ("Vigoroth\n");
+            }
+            if (nationaldex == 289)
+            {
+                printf ("Slaking\n");
+            }
+            if (nationaldex == 290)
+            {
+                printf ("Nincada\n");
+            }
+            if (nationaldex == 291)
+            {
+                printf ("Ninjask\n");
+            }
+            if (nationaldex == 292)
+            {
+                printf ("Shedinja\n");
+            }
+            if (nationaldex == 293)
+            {
+                printf ("Whismur\n");
+            }
+            if (nationaldex == 294)
+            {
+                printf ("Loudred\n");
+            }
+            if (nationaldex == 295)
+            {
+                printf ("Exploud\n");
+            }
+            if (nationaldex == 296)
+
+            {
+                printf ("Makuhita\n");
+            }
+            if (nationaldex == 297)
+            {
+                printf ("Hariyama\n");
+            }
+            if (nationaldex == 298)
+            {
+                printf ("Azurill\n");
+            }
+            if (nationaldex == 299)
+            {
+                printf ("Nosepass\n");
+            }
+            if (nationaldex == 300)
+            {
+                printf ("Skitty\n");
+            }
+                if (nationaldex == 301)
+                {
+                    printf ("Delcatty\n");
+                }
+                if (nationaldex == 302)
+                {
+                    printf ("Sableye\n");
+                }
+                if (nationaldex == 303)
+                {
+                    printf ("Mawile\n");
+                }
+                if (nationaldex == 304)
+                {
+                    printf ("Aron\n");
+                }
+                if (nationaldex == 305)
+                {
+                    printf ("Lairon\n");
+                }
+                if (nationaldex == 306)
+                {
+                    printf ("Aggron\n");
+                }
+                if (nationaldex == 307)
+                {
+                    printf ("Meditite\n");
+                }
+                if (nationaldex == 308)
+
+                {
+                    printf ("Medicham\n");
+                }
+                if (nationaldex == 309)
+                {
+                    printf ("Electrike\n");
+                }
+                if (nationaldex == 310)
+                {
+                    printf ("Manectric\n");
+                }
+                if (nationaldex == 311)
+                {
+                    printf ("Plusle\n");
+                }
+                if (nationaldex == 312)
+                {
+                    printf ("Minun\n");
+                }
+                if (nationaldex == 313)
+                {
+                    printf ("Volbeat\n");
+                }
+                if (nationaldex == 314)
+                {
+                    printf ("Illumise\n");
+                }
+                if (nationaldex == 315)
+                {
+                    printf ("Roselia\n");
+                }
+                if (nationaldex == 316)
+
+                {
+                    printf ("Gulpin\n");
+                }
+                if (nationaldex == 317)
+                {
+                    printf ("Swalot\n");
+                }
+                if (nationaldex == 318)
+                {
+                    printf ("Carvanha\n");
+                }
+                if (nationaldex == 319)
+                {
+                    printf ("Sharpedo\n");
+                }
+                if (nationaldex == 320)
+                {
+                    printf ("Wailmer\n");
+                }
+                if (nationaldex == 321)
+                {
+                    printf ("Wailord\n");
+                }
+                if (nationaldex == 322)
+                {
+                    printf ("Numel\n");
+                }
+                if (nationaldex == 323)
+                {
+                    printf ("Camerupt\n");
+                }
+                if (nationaldex == 324)
+
+                {
+                    printf ("Torkoal\n");
+                }
+                if (nationaldex == 325)
+                {
+                    printf ("Spoink\n");
+                }
+                if (nationaldex == 326)
+                {
+                    printf ("Grumpig\n");
+                }
+                if (nationaldex == 327)
+                {
+                    printf ("Spinda\n");
+                }
+                if (nationaldex == 328)
+                {
+                    printf ("Trapinch\n");
+                }
+                if (nationaldex == 329)
+                {
+                    printf ("Vibrava\n");
+                }
+                if (nationaldex == 330)
+                {
+                    printf ("Flygon\n");
+                }
+                if (nationaldex == 331)
+                {
+                    printf ("Cacnea\n");
+                }
+                if (nationaldex == 332)
+
+                {
+                    printf ("Cacturne\n");
+                }
+                if (nationaldex == 333)
+                {
+                    printf ("Swablu\n");
+                }
+                if (nationaldex == 334)
+                {
+                    printf ("Altaria\n");
+                }
+                if (nationaldex == 335)
+                {
+                    printf ("Zangoose\n");
+                }
+                if (nationaldex == 336)
+                {
+                    printf ("Seviper\n");
+                }
+                if (nationaldex == 337)
+                {
+                    printf ("Lunatone\n");
+                }
+                if (nationaldex == 338)
+                {
+                    printf ("Solrock\n");
+                }
+                if (nationaldex == 339)
+                {
+                    printf ("Barboach\n");
+                }
+                if (nationaldex == 340)
+
+                {
+                    printf ("Whiscash\n");
+                }
+                if (nationaldex == 341)
+                {
+                    printf ("Corphish\n");
+                }
+                if (nationaldex == 342)
+                {
+                    printf ("Crawdaunt\n");
+                }
+                if (nationaldex == 343)
+                {
+                    printf ("Baltoy\n");
+                }
+                if (nationaldex == 344)
+                {
+                    printf ("Claydol\n");
+                }
+                if (nationaldex == 345)
+                {
+                    printf ("Lileep\n");
+                }
+                if (nationaldex == 346)
+                {
+                    printf ("Cradily\n");
+                }
+                if (nationaldex == 347)
+                {
+                    printf ("Anorith\n");
+                }
+                if (nationaldex == 348)
+
+                {
+                    printf ("Armaldo\n");
+                }
+                if (nationaldex == 349)
+                {
+                    printf ("Feebas\n");
+                }
+                if (nationaldex == 350)
+                {
+                    printf ("Milotic\n");
+                }
+                if (nationaldex == 351)
+                {
+                    printf ("Castform\n");
+                }
+                if (nationaldex == 352)
+                {
+                    printf ("Kecleon\n");
+                }
+                if (nationaldex == 353)
+                {
+                    printf ("Shuppet\n");
+                }
+                if (nationaldex == 354)
+                {
+                    printf ("Banette\n");
+                }
+                if (nationaldex == 355)
+                {
+                    printf ("Duskull\n");
+                }
+                if (nationaldex == 356)
+
+                {
+                    printf ("Dusclops\n");
+                }
+                if (nationaldex == 357)
+                {
+                    printf ("Tropius\n");
+                }
+                if (nationaldex == 358)
+                {
+                    printf ("Chimecho\n");
+                }
+                if (nationaldex == 359)
+                {
+                    printf ("Absol\n");
+                }
+                if (nationaldex == 360)
+                {
+                    printf ("Wynaut\n");
+                }
+                if (nationaldex == 361)
+                {
+                    printf ("Snorunt\n");
+                }
+                if (nationaldex == 362)
+                {
+                    printf ("Glalie\n");
+                }
+                if (nationaldex == 363)
+                {
+                    printf ("Spheal\n");
+                }
+                if (nationaldex == 364)
+
+                {
+                    printf ("Sealeo\n");
+                }
+                if (nationaldex == 365)
+                {
+                    printf ("Walrein\n");
+                }
+                if (nationaldex == 366)
+                {
+                    printf ("Clamperl\n");
+                }
+                if (nationaldex == 367)
+                {
+                    printf ("Huntail\n");
+                }
+                if (nationaldex == 368)
+                {
+                    printf ("Gorebyss\n");
+                }
+                if (nationaldex == 369)
+                {
+                    printf ("Relicanth\n");
+                }
+                if (nationaldex == 370)
+                {
+                    printf ("Luvdisc\n");
+                }
+                if (nationaldex == 371)
+                {
+                    printf ("Bagon\n");
+                }
+                if (nationaldex == 372)
+
+                {
+                    printf ("Shelgon\n");
+                }
+                if (nationaldex == 373)
+                {
+                    printf ("Salamance\n");
+                }
+                if (nationaldex == 374)
+                {
+                    printf ("Beldum\n");
+                }
+                if (nationaldex == 375)
+                {
+                    printf ("Metang\n");
+                }
+                if (nationaldex == 376)
+                {
+                    printf ("Metagross\n");
+                }
+                if (nationaldex == 377)
+                {
+                    printf ("Regirock\n");
+                }
+                if (nationaldex == 378)
+                {
+                    printf ("Regice\n");
+                }
+                if (nationaldex == 379)
+                {
+                    printf ("Registeel\n");
+                }
+                if (nationaldex == 380)
+
+                {
+                    printf ("Latias\n");
+                }
+                if (nationaldex == 381)
+                {
+                    printf ("Latios\n");
+                }
+                if (nationaldex == 382)
+                {
+                    printf ("Kyogre\n");
+                }
+                if (nationaldex == 383)
+                {
+                    printf ("Groudon\n");
+                }
+                if (nationaldex == 384)
+                {
+                    printf ("Rayquaza\n");
+                }
+                if (nationaldex == 385)
+                {
+                    printf ("Jirachi\n");
+                }
+                if (nationaldex == 386)
+                {
+                    printf ("Deoxys\n");
+                }
+                if (nationaldex == 387)
+                {
+                    printf ("Turtwig\n");
+                }
+                if (nationaldex == 388)
+
+                {
+                    printf ("Grotle\n");
+                }
+                if (nationaldex == 389)
+                {
+                    printf ("Torterra\n");
+                }
+                if (nationaldex == 390)
+                {
+                    printf ("Chimchar\n");
+                }
+                if (nationaldex == 391)
+                {
+                    printf ("Monferno\n");
+                }
+                if (nationaldex == 392)
+                {
+                    printf ("Infernape\n");
+                }
+                if (nationaldex == 393)
+                {
+                    printf ("Piplup\n");
+                }
+                if (nationaldex == 394)
+                {
+                    printf ("Prinplup\n");
+                }
+                if (nationaldex == 395)
+                {
+                    printf ("Empoleon\n");
+                }
+                if (nationaldex == 396)
+
+                {
+                    printf ("Starly\n");
+                }
+                if (nationaldex == 397)
+                {
+                    printf ("Staravia\n");
+                }
+                if (nationaldex == 398)
+                {
+                    printf ("Staraptor\n");
+                }
+                if (nationaldex == 399)
+                {
+                    printf ("Bidoof\n");
+                }
+                if (nationaldex == 400)
+                {
+                    printf ("Bibarel\n");
+                }
+                    if (nationaldex == 401)
+                    {
+                        printf ("Kricketot\n");
+                    }
+                    if (nationaldex == 402)
+                    {
+                        printf ("Kricketune\n");
+                    }
+                    if (nationaldex == 403)
+                    {
+                        printf ("Shinx\n");
+                    }
+                    if (nationaldex == 404)
+                    {
+                        printf ("Luxio\n");
+                    }
+                    if (nationaldex == 405)
+                    {
+                        printf ("Luxray\n");
+                    }
+                    if (nationaldex == 406)
+                    {
+                        printf ("Budew\n");
+                    }
+                    if (nationaldex == 407)
+                    {
+                        printf ("Roserade\n");
+                    }
+                    if (nationaldex == 408)
+
+                    {
+                        printf ("Cranidos\n");
+                    }
+                    if (nationaldex == 409)
+                    {
+                        printf ("Rampardos\n");
+                    }
+                    if (nationaldex == 410)
+                    {
+                        printf ("Shieldon\n");
+                    }
+                    if (nationaldex == 411)
+                    {
+                        printf ("Bastiodon\n");
+                    }
+                    if (nationaldex == 412)
+                    {
+                        printf ("Burmy\n");
+                    }
+                    if (nationaldex == 413)
+                    {
+                        printf ("Wormadam\n");
+                    }
+                    if (nationaldex == 414)
+                    {
+                        printf ("Mothim\n");
+                    }
+                    if (nationaldex == 415)
+                    {
+                        printf ("Combee\n");
+                    }
+                    if (nationaldex == 416)
+
+                    {
+                        printf ("Vespiquen\n");
+                    }
+                    if (nationaldex == 417)
+                    {
+                        printf ("Pachirisu\n");
+                    }
+                    if (nationaldex == 418)
+                    {
+                        printf ("Buizel\n");
+                    }
+                    if (nationaldex == 419)
+                    {
+                        printf ("Floatzel\n");
+                    }
+                    if (nationaldex == 420)
+                    {
+                        printf ("Cherubi\n");
+                    }
+                    if (nationaldex == 421)
+                    {
+                        printf ("Cherrim\n");
+                    }
+                    if (nationaldex == 422)
+                    {
+                        printf ("Shellos\n");
+                    }
+                    if (nationaldex == 423)
+                    {
+                        printf ("Gastrodon\n");
+                    }
+                    if (nationaldex == 424)
+
+                    {
+                        printf ("Ambipom\n");
+                    }
+                    if (nationaldex == 425)
+                    {
+                        printf ("Drifloon\n");
+                    }
+                    if (nationaldex == 426)
+                    {
+                        printf ("Drifblim\n");
+                    }
+                    if (nationaldex == 427)
+                    {
+                        printf ("Buneary\n");
+                    }
+                    if (nationaldex == 428)
+                    {
+                        printf ("Lopunny\n");
+                    }
+                    if (nationaldex == 429)
+                    {
+                        printf ("Mismagius\n");
+                    }
+                    if (nationaldex == 430)
+                    {
+                        printf ("Honchkrow\n");
+                    }
+                    if (nationaldex == 431)
+                    {
+                        printf ("Glameow\n");
+                    }
+                    if (nationaldex == 432)
+
+                    {
+                        printf ("Purugly\n");
+                    }
+                    if (nationaldex == 433)
+                    {
+                        printf ("Chingling\n");
+                    }
+                    if (nationaldex == 434)
+                    {
+                        printf ("Stunky\n");
+                    }
+                    if (nationaldex == 435)
+                    {
+                        printf ("Skuntank\n");
+                    }
+                    if (nationaldex == 436)
+                    {
+                        printf ("Bronzor\n");
+                    }
+                    if (nationaldex == 437)
+                    {
+                        printf ("Bronzong\n");
+                    }
+                    if (nationaldex == 438)
+                    {
+                        printf ("Bonsly\n");
+                    }
+                    if (nationaldex == 439)
+                    {
+                        printf ("Mime Jr\n");
+                    }
+                    if (nationaldex == 440)
+
+                    {
+                        printf ("Happiny\n");
+                    }
+                    if (nationaldex == 441)
+                    {
+                        printf ("Chatot\n");
+                    }
+                    if (nationaldex == 442)
+                    {
+                        printf ("Spiritomb\n");
+                    }
+                    if (nationaldex == 443)
+                    {
+                        printf ("Gible\n");
+                    }
+                    if (nationaldex == 444)
+                    {
+                        printf ("Gabite\n");
+                    }
+                    if (nationaldex == 445)
+                    {
+                        printf ("Garchomp\n");
+                    }
+                    if (nationaldex == 446)
+                    {
+                        printf ("Munchlax\n");
+                    }
+                    if (nationaldex == 447)
+                    {
+                        printf ("Riolu\n");
+                    }
+                    if (nationaldex == 448)
+
+                    {
+                        printf ("Lucario\n");
+                    }
+                    if (nationaldex == 449)
+                    {
+                        printf ("Hippopotas\n");
+                    }
+                    if (nationaldex == 450)
+                    {
+                        printf ("Hippowdon\n");
+                    }
+                    if (nationaldex == 451)
+                    {
+                        printf ("Skorupi\n");
+                    }
+                    if (nationaldex == 452)
+                    {
+                        printf ("Drapion\n");
+                    }
+                    if (nationaldex == 453)
+                    {
+                        printf ("Croagunk\n");
+                    }
+                    if (nationaldex == 454)
+                    {
+                        printf ("Toxicroak\n");
+                    }
+                    if (nationaldex == 455)
+                    {
+                        printf ("Carnivine\n");
+                    }
+                    if (nationaldex == 456)
+
+                    {
+                        printf ("Finneon\n");
+                    }
+                    if (nationaldex == 457)
+                    {
+                        printf ("Lumineon\n");
+                    }
+                    if (nationaldex == 458)
+                    {
+                        printf ("Mantyke\n");
+                    }
+                    if (nationaldex == 459)
+                    {
+                        printf ("Snover\n");
+                    }
+                    if (nationaldex == 460)
+                    {
+                        printf ("Abomasnow\n");
+                    }
+                    if (nationaldex == 461)
+                    {
+                        printf ("Weavile\n");
+                    }
+                    if (nationaldex == 462)
+                    {
+                        printf ("Magnezone\n");
+                    }
+                    if (nationaldex == 463)
+                    {
+                        printf ("Lickilicky\n");
+                    }
+                    if (nationaldex == 464)
+
+                    {
+                        printf ("Rhyperior\n");
+                    }
+                    if (nationaldex == 465)
+                    {
+                        printf ("Tangrowth\n");
+                    }
+                    if (nationaldex == 466)
+                    {
+                        printf ("Electivire\n");
+                    }
+                    if (nationaldex == 467)
+                    {
+                        printf ("Magmortar\n");
+                    }
+                    if (nationaldex == 468)
+                    {
+                        printf ("Togekiss\n");
+                    }
+                    if (nationaldex == 469)
+                    {
+                        printf ("Yanmega\n");
+                    }
+                    if (nationaldex == 470)
+                    {
+                        printf ("Leafeon\n");
+                    }
+                    if (nationaldex == 471)
+                    {
+                        printf ("Glaceon\n");
+                    }
+                    if (nationaldex == 472)
+
+                    {
+                        printf ("Gliscor\n");
+                    }
+                    if (nationaldex == 473)
+                    {
+                        printf ("Mamoswine\n");
+                    }
+                    if (nationaldex == 474)
+                    {
+                        printf ("Porygon-Z\n");
+                    }
+                    if (nationaldex == 475)
+                    {
+                        printf ("Gallade\n");
+                    }
+                    if (nationaldex == 476)
+                    {
+                        printf ("Probopass\n");
+                    }
+                    if (nationaldex == 477)
+                    {
+                        printf ("Dusknoir\n");
+                    }
+                    if (nationaldex == 478)
+                    {
+                        printf ("Froslass\n");
+                    }
+                    if (nationaldex == 479)
+                    {
+                        printf ("Rotom\n");
+                    }
+                    if (nationaldex == 480)
+
+                    {
+                        printf ("Uxie\n");
+                    }
+                    if (nationaldex == 481)
+                    {
+                        printf ("Mesprit\n");
+                    }
+                    if (nationaldex == 482)
+                    {
+                        printf ("Azelf\n");
+                    }
+                    if (nationaldex == 483)
+                    {
+                        printf ("Dialga\n");
+                    }
+                    if (nationaldex == 484)
+                    {
+                        printf ("Palkia\n");
+                    }
+                    if (nationaldex == 485)
+                    {
+                        printf ("Heatran\n");
+                    }
+                    if (nationaldex == 486)
+                    {
+                        printf ("Regigigas\n");
+                    }
+                    if (nationaldex == 487)
+                    {
+                        printf ("Giratina\n");
+                    }
+                    if (nationaldex == 488)
+
+                    {
+                        printf ("Cresselia\n");
+                    }
+                    if (nationaldex == 489)
+                    {
+                        printf ("Phione\n");
+                    }
+                    if (nationaldex == 490)
+                    {
+                        printf ("Manaphy\n");
+                    }
+                    if (nationaldex == 491)
+                    {
+                        printf ("Darkrai\n");
+                    }
+                    if (nationaldex == 492)
+                    {
+                        printf ("Shaymin\n");
+                    }
+                    if (nationaldex == 493)
+                    {
+                        printf ("Arceus\n");
+                    }
+                    if (nationaldex == 494)
+                    {
+                        printf ("Victini\n");
+                    }
+                    if (nationaldex == 495)
+                    {
+                        printf ("Snivy\n");
+                    }
+                    if (nationaldex == 496)
+
+                    {
+                        printf ("Servine\n");
+                    }
+                    if (nationaldex == 497)
+                    {
+                        printf ("Serperior\n");
+                    }
+                    if (nationaldex == 498)
+                    {
+                        printf ("Tepig\n");
+                    }
+                    if (nationaldex == 499)
+                    {
+                        printf ("Pignite\n");
+                    }
+                    if (nationaldex == 500)
+                    {
+                        printf ("Emboar\n");
+                    }
+                        if (nationaldex == 501)
+                        {
+                            printf ("Oshawott\n");
+                        }
+                        if (nationaldex == 502)
+                        {
+                            printf ("Dewott\n");
+                        }
+                        if (nationaldex == 503)
+                        {
+                            printf ("Samurott\n");
+                        }
+                        if (nationaldex == 504)
+                        {
+                            printf ("Patrat\n");
+                        }
+                        if (nationaldex == 505)
+                        {
+                            printf ("Watchog\n");
+                        }
+                        if (nationaldex == 506)
+                        {
+                            printf ("Lillipup\n");
+                        }
+                        if (nationaldex == 507)
+                        {
+                            printf ("Herdier\n");
+                        }
+                        if (nationaldex == 508)
+
+                        {
+                            printf ("Stoutland\n");
+                        }
+                        if (nationaldex == 509)
+                        {
+                            printf ("Purrloin\n");
+                        }
+                        if (nationaldex == 510)
+                        {
+                            printf ("Liepard\n");
+                        }
+                        if (nationaldex == 511)
+                        {
+                            printf ("Pansage\n");
+                        }
+                        if (nationaldex == 512)
+                        {
+                            printf ("Simisage\n");
+                        }
+                        if (nationaldex == 513)
+                        {
+                            printf ("Pansear\n");
+                        }
+                        if (nationaldex == 514)
+                        {
+                            printf ("Simisear\n");
+                        }
+                        if (nationaldex == 515)
+                        {
+                            printf ("Panpour\n");
+                        }
+                        if (nationaldex == 516)
+
+                        {
+                            printf ("Simipour\n");
+                        }
+                        if (nationaldex == 517)
+                        {
+                            printf ("Munna\n");
+                        }
+                        if (nationaldex == 518)
+                        {
+                            printf ("Musharna\n");
+                        }
+                        if (nationaldex == 519)
+                        {
+                            printf ("Pidove\n");
+                        }
+                        if (nationaldex == 520)
+                        {
+                            printf ("Tranquill\n");
+                        }
+                        if (nationaldex == 521)
+                        {
+                            printf ("Unfezant\n");
+                        }
+                        if (nationaldex == 522)
+                        {
+                            printf ("Blitzle\n");
+                        }
+                        if (nationaldex == 523)
+                        {
+                            printf ("Zebstrika\n");
+                        }
+                        if (nationaldex == 524)
+
+                        {
+                            printf ("Roggenrola\n");
+                        }
+                        if (nationaldex == 525)
+                        {
+                            printf ("Boldore\n");
+                        }
+                        if (nationaldex == 526)
+                        {
+                            printf ("Gigalith\n");
+                        }
+                        if (nationaldex == 527)
+                        {
+                            printf ("Woobat\n");
+                        }
+                        if (nationaldex == 528)
+                        {
+                            printf ("Swoobat\n");
+                        }
+                        if (nationaldex == 529)
+                        {
+                            printf ("Drilbur\n");
+                        }
+                        if (nationaldex == 530)
+                        {
+                            printf ("Excadrill\n");
+                        }
+                        if (nationaldex == 531)
+                        {
+                            printf ("Audino\n");
+                        }
+                        if (nationaldex == 532)
+
+                        {
+                            printf ("Timburr\n");
+                        }
+                        if (nationaldex == 533)
+                        {
+                            printf ("Gurdurr\n");
+                        }
+                        if (nationaldex == 534)
+                        {
+                            printf ("Conkeldurr\n");
+                        }
+                        if (nationaldex == 535)
+                        {
+                            printf ("Tympole\n");
+                        }
+                        if (nationaldex == 536)
+                        {
+                            printf ("Palpitoad\n");
+                        }
+                        if (nationaldex == 537)
+                        {
+                            printf ("Seismitoad\n");
+                        }
+                        if (nationaldex == 538)
+                        {
+                            printf ("Throh\n");
+                        }
+                        if (nationaldex == 539)
+                        {
+                            printf ("Sawk\n");
+                        }
+                        if (nationaldex == 540)
+
+                        {
+                            printf ("Sewaddle\n");
+                        }
+                        if (nationaldex == 541)
+                        {
+                            printf ("Swadloon\n");
+                        }
+                        if (nationaldex == 542)
+                        {
+                            printf ("Leavanny\n");
+                        }
+                        if (nationaldex == 543)
+                        {
+                            printf ("Venipede\n");
+                        }
+                        if (nationaldex == 544)
+                        {
+                            printf ("Whirlipede\n");
+                        }
+                        if (nationaldex == 545)
+                        {
+                            printf ("Scolipede\n");
+                        }
+                        if (nationaldex == 546)
+                        {
+                            printf ("Cottonee\n");
+                        }
+                        if (nationaldex == 547)
+                        {
+                            printf ("Whimsicott\n");
+                        }
+                        if (nationaldex == 548)
+
+                        {
+                            printf ("Petilil\n");
+                        }
+                        if (nationaldex == 549)
+                        {
+                            printf ("Lilligant\n");
+                        }
+                        if (nationaldex == 550)
+                        {
+                            printf ("Basculin\n");
+                        }
+                        if (nationaldex == 551)
+                        {
+                            printf ("Sandile\n");
+                        }
+                        if (nationaldex == 552)
+                        {
+                            printf ("Krokorok\n");
+                        }
+                        if (nationaldex == 553)
+                        {
+                            printf ("Krookodile\n");
+                        }
+                        if (nationaldex == 554)
+                        {
+                            printf ("Darumaka\n");
+                        }
+                        if (nationaldex == 555)
+                        {
+                            printf ("Darmanitan\n");
+                        }
+                        if (nationaldex == 556)
+
+                        {
+                            printf ("Maractus\n");
+                        }
+                        if (nationaldex == 557)
+                        {
+                            printf ("Dwebble\n");
+                        }
+                        if (nationaldex == 558)
+                        {
+                            printf ("Crustle\n");
+                        }
+                        if (nationaldex == 559)
+                        {
+                            printf ("Scraggy\n");
+                        }
+                        if (nationaldex == 560)
+                        {
+                            printf ("Scrafty\n");
+                        }
+                        if (nationaldex == 561)
+                        {
+                            printf ("Sigilyph\n");
+                        }
+                        if (nationaldex == 562)
+                        {
+                            printf ("Yamask\n");
+                        }
+                        if (nationaldex == 563)
+                        {
+                            printf ("Cofagrigus\n");
+                        }
+                        if (nationaldex == 564)
+
+                        {
+                            printf ("Tirtouga\n");
+                        }
+                        if (nationaldex == 565)
+                        {
+                            printf ("Carracosta\n");
+                        }
+                        if (nationaldex == 566)
+                        {
+                            printf ("Archen\n");
+                        }
+                        if (nationaldex == 567)
+                        {
+                            printf ("Archeops\n");
+                        }
+                        if (nationaldex == 568)
+                        {
+                            printf ("Trubbish\n");
+                        }
+                        if (nationaldex == 569)
+                        {
+                            printf ("Garbodor\n");
+                        }
+                        if (nationaldex == 570)
+                        {
+                            printf ("Zorua\n");
+                        }
+                        if (nationaldex == 571)
+                        {
+                            printf ("Zoroark\n");
+                        }
+                        if (nationaldex == 572)
+
+                        {
+                            printf ("Minccino\n");
+                        }
+                        if (nationaldex == 573)
+                        {
+                            printf ("Cinccino\n");
+                        }
+                        if (nationaldex == 574)
+                        {
+                            printf ("Gothita\n");
+                        }
+                        if (nationaldex == 575)
+                        {
+                            printf ("Gothorita\n");
+                        }
+                        if (nationaldex == 576)
+                        {
+                            printf ("Gothitelle\n");
+                        }
+                        if (nationaldex == 577)
+                        {
+                            printf ("Solosis\n");
+                        }
+                        if (nationaldex == 578)
+                        {
+                            printf ("Duosion\n");
+                        }
+                        if (nationaldex == 579)
+                        {
+                            printf ("Reuniclus\n");
+                        }
+                        if (nationaldex == 580)
+
+                        {
+                            printf ("Ducklett\n");
+                        }
+                        if (nationaldex == 581)
+                        {
+                            printf ("Swanna\n");
+                        }
+                        if (nationaldex == 582)
+                        {
+                            printf ("Vanillite\n");
+                        }
+                        if (nationaldex == 583)
+                        {
+                            printf ("Vanillish\n");
+                        }
+                        if (nationaldex == 584)
+                        {
+                            printf ("Vanilluxe\n");
+                        }
+                        if (nationaldex == 585)
+                        {
+                            printf ("Deerling\n");
+                        }
+                        if (nationaldex == 586)
+                        {
+                            printf ("Sawsbuck\n");
+                        }
+                        if (nationaldex == 587)
+                        {
+                            printf ("Emolga\n");
+                        }
+                        if (nationaldex == 588)
+
+                        {
+                            printf ("Karrablast\n");
+                        }
+                        if (nationaldex == 589)
+                        {
+                            printf ("Escavalier\n");
+                        }
+                        if (nationaldex == 590)
+                        {
+                            printf ("Foongus\n");
+                        }
+                        if (nationaldex == 591)
+                        {
+                            printf ("Amoonguss\n");
+                        }
+                        if (nationaldex == 592)
+                        {
+                            printf ("Frillish\n");
+                        }
+                        if (nationaldex == 593)
+                        {
+                            printf ("Jellicent\n");
+                        }
+                        if (nationaldex == 594)
+                        {
+                            printf ("Alomomola\n");
+                        }
+                        if (nationaldex == 595)
+                        {
+                            printf ("Joltik\n");
+                        }
+                        if (nationaldex == 596)
+
+                        {
+                            printf ("Galvantula\n");
+                        }
+                        if (nationaldex == 597)
+                        {
+                            printf ("Ferroseed\n");
+                        }
+                        if (nationaldex == 598)
+                        {
+                            printf ("Ferrothorn\n");
+                        }
+                        if (nationaldex == 599)
+                        {
+                            printf ("Klink\n");
+                        }
+                        if (nationaldex == 600)
+                        {
+                            printf ("Klang\n");
+                        }
+                            if (nationaldex == 601)
+                            {
+                                printf ("Klinklang\n");
+                            }
+                            if (nationaldex == 602)
+                            {
+                                printf ("Tynamo\n");
+                            }
+                            if (nationaldex == 603)
+                            {
+                                printf ("Eelektrik\n");
+                            }
+                            if (nationaldex == 604)
+                            {
+                                printf ("Eelektross\n");
+                            }
+                            if (nationaldex == 605)
+                            {
+                                printf ("Elgyem\n");
+                            }
+                            if (nationaldex == 606)
+                            {
+                                printf ("Beheeyem\n");
+                            }
+                            if (nationaldex == 607)
+                            {
+                                printf ("Litwick\n");
+                            }
+                            if (nationaldex == 608)
+
+                            {
+                                printf ("Lampent\n");
+                            }
+                            if (nationaldex == 609)
+                            {
+                                printf ("Chandelure\n");
+                            }
+                            if (nationaldex == 610)
+                            {
+                                printf ("Axew\n");
+                            }
+                            if (nationaldex == 611)
+                            {
+                                printf ("Fraxure\n");
+                            }
+                            if (nationaldex == 612)
+                            {
+                                printf ("Haxorus\n");
+                            }
+                            if (nationaldex == 613)
+                            {
+                                printf ("Cubchoo\n");
+                            }
+                            if (nationaldex == 614)
+                            {
+                                printf ("Beartic\n");
+                            }
+                            if (nationaldex == 615)
+                            {
+                                printf ("Cryogonal\n");
+                            }
+                            if (nationaldex == 616)
+
+                            {
+                                printf ("Shelmet\n");
+                            }
+                            if (nationaldex == 617)
+                            {
+                                printf ("Accelgor\n");
+                            }
+                            if (nationaldex == 618)
+                            {
+                                printf ("Stunfisk\n");
+                            }
+                            if (nationaldex == 619)
+                            {
+                                printf ("Mienfoo\n");
+                            }
+                            if (nationaldex == 620)
+                            {
+                                printf ("Mienshao\n");
+                            }
+                            if (nationaldex == 621)
+                            {
+                                printf ("Druddigon\n");
+                            }
+                            if (nationaldex == 622)
+                            {
+                                printf ("Golett\n");
+                            }
+                            if (nationaldex == 623)
+                            {
+                                printf ("Golurk\n");
+                            }
+                            if (nationaldex == 624)
+
+                            {
+                                printf ("Pawniard\n");
+                            }
+                            if (nationaldex == 625)
+                            {
+                                printf ("Bisharp\n");
+                            }
+                            if (nationaldex == 626)
+                            {
+                                printf ("Bouffalant\n");
+                            }
+                            if (nationaldex == 627)
+                            {
+                                printf ("Rufflet\n");
+                            }
+                            if (nationaldex == 628)
+                            {
+                                printf ("Braviary\n");
+                            }
+                            if (nationaldex == 629)
+                            {
+                                printf ("Vullaby\n");
+                            }
+                            if (nationaldex == 630)
+                            {
+                                printf ("Mandibuzz\n");
+                            }
+                            if (nationaldex == 631)
+                            {
+                                printf ("Heatmor\n");
+                            }
+                            if (nationaldex == 632)
+
+                            {
+                                printf ("Durant\n");
+                            }
+                            if (nationaldex == 633)
+                            {
+                                printf ("Deino\n");
+                            }
+                            if (nationaldex == 634)
+                            {
+                                printf ("Zweilous\n");
+                            }
+                            if (nationaldex == 635)
+                            {
+                                printf ("Hydreigon\n");
+                            }
+                            if (nationaldex == 636)
+                            {
+                                printf ("Larvesta\n");
+                            }
+                            if (nationaldex == 637)
+                            {
+                                printf ("Volcarona\n");
+                            }
+                            if (nationaldex == 638)
+                            {
+                                printf ("Cobalion\n");
+                            }
+                            if (nationaldex == 639)
+                            {
+                                printf ("Terrakion\n");
+                            }
+                            if (nationaldex == 640)
+
+                            {
+                                printf ("Virizion\n");
+                            }
+                            if (nationaldex == 641)
+                            {
+                                printf ("Tornadus\n");
+                            }
+                            if (nationaldex == 642)
+                            {
+                                printf ("Thundurus\n");
+                            }
+                            if (nationaldex == 643)
+                            {
+                                printf ("Reshiram\n");
+                            }
+                            if (nationaldex == 644)
+                            {
+                                printf ("Zekrom\n");
+                            }
+                            if (nationaldex == 645)
+                            {
+                                printf ("Landorus\n");
+                            }
+                            if (nationaldex == 646)
+                            {
+                                printf ("Kyurem\n");
+                            }
+                            if (nationaldex == 647)
+                            {
+                                printf ("Keldeo\n");
+                            }
+                            if (nationaldex == 648)
+
+                            {
+                                printf ("Meloetta\n");
+                            }
+                            if (nationaldex == 649)
+                            {
+                                printf ("Genesect\n");
+                            }
+                            if (nationaldex == 650)
+                            {
+                                printf ("Chespin\n");
+                            }
+                            if (nationaldex == 651)
+                            {
+                                printf ("Quilladin\n");
+                            }
+                            if (nationaldex == 652)
+                            {
+                                printf ("Chesnaught\n");
+                            }
+                            if (nationaldex == 653)
+                            {
+                                printf ("Fennekin\n");
+                            }
+                            if (nationaldex == 654)
+                            {
+                                printf ("Braixen\n");
+                            }
+                            if (nationaldex == 655)
+                            {
+                                printf ("Delphox\n");
+                            }
+                            if (nationaldex == 656)
+
+                            {
+                                printf ("Froakie\n");
+                            }
+                            if (nationaldex == 657)
+                            {
+                                printf ("Frogadier\n");
+                            }
+                            if (nationaldex == 658)
+                            {
+                                printf ("Greninja\n");
+                            }
+                            if (nationaldex == 659)
+                            {
+                                printf ("Bunnelby\n");
+                            }
+                            if (nationaldex == 660)
+                            {
+                                printf ("Diggersby\n");
+                            }
+                            if (nationaldex == 661)
+                            {
+                                printf ("Fletchling\n");
+                            }
+                            if (nationaldex == 662)
+                            {
+                                printf ("Fletchinder\n");
+                            }
+                            if (nationaldex == 663)
+                            {
+                                printf ("Talonflame\n");
+                            }
+                            if (nationaldex == 664)
+
+                            {
+                                printf ("Scatterbug\n");
+                            }
+                            if (nationaldex == 665)
+                            {
+                                printf ("Spewpa\n");
+                            }
+                            if (nationaldex == 666)
+                            {
+                                printf ("Vivillon\n");
+                            }
+                            if (nationaldex == 667)
+                            {
+                                printf ("Litleo\n");
+                            }
+                            if (nationaldex == 668)
+                            {
+                                printf ("Pyroar\n");
+                            }
+                            if (nationaldex == 669)
+                            {
+                                printf ("Flabébé\n");
+                            }
+                            if (nationaldex == 670)
+                            {
+                                printf ("Floette\n");
+                            }
+                            if (nationaldex == 671)
+                            {
+                                printf ("Florges\n");
+                            }
+                            if (nationaldex == 672)
+
+                            {
+                                printf ("Skiddo\n");
+                            }
+                            if (nationaldex == 673)
+                            {
+                                printf ("Gogoat\n");
+                            }
+                            if (nationaldex == 674)
+                            {
+                                printf ("Pancham\n");
+                            }
+                            if (nationaldex == 675)
+                            {
+                                printf ("Pangoro\n");
+                            }
+                            if (nationaldex == 676)
+                            {
+                                printf ("Furfrou\n");
+                            }
+                            if (nationaldex == 677)
+                            {
+                                printf ("Espurr\n");
+                            }
+                            if (nationaldex == 678)
+                            {
+                                printf ("Meowstic\n");
+                            }
+                            if (nationaldex == 679)
+                            {
+                                printf ("Honedge\n");
+                            }
+                            if (nationaldex == 680)
+
+                            {
+                                printf ("Doublade\n");
+                            }
+                            if (nationaldex == 681)
+                            {
+                                printf ("Aegislash\n");
+                            }
+                            if (nationaldex == 682)
+                            {
+                                printf ("Spritzee\n");
+                            }
+                            if (nationaldex == 683)
+                            {
+                                printf ("Aromatisse\n");
+                            }
+                            if (nationaldex == 684)
+                            {
+                                printf ("Swirlix\n");
+                            }
+                            if (nationaldex == 685)
+                            {
+                                printf ("Slurpuff\n");
+                            }
+                            if (nationaldex == 686)
+                            {
+                                printf ("Inkay\n");
+                            }
+                            if (nationaldex == 687)
+                            {
+                                printf ("Malamar\n");
+                            }
+                            if (nationaldex == 688)
+
+                            {
+                                printf ("Binacle\n");
+                            }
+                            if (nationaldex == 689)
+                            {
+                                printf ("Barbaracle\n");
+                            }
+                            if (nationaldex == 690)
+                            {
+                                printf ("Skrelp\n");
+                            }
+                            if (nationaldex == 691)
+                            {
+                                printf ("Dragalge\n");
+                            }
+                            if (nationaldex == 692)
+                            {
+                                printf ("Clauncher\n");
+                            }
+                            if (nationaldex == 693)
+                            {
+                                printf ("Clawitzer\n");
+                            }
+                            if (nationaldex == 694)
+                            {
+                                printf ("Helioptile\n");
+                            }
+                            if (nationaldex == 695)
+                            {
+                                printf ("Heliolisk\n");
+                            }
+                            if (nationaldex == 696)
+
+                            {
+                                printf ("Tyrunt\n");
+                            }
+                            if (nationaldex == 697)
+                            {
+                                printf ("Tyrantrum\n");
+                            }
+                            if (nationaldex == 698)
+                            {
+                                printf ("Amaura\n");
+                            }
+                            if (nationaldex == 699)
+                            {
+                            printf ("Aurorus\n");
+                            }
+                            if (nationaldex == 700)
+                            {
+                            printf ("Sylveon\n");
+                            }
+
+    if (nationaldex == 701)
+    {
+        printf ("Hawlucha\n");
+    }
+    if (nationaldex == 702)
+    {
+        printf ("Dedenne\n");
+    }
+    if (nationaldex == 703)
+    {
+        printf ("Carbink\n");
+    }
+    if (nationaldex == 704)
+    {
+        printf ("Goomy\n");
+    }
+    if (nationaldex == 705)
+    {
+        printf ("Sliggoo\n");
+    }
+    if (nationaldex == 706)
+    {
+        printf ("Goodra\n");
+    }
+    if (nationaldex == 707)
+    {
+        printf ("Klefki\n");
+    }
+    if (nationaldex == 708)
+
+    {
+        printf ("Phantump\n");
+    }
+    if (nationaldex == 709)
+    {
+        printf ("Trevenant\n");
+    }
+    if (nationaldex == 710)
+    {
+        printf ("Pumpkaboo\n");
+    }
+    if (nationaldex == 711)
+    {
+        printf ("Gourgeist\n");
+    }
+    if (nationaldex == 712)
+    {
+        printf ("Bergmite\n");
+    }
+    if (nationaldex == 713)
+    {
+        printf ("Avalugg\n");
+    }
+    if (nationaldex == 714)
+    {
+        printf ("Noibat\n");
+    }
+    if (nationaldex == 715)
+    {
+        printf ("Noivern\n");
+    }
+    if (nationaldex == 716)
+
+    {
+        printf ("Xerneas\n");
+    }
+    if (nationaldex == 717)
+    {
+        printf ("Yveltal\n");
+    }
+    if (nationaldex == 718)
+    {
+        printf ("Zygarde\n");
+    }
+    if (nationaldex == 719)
+    {
+        printf ("Diancie\n");
+    }
+    if (nationaldex == 720)
+    {
+        printf ("Hoopa\n");
+    }
+    if (nationaldex == 721)
+    {
+        printf ("Volcanion\n");
+    }
+    if (nationaldex == 722)
+    {
+        printf ("Rowlet\n");
+    }
+    if (nationaldex == 723)
+    {
+        printf ("Dartrix\n");
+    }
+    if (nationaldex == 724)
+
+    {
+        printf ("Decidueye\n");
+    }
+    if (nationaldex == 725)
+    {
+        printf ("Litten\n");
+    }
+    if (nationaldex == 726)
+    {
+        printf ("Torracat\n");
+    }
+    if (nationaldex == 727)
+    {
+        printf ("Incineroar\n");
+    }
+    if (nationaldex == 728)
+    {
+        printf ("Popplio\n");
+    }
+    if (nationaldex == 729)
+    {
+        printf ("Brionne\n");
+    }
+    if (nationaldex == 730)
+    {
+        printf ("Primarina\n");
+    }
+    if (nationaldex == 731)
+    {
+        printf ("Pikipek\n");
+    }
+    if (nationaldex == 732)
+
+    {
+        printf ("Trumbeak\n");
+    }
+    if (nationaldex == 733)
+    {
+        printf ("Toucannon\n");
+    }
+    if (nationaldex == 734)
+    {
+        printf ("Yungoos\n");
+    }
+    if (nationaldex == 735)
+    {
+        printf ("Gumshoos\n");
+    }
+    if (nationaldex == 736)
+    {
+        printf ("Grubbin\n");
+    }
+    if (nationaldex == 737)
+    {
+        printf ("Charjabug\n");
+    }
+    if (nationaldex == 738)
+    {
+        printf ("Vikavolt\n");
+    }
+    if (nationaldex == 739)
+    {
+        printf ("Crabrawler\n");
+    }
+    if (nationaldex == 740)
+
+    {
+        printf ("Crabominable\n");
+    }
+    if (nationaldex == 741)
+    {
+        printf ("Oricorio\n");
+    }
+    if (nationaldex == 742)
+    {
+        printf ("Cutiefly\n");
+    }
+    if (nationaldex == 743)
+    {
+        printf ("Ribombee\n");
+    }
+    if (nationaldex == 744)
+    {
+        printf ("Rockruff\n");
+    }
+    if (nationaldex == 745)
+    {
+        printf ("Lycanroc\n");
+    }
+    if (nationaldex == 746)
+    {
+        printf ("Wishiwashi\n");
+    }
+    if (nationaldex == 747)
+    {
+        printf ("Mareanie\n");
+    }
+    if (nationaldex == 748)
+
+    {
+        printf ("Toxapex\n");
+    }
+    if (nationaldex == 749)
+    {
+        printf ("Mudbray\n");
+    }
+    if (nationaldex == 750)
+    {
+        printf ("Mudsdale\n");
+    }
+    if (nationaldex == 751)
+    {
+        printf ("Dewpider\n");
+    }
+    if (nationaldex == 752)
+    {
+        printf ("Araquanid\n");
+    }
+    if (nationaldex == 753)
+    {
+        printf ("Fomantis\n");
+    }
+    if (nationaldex == 754)
+    {
+        printf ("Lurantis\n");
+    }
+    if (nationaldex == 755)
+    {
+        printf ("Morelull\n");
+    }
+    if (nationaldex == 756)
+
+    {
+        printf ("Shiinotic\n");
+    }
+    if (nationaldex == 757)
+    {
+        printf ("Salandit\n");
+    }
+    if (nationaldex == 758)
+    {
+        printf ("Salazzle\n");
+    }
+    if (nationaldex == 759)
+    {
+        printf ("Stufful\n");
+    }
+    if (nationaldex == 760)
+    {
+        printf ("Bewear\n");
+    }
+    if (nationaldex == 761)
+    {
+        printf ("Bounsweet\n");
+    }
+    if (nationaldex == 762)
+    {
+        printf ("Steenee\n");
+    }
+    if (nationaldex == 763)
+    {
+        printf ("Tsareena\n");
+    }
+    if (nationaldex == 764)
+
+    {
+        printf ("Comfey\n");
+    }
+    if (nationaldex == 765)
+    {
+        printf ("Oranguru\n");
+    }
+    if (nationaldex == 766)
+    {
+        printf ("Passimian\n");
+    }
+    if (nationaldex == 767)
+    {
+        printf ("Wimpod\n");
+    }
+    if (nationaldex == 768)
+    {
+        printf ("Golisopod\n");
+    }
+    if (nationaldex == 769)
+    {
+        printf ("Sandygast\n");
+    }
+    if (nationaldex == 770)
+    {
+        printf ("Palossand\n");
+    }
+    if (nationaldex == 771)
+    {
+        printf ("Pyukumuku\n");
+    }
+    if (nationaldex == 772)
+
+    {
+        printf ("Type: Null\n");
+    }
+    if (nationaldex == 773)
+    {
+        printf ("Silvally\n");
+    }
+    if (nationaldex == 774)
+    {
+        printf ("Minior\n");
+    }
+    if (nationaldex == 775)
+    {
+        printf ("Komala\n");
+    }
+    if (nationaldex == 776)
+    {
+        printf ("Turtonator\n");
+    }
+    if (nationaldex == 777)
+    {
+        printf ("Togedemaru\n");
+    }
+    if (nationaldex == 778)
+    {
+        printf ("Mimikyu\n");
+    }
+    if (nationaldex == 779)
+    {
+        printf ("Bruxish\n");
+    }
+    if (nationaldex == 780)
+
+    {
+        printf ("Drampa\n");
+    }
+    if (nationaldex == 781)
+    {
+        printf ("Dhelmise\n");
+    }
+    if (nationaldex == 782)
+    {
+        printf ("Jangmo-o\n");
+    }
+    if (nationaldex == 783)
+    {
+        printf ("Hakamo-o\n");
+    }
+    if (nationaldex == 784)
+    {
+        printf ("Kommo-o\n");
+    }
+    if (nationaldex == 785)
+    {
+        printf ("Tapu Koko\n");
+    }
+    if (nationaldex == 786)
+    {
+        printf ("Tapu Lele\n");
+    }
+    if (nationaldex == 787)
+    {
+        printf ("Tapu Bulu\n");
+    }
+    if (nationaldex == 788)
+
+    {
+        printf ("Tapu Fini\n");
+    }
+    if (nationaldex == 789)
+    {
+        printf ("Cosmog\n");
+    }
+    if (nationaldex == 790)
+    {
+        printf ("Cosmoem\n");
+    }
+    if (nationaldex == 791)
+    {
+        printf ("Solgaleo\n");
+    }
+    if (nationaldex == 792)
+    {
+        printf ("Lunala\n");
+    }
+    if (nationaldex == 793)
+    {
+        printf ("Nihilego\n");
+    }
+    if (nationaldex == 794)
+    {
+        printf ("Buzzwole\n");
+    }
+    if (nationaldex == 795)
+    {
+        printf ("Pheromosa\n");
+    }
+    if (nationaldex == 796)
+    {
+        printf ("Xurkitree\n");
+    }
+    if (nationaldex == 797)
+    {
+        printf ("Celesteela\n");
+    }
+    if (nationaldex == 798)
+    {
+        printf ("\tKartana\n");
+    }
+    if (nationaldex == 799)
+    {
+        printf ("Guzzlord\n");
+    }
+    if (nationaldex == 800)
+    {
+        printf("Necrozma\n");
+    }
+    if (nationaldex == 801)
+    {
+        printf ("Magearna\n");
+    }
+    if (nationaldex == 802)
+    {
+        printf ("Marshadow\n");
+    }
+    if (nationaldex == 803)
+    {
+        printf ("Poipole\n");
+    }
+    if (nationaldex == 804)
+    {
+        printf ("Naganadel\n");
+    }
+    if (nationaldex == 805)
+    {
+        printf ("Stakataka\n");
+    }
+    if (nationaldex == 806)
+    {
+        printf ("Blacephalon\n");
+    }
+    if (nationaldex == 807)
+    {
+        printf ("Zeraora\n");
+    }
+    if (nationaldex == 808)
+
+    {
+        printf ("Meltan\n");
+    }
+    if (nationaldex == 809)
+    {
+        printf ("Melmetal\n");
+    }
+    if (nationaldex == 810)
+    {
+        printf ("Grookey\n");
+    }
+    if (nationaldex == 811)
+    {
+        printf ("Thwackey\n");
+    }
+    if (nationaldex == 812)
+    {
+        printf ("Rillaboom\n");
+    }
+    if (nationaldex == 813)
+    {
+        printf ("Scorbunny\n");
+    }
+    if (nationaldex == 814)
+    {
+        printf ("Raboot\n");
+    }
+    if (nationaldex == 815)
+    {
+        printf ("Cinderace\n");
+    }
+    if (nationaldex == 816)
+
+    {
+        printf ("Sobble\n");
+    }
+    if (nationaldex == 817)
+    {
+        printf ("Drizzile\n");
+    }
+    if (nationaldex == 818)
+    {
+        printf ("Inteleon\n");
+    }
+    if (nationaldex == 819)
+    {
+        printf ("Skwovet\n");
+    }
+    if (nationaldex == 820)
+    {
+        printf ("Greedent\n");
+    }
+    if (nationaldex == 821)
+    {
+        printf ("Rookidee\n");
+    }
+    if (nationaldex == 822)
+    {
+        printf ("Corvisquire\n");
+    }
+    if (nationaldex == 823)
+    {
+        printf ("Corviknight\n");
+    }
+    if (nationaldex == 824)
+
+    {
+        printf ("Blipbug\n");
+    }
+    if (nationaldex == 825)
+    {
+        printf ("Dottler\n");
+    }
+    if (nationaldex == 826)
+    {
+        printf ("Orbeetle\n");
+    }
+    if (nationaldex == 827)
+    {
+        printf ("Nickit\n");
+    }
+    if (nationaldex == 828)
+    {
+        printf ("Thievul\n");
+    }
+    if (nationaldex == 829)
+    {
+        printf ("Gossifleur\n");
+    }
+    if (nationaldex == 830)
+    {
+        printf ("Eldegoss\n");
+    }
+    if (nationaldex == 831)
+    {
+        printf ("Wooloo\n");
+    }
+    if (nationaldex == 832)
+
+    {
+        printf ("Dubwool\n");
+    }
+    if (nationaldex == 833)
+    {
+        printf ("Chewtle\n");
+    }
+    if (nationaldex == 834)
+    {
+        printf ("Drednaw\n");
+    }
+    if (nationaldex == 835)
+    {
+        printf ("Yamper\n");
+    }
+    if (nationaldex == 836)
+    {
+        printf ("Boltund\n");
+    }
+    if (nationaldex == 837)
+    {
+        printf ("Rolycoly\n");
+    }
+    if (nationaldex == 838)
+    {
+        printf ("Carkol \n");
+    }
+    if (nationaldex == 839)
+    {
+        printf ("Coalossal\n");
+    }
+    if (nationaldex == 840)
+    {
+        printf ("Applin\n");
+    }
+    if (nationaldex == 841)
+    {
+        printf ("Flapple\n");
+    }
+    if (nationaldex == 842)
+    {
+        printf ("Appletun\n");
+    }
+    if (nationaldex == 843)
+    {
+        printf ("Silicobra\n");
+    }
+    if (nationaldex == 844)
+    {
+        printf ("Sandaconda\n");
+    }
+    if (nationaldex == 845)
+    {
+        printf ("Cramorant\n");
+    }
+    if (nationaldex == 846)
+    {
+        printf ("Arrokuda\n");
+    }
+    if (nationaldex == 847)
+    {
+        printf ("Barraskewda\n");
+    }
+    if (nationaldex == 848)
+    {
+        printf ("Toxel\n");
+    }
+    if (nationaldex == 849)
+    {
+        printf ("Toxtricity\n");
+    }
+    if (nationaldex == 850)
+    {
+        printf ("Sizzlipede\n");
+    }
+    if (nationaldex == 851)
+    {
+        printf ("Centiskorch\n");
+    }
+    if (nationaldex == 852)
+    {
+        printf ("Clobbopus\n");
+    }
+    if (nationaldex == 853)
+    {
+        printf ("Grapploct\n");
+    }
+    if (nationaldex == 854)
+    {
+        printf ("Sinistea\n");
+    }
+    if (nationaldex == 855)
+    {
+        printf ("Polteageist\n");
+    }
+    if (nationaldex == 856)
+
+    {
+        printf ("Hatenna\n");
+    }
+    if (nationaldex == 857)
+    {
+        printf ("Hattrem\n");
+    }
+    if (nationaldex == 858)
+    {
+        printf ("Hatterene\n");
+    }
+    if (nationaldex == 859)
+    {
+        printf ("Impidimp\n");
+    }
+    if (nationaldex == 860)
+    {
+        printf ("Morgrem\n");
+    }
+    if (nationaldex == 861)
+    {
+        printf ("Grimmsnarl\n");
+    }
+    if (nationaldex == 862)
+    {
+        printf ("Obstagoon\n");
+    }
+    if (nationaldex == 863)
+    {
+        printf ("Perrserker\n");
+    }
+    if (nationaldex == 864)
+
+    {
+        printf ("Cursola\n");
+    }
+    if (nationaldex == 865)
+    {
+        printf ("Sirfetch'd\n");
+    }
+    if (nationaldex == 866)
+    {
+        printf ("Mr. Rime\n");
+    }
+    if (nationaldex == 867)
+    {
+        printf ("Runerigus\n");
+    }
+    if (nationaldex == 868)
+    {
+        printf ("Milcery\n");
+    }
+    if (nationaldex == 869)
+    {
+        printf ("Alcremie\n");
+    }
+    if (nationaldex == 870)
+    {
+        printf ("Falinks\n");
+    }
+    if (nationaldex == 871)
+    {
+        printf ("Pincurchin\n");
+    }
+    if (nationaldex == 872)
+    {
+        printf ("Snom\n");
+    }
+    if (nationaldex == 873)
+    {
+        printf ("Frosmoth\n");
+    }
+    if (nationaldex == 874)
+    {
+        printf ("Stonjourner\n");
+    }
+    if (nationaldex == 875)
+    {
+        printf ("Eiscue\n");
+    }
+    if (nationaldex == 876)
+    {
+        printf ("Indeedee\n");
+    }
+    if (nationaldex == 877)
+    {
+        printf ("Morpeko\n");
+    }
+    if (nationaldex == 878)
+    {
+        printf ("Cufant\n");
+    }
+    if (nationaldex == 879)
+    {
+        printf ("Copperajah\n");
+    }
+    if (nationaldex == 880)
+    {
+        printf ("Dracozolt\n");
+    }
+    if (nationaldex == 881)
+    {
+        printf ("Arctozolt\n");
+    }
+    if (nationaldex == 882)
+    {
+        printf ("Dracovish\n");
+    }
+    if (nationaldex == 883)
+    {
+        printf ("Arctovish\n");
+    }
+    if (nationaldex == 884)
+    {
+        printf ("Duraludon\n");
+    }
+    if (nationaldex == 885)
+    {
+        printf ("Dreepy\n");
+    }
+    if (nationaldex == 886)
+    {
+        printf ("Drakloak\n");
+    }
+    if (nationaldex == 887)
+    {
+        printf ("Dragapult\n");
+    }
+    if (nationaldex == 888)
+
+    {
+        printf ("Zacian\n");
+    }
+    if (nationaldex == 889)
+    {
+        printf ("Zamazenta\n");
+    }
+    if (nationaldex == 890)
+    {
+        printf ("Eternatus\n");
+    }
+    if (nationaldex == 891)
+    {
+        printf ("Kubfu\n");
+    }
+    if (nationaldex == 892)
+    {
+        printf ("Urshifu\n");
+    }
+    if (nationaldex == 893)
+    {
+        printf ("Zarude\n");
+    }
+    if (nationaldex == 894)
+    {
+        printf ("Regieleki\n");
+    }
+    if (nationaldex == 895)
+    {
+        printf ("Regidrago\n");
+    }
+    if (nationaldex == 896)
+
+    {
+        printf ("Glastrier\n");
+    }
+    if (nationaldex == 897)
+    {
+        printf ("Spectrier\n");
+    }
+    if (nationaldex == 898)
+    {
+        printf ("Calyrex\n");
+    }
+                            return(0);
+                        }
