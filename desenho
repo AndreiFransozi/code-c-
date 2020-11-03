@@ -1,0 +1,39 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <locale.h>
+int main(){
+printf("                    o                   \n");
+printf("                   ooo                  \n");
+printf("                  ooooo                 \n");
+printf("                 ooooooo                \n");
+printf("                ooooooooo               \n");
+printf("               ooooooooooo              \n");
+printf("              ooooooooooooo             \n");
+printf("             ooooooooooooooo            \n");
+printf("            ooooooooooooooooo           \n");
+printf("           ooooooooooooooooooo          \n");
+printf("          ooooooooooooooooooooo         \n");
+printf("         ooooooooooooooooooooooo        \n");
+printf("        ooooooooooooooooooooooooo       \n");
+printf("       oooooooooooooooooooooooooooo     \n");
+printf("      oooooooooooooooooooooooooooooo    \n");
+printf("     oooooooooooooooooooooooooooooooo   \n");
+printf("    oooooooooooooooooooooooooooooooooo  \n");
+printf("     \///////////////////////////////   \n");
+printf("      \/////////////////////////////    \n");
+printf("       \///////////////////////////     \n");
+printf("        \/////////////////////////      \n");
+printf("         \///////////////////////       \n");
+printf("          \/////////////////////        \n");
+printf("           \///////////////////         \n");
+printf("            \/////////////////          \n");
+printf("             \///////////////           \n");
+printf("              \/////////////            \n");
+printf("               \///////////             \n");
+printf("                \/////////              \n");
+printf("                 \///////               \n");
+printf("                  \/////                \n");
+printf("                   \///                 \n");
+printf("                    \/                  \n");
+return 0;
+}
