@@ -1,0 +1,507 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <locale.h>
+int numeroCamisa;
+int main(){
+    setlocale(LC_ALL, "Portuguese");
+
+    printf ("Digite o numero da Camisa: ");
+    scanf ("%d", &numeroCamisa);
+      if (numeroCamisa == 00)
+    {
+        printf ("ROBERT PARISH\n");
+    }
+     if (numeroCamisa == 0)
+    {
+        printf ("RUSSELL WESTBROOK\n");
+    }
+     if (numeroCamisa == 1)
+    {
+        printf ("OSCAR ROBERTSON\n");
+    }
+     if (numeroCamisa == 2)
+    {
+        printf ("MOSES MALONE\n");
+    }
+     if (numeroCamisa == 3)
+    {
+        printf ("ALLEN IVERSON\n");
+    }
+     if (numeroCamisa == 4)
+    {
+        printf ("DOLPH SCHAYES\n");
+    }
+     if (numeroCamisa == 5)
+    {
+        printf ("KEVIN GARNETT\n");
+    }
+6 - BILL RUSSELL
+7 - PETE MARAVICH
+8 - KOBE BRYANT
+9 - BOB PETTIT
+10 - WALT FRAZIER
+11 - KARL MALONE
+12 - JOHN STOCKTON
+13 - WILT CHAMBERLAIN
+14 - OSCAR ROBERTSON
+15 - HAL GREER
+16 - BOB LANIER
+17 - JOHN HAVLICEK
+18 - DAVE COWENS
+19 - WILLIS REED
+20 - GARY PAYTON
+21 - TIM DUNCAN
+22 - ELGIN BAYLOR
+23 - MICHAEL JORDAN
+24 - RICK BARRY
+25 - VINCE CARTER
+26 - BUDDY JEANNETTE
+27 - JACK TWYMAN
+28 - SAM CASSELL
+29 - MARCUS CAMBY
+30 - BERNARD KING
+31 - REGGIE MILLER
+32 - MAGIC JOHNSON
+33 - KAREEM ABDUL-JABBAR
+34 - HAKEEM OLAJUWON
+35 - KEVIN DURANT
+36 - SHAQUILLE O'NEAL
+37 - METTA WORLD PEACE
+38 - KWAME BROWN
+39 - GREG OSTERTAG
+40 - SHAWN KEMP
+41 - DIRK NOWITZKI
+42 - NATE THURMOND
+43 - JACK SIKMA
+44 - JERRY WEST
+45 - MICHAEL JORDAN
+46 - BO OUTLAW
+47 - JERRY LUCAS
+48 - NAZR MOHAMMED
+49 - SHANDON ANDERSON
+50 - DAVID ROBINSON
+51 - METTA WORLD PEACE
+52 - JAMAAL WILKES
+53 - ARTIS GILMORE
+54 - HORACE GRANT
+55 - DIKEMBE MUTOMBO
+56 - FRANCISCO ELSON
+57 - HILTON ARMSTRONG
+58 - SEM JOGADORES
+59 - SEM JOGADORES
+60 - WALT KIRK
+61 - DAVE PIONTEK
+62 - SCOT POLLARD
+63 - SEM JOGADORES
+64 - SEM JOGADORES
+65 - GEORGE KATKOVICZ
+66 - SCOT POLLARD
+67 - MOE BECKER
+68 - MILT SCHON
+69 - SEM JOGADORES
+70 - DENNIS RODMAN
+71 - WILLIE NAULLS
+72 - JASON KAPONO
+73 - DENNIS RODMAN
+74 - SEM JOGADORES
+75 - SEM JOGADORES
+76 - SHAWN BRADLEY
+77 - VLADIMIR RADMANOVIC
+78 - SEM JOGADORES
+79 - SEM JOGADORES
+80 - SEM JOGADORES
+81 - SEM JOGADORES
+82 - SEM JOGADORES
+83 - CRAIG SMITH
+84 - CHRIS WEBBER
+85 - BARON DAVIS
+86 - CHRIS JOHNSON
+87 - SEM JOGADORES
+88 - ANTOINE WALKER
+89 - CLYDE LOVELLETTE
+90 - DREW GOODEN
+91 - DENNIS RODMAN
+92 - DESHAWN STEVENSON
+93 - METTA WORLD PEACE
+94 - EVAN FOURNIER
+95 - SEM JOGADORES
+96 - METTA WORLD PEACE
+97 - SEM JOGADORES
+ JASON COLLINS
+ GEORGE MIKAN
+     if (numeroCamisa == 6)
+    {
+        printf ("BILL RUSSELL\n");
+    }
+     if (numeroCamisa == 7)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 8)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 9)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 10)
+    {
+        printf ("\n");
+    }
+        if (numeroCamisa == 11)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 12)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 13)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 14)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 15)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 16)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 17)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 18)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 19)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 20)
+    {
+        printf ("\n");
+    }
+        if (numeroCamisa == 21)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 22)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 23)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 24)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 25)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 26)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 27)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 28)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 29)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 30)
+    {
+        printf ("\n");
+    }
+        if (numeroCamisa == 31)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 32)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 33)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 34)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 35)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 36)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 37)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 38)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 39)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 40)
+    {
+        printf ("\n");
+    }
+        if (numeroCamisa == 41)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 42)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 43)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 44)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 45)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 46)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 47)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 48)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 49)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 50)
+    {
+        printf ("\n");
+    }
+        if (numeroCamisa == 51)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 52)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 53)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 54)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 55)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 56)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 57)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 58)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 59)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 60)
+    {
+        printf ("\n");
+    }
+        if (numeroCamisa == 61)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 62)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 63)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 64)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 65)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 66)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 67)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 68)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 69)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 70)
+    {
+        printf ("\n");
+    }
+        if (numeroCamisa == 71)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 72)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 73)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 74)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 75)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 76)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 77)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 78)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 79)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 80)
+    {
+        printf ("\n");
+    }
+        if (numeroCamisa == 81)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 82)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 83)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 84)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 85)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 86)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 87)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 88)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 89)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 90)
+    {
+        printf ("\n");
+    }
+        if (numeroCamisa == 91)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 92)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 93)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 94)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 95)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 96)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 97)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 98)
+    {
+        printf ("\n");
+    }
+     if (numeroCamisa == 99)
+    {
+        printf ("\n");
+    }
