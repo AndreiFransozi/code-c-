@@ -1,0 +1,313 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <locale.h>
+int ano;
+main ()
+{
+  setlocale (LC_ALL, "Portuguese");
+
+  printf ("Digite o ano do titulo da Liga Nacional de Básquet (ARGENTINA) ");
+  scanf ("%d", &ano);
+   if (ano == 1985)
+
+    {
+
+      printf ("Ferro Carril Oeste\n");
+
+    }
+
+
+  if (ano == 1986)
+
+    {
+
+      printf ("Ferro Carril Oeste\n");
+
+    }
+
+
+  if (ano == 1987)
+
+    {
+
+      printf ("Atenas\n");
+
+    }
+
+
+  if (ano == 1988)
+
+    {
+
+      printf ("Atenas\n");
+
+    }
+
+
+  if (ano == 1989)
+
+    {
+
+      printf ("Ferro Carril Oesten");
+
+    }
+
+
+  if (ano == 1990)
+
+    {
+
+      printf ("Atenas\n");
+       printf ("Gimnasia y Esgrima y Pedernera Unidos\n");
+
+    }
+
+  if (ano == 1991)
+
+    {
+
+      printf ("	Atenas\n");
+
+    }
+
+
+  if (ano == 1992)
+
+    {
+
+      printf ("Gimnasia y Esgrima y Pedernera Unidos\n");
+
+    }
+
+
+  if (ano == 1993)
+
+    {
+
+      printf ("Peñarol de Mar del Plata\n");
+
+    }
+
+
+  if (ano == 1994)
+
+    {
+
+      printf ("Independiente de General Pico\n");
+
+    }
+
+
+  if (ano == 1995)
+
+    {
+
+      printf ("Olimpia de Venado Tuerto\n");
+
+    }
+
+
+  if (ano == 1996)
+
+    {
+
+      printf ("Boca Juniors\n");
+
+    }
+
+
+  if (ano == 1997)
+
+    {
+
+      printf ("Atenas\n");
+
+    }
+
+
+  if (ano == 1998)
+
+    {
+
+      printf ("Atenas\n");
+
+    }
+
+
+  if (ano == 1999)
+
+    {
+
+      printf ("Estudiantes de Olavarría\n");
+
+    }
+
+
+  if (ano == 2000)
+
+    {
+
+      printf ("Estudiantes de Olavarría\n");
+
+    }
+
+
+  if (ano == 2001)
+
+    {
+
+      printf ("Atenas\n");
+
+    }
+
+
+  if (ano == 2002)
+
+    {
+
+      printf ("Atenas\n");
+
+    }
+
+
+  if (ano == 2003)
+
+    {
+
+      printf ("Boca Juniors\n");
+
+    }
+
+  if (ano == 2004)
+
+    {
+
+      printf ("Ben Hur\n");
+
+    }
+
+
+  if (ano == 2005)
+
+    {
+
+      printf ("Gimnasia y Esgrima de Comodoro Rivadavia\n");
+
+    }
+
+
+  if (ano == 2006)
+
+    {
+
+      printf ("Boca Juniors\n");
+
+    }
+
+
+  if (ano == 2007)
+
+    {
+
+      printf ("Libertad\n");
+
+    }
+
+
+  if (ano == 2008)
+
+    {
+
+      printf ("Atenas\n");
+
+    }
+
+  if (ano == 2009)
+
+    {
+
+      printf ("Peñarol de Mar del Plata\n");
+
+    }
+
+
+  if (ano == 2010)
+
+    {
+
+      printf ("Peñarol de Mar del Plata\n");
+
+    }
+
+
+  if (ano == 2011)
+
+    {
+
+      printf ("Peñarol de Mar del Plata\n");
+
+    }
+
+
+  if (ano == 2012)
+
+    {
+
+      printf ("Regatas Corrientes\n");
+
+    }
+
+
+  if (ano == 2013)
+
+    {
+
+      printf ("Peñarol de Mar del Plata\n");
+
+    }
+
+
+  if (ano == 2014)
+
+    {
+
+      printf ("Quimsa\n");
+
+    }
+
+
+  if (ano == 2015)
+
+    {
+
+      printf ("San Lorenzo\n");
+
+    }
+
+
+  if (ano == 2016)
+
+    {
+
+      printf ("San Lorenzo\n");
+
+    }
+
+  if (ano == 2017)
+
+    {
+
+      printf ("San Lorenzo\n");
+
+    }
+
+
+  if (ano == 2018)
+
+    {
+
+      printf ("San Lorenzo\n");
+
+    }
+  return (0);
+}
