@@ -1,0 +1,161 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <locale.h>
+int ano;
+int
+main ()
+{
+  setlocale (LC_ALL, "Portuguese");
+
+  printf ("Digite o ano do titulo da Liga Brasileira de Beisebol");
+  scanf ("%d", &ano);
+if (ano == 2003)
+
+    {
+
+      printf ("Gecebs\n");
+
+    }
+
+  if (ano == 2004)
+
+    {
+
+      printf ("Coopercotia\n");
+
+    }
+
+
+  if (ano == 2005)
+
+    {
+
+      printf ("Sakura\n");
+
+    }
+
+
+  if (ano == 2006)
+
+    {
+
+      printf ("Anhanguera\n");
+
+    }
+
+
+  if (ano == 2007)
+
+    {
+
+      printf ("Nippon Blue Jays\n");
+
+    }
+
+
+  if (ano == 2008)
+
+    {
+
+      printf ("Dourados\n");
+
+    }
+
+  if (ano == 2009)
+
+    {
+
+      printf ("Sakura\n");
+
+    }
+
+
+  if (ano == 2010)
+
+    {
+
+      printf ("Nippon Blue Jays B\n");
+
+    }
+
+
+  if (ano == 2011)
+
+    {
+
+      printf ("Nippon Blue Jays B\n");
+
+    }
+
+
+  if (ano == 2012)
+
+    {
+
+      printf ("Atibaia\n");
+
+    }
+
+
+  if (ano == 2013)
+
+    {
+
+      printf ("Atibaia\n");
+
+    }
+
+
+  if (ano == 2014)
+
+    {
+
+      printf ("Marília\n");
+
+    }
+
+
+  if (ano == 2015)
+
+    {
+
+      printf ("Marília\n");
+
+    }
+
+
+  if (ano == 2016)
+
+    {
+
+      printf ("Marília\n");
+
+    }
+
+  if (ano == 2017)
+
+    {
+
+      printf ("Gecebs\n");
+
+    }
+
+
+  if (ano == 2018)
+
+    {
+
+      printf ("Nippon Blue Jays\n");
+
+    }
+
+
+  if (ano == 2019)
+
+    {
+
+      printf ("Gecebs\n");
+
+    }
+  return (0);
+}
