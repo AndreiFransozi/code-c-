@@ -35,473 +35,381 @@ int main(){
     {
         printf ("KEVIN GARNETT\n");
     }
-6 - BILL RUSSELL
-7 - PETE MARAVICH
-8 - KOBE BRYANT
-9 - BOB PETTIT
-10 - WALT FRAZIER
-11 - KARL MALONE
-12 - JOHN STOCKTON
-13 - WILT CHAMBERLAIN
-14 - OSCAR ROBERTSON
-15 - HAL GREER
-16 - BOB LANIER
-17 - JOHN HAVLICEK
-18 - DAVE COWENS
-19 - WILLIS REED
-20 - GARY PAYTON
-21 - TIM DUNCAN
-22 - ELGIN BAYLOR
-23 - MICHAEL JORDAN
-24 - RICK BARRY
-25 - VINCE CARTER
-26 - BUDDY JEANNETTE
-27 - JACK TWYMAN
-28 - SAM CASSELL
-29 - MARCUS CAMBY
-30 - BERNARD KING
-31 - REGGIE MILLER
-32 - MAGIC JOHNSON
-33 - KAREEM ABDUL-JABBAR
-34 - HAKEEM OLAJUWON
-35 - KEVIN DURANT
-36 - SHAQUILLE O'NEAL
-37 - METTA WORLD PEACE
-38 - KWAME BROWN
-39 - GREG OSTERTAG
-40 - SHAWN KEMP
-41 - DIRK NOWITZKI
-42 - NATE THURMOND
-43 - JACK SIKMA
-44 - JERRY WEST
-45 - MICHAEL JORDAN
-46 - BO OUTLAW
-47 - JERRY LUCAS
-48 - NAZR MOHAMMED
-49 - SHANDON ANDERSON
-50 - DAVID ROBINSON
-51 - METTA WORLD PEACE
-52 - JAMAAL WILKES
-53 - ARTIS GILMORE
-54 - HORACE GRANT
-55 - DIKEMBE MUTOMBO
-56 - FRANCISCO ELSON
-57 - HILTON ARMSTRONG
-58 - SEM JOGADORES
-59 - SEM JOGADORES
-60 - WALT KIRK
-61 - DAVE PIONTEK
-62 - SCOT POLLARD
-63 - SEM JOGADORES
-64 - SEM JOGADORES
-65 - GEORGE KATKOVICZ
-66 - SCOT POLLARD
-67 - MOE BECKER
-68 - MILT SCHON
-69 - SEM JOGADORES
-70 - DENNIS RODMAN
-71 - WILLIE NAULLS
-72 - JASON KAPONO
-73 - DENNIS RODMAN
-74 - SEM JOGADORES
-75 - SEM JOGADORES
-76 - SHAWN BRADLEY
-77 - VLADIMIR RADMANOVIC
-78 - SEM JOGADORES
-79 - SEM JOGADORES
-80 - SEM JOGADORES
-81 - SEM JOGADORES
-82 - SEM JOGADORES
-83 - CRAIG SMITH
-84 - CHRIS WEBBER
-85 - BARON DAVIS
-86 - CHRIS JOHNSON
-87 - SEM JOGADORES
-88 - ANTOINE WALKER
-89 - CLYDE LOVELLETTE
-90 - DREW GOODEN
-91 - DENNIS RODMAN
-92 - DESHAWN STEVENSON
-93 - METTA WORLD PEACE
-94 - EVAN FOURNIER
-95 - SEM JOGADORES
-96 - METTA WORLD PEACE
-97 - SEM JOGADORES
- JASON COLLINS
- GEORGE MIKAN
      if (numeroCamisa == 6)
     {
         printf ("BILL RUSSELL\n");
     }
      if (numeroCamisa == 7)
     {
-        printf ("\n");
+        printf ("PETE MARAVICH\n");
     }
      if (numeroCamisa == 8)
     {
-        printf ("\n");
+        printf ("KOBE BRYANT\n");
     }
      if (numeroCamisa == 9)
     {
-        printf ("\n");
+        printf ("BOB PETTIT\n");
     }
      if (numeroCamisa == 10)
     {
-        printf ("\n");
+        printf ("WALT FRAZIER\n");
     }
         if (numeroCamisa == 11)
     {
-        printf ("\n");
+        printf ("KARL MALONE\n");
     }
      if (numeroCamisa == 12)
     {
-        printf ("\n");
+        printf ("JOHN STOCKTON\n");
     }
      if (numeroCamisa == 13)
     {
-        printf ("\n");
+        printf ("WILT CHAMBERLAIN\n");
     }
      if (numeroCamisa == 14)
     {
-        printf ("\n");
+        printf ("OSCAR ROBERTSON\n");
     }
      if (numeroCamisa == 15)
     {
-        printf ("\n");
+        printf ("HAL GREER\n");
     }
      if (numeroCamisa == 16)
     {
-        printf ("\n");
+        printf ("BOB LANIER\n");
     }
      if (numeroCamisa == 17)
     {
-        printf ("\n");
+        printf ("JOHN HAVLICEK\n");
     }
      if (numeroCamisa == 18)
     {
-        printf ("\n");
+        printf ("DAVE COWENS\n");
     }
      if (numeroCamisa == 19)
     {
-        printf ("\n");
+        printf ("WILLIS REED\n");
     }
      if (numeroCamisa == 20)
     {
-        printf ("\n");
+        printf ("GARY PAYTON\n");
     }
         if (numeroCamisa == 21)
     {
-        printf ("\n");
+        printf ("TIM DUNCAN\n");
     }
      if (numeroCamisa == 22)
     {
-        printf ("\n");
+        printf ("ELGIN BAYLOR\n");
     }
      if (numeroCamisa == 23)
     {
-        printf ("\n");
+        printf ("MICHAEL JORDAN\n");
     }
      if (numeroCamisa == 24)
     {
-        printf ("\n");
+        printf ("RICK BARRY\n");
     }
      if (numeroCamisa == 25)
     {
-        printf ("\n");
+        printf ("VINCE CARTER\n");
     }
      if (numeroCamisa == 26)
     {
-        printf ("\n");
+        printf ("BUDDY JEANNETTE\n");
     }
      if (numeroCamisa == 27)
     {
-        printf ("\n");
+        printf ("JACK TWYMAN\n");
     }
      if (numeroCamisa == 28)
     {
-        printf ("\n");
+        printf ("SAM CASSELL\n");
     }
      if (numeroCamisa == 29)
     {
-        printf ("\n");
+        printf ("MARCUS CAMBY\n");
     }
      if (numeroCamisa == 30)
     {
-        printf ("\n");
+        printf ("BERNARD KING\n");
     }
         if (numeroCamisa == 31)
     {
-        printf ("\n");
+        printf ("REGGIE MILLER\n");
     }
      if (numeroCamisa == 32)
     {
-        printf ("\n");
+        printf ("MAGIC JOHNSON\n");
     }
      if (numeroCamisa == 33)
     {
-        printf ("\n");
+        printf ("KAREEM ABDUL-JABBAR\n");
     }
      if (numeroCamisa == 34)
     {
-        printf ("\n");
+        printf ("HAKEEM OLAJUWON E JASON COLLINS\n");
     }
      if (numeroCamisa == 35)
     {
-        printf ("\n");
+        printf ("KEVIN DURANT\n");
     }
      if (numeroCamisa == 36)
     {
-        printf ("\n");
+        printf ("SHAQUILLE O'NEAL\n");
     }
      if (numeroCamisa == 37)
     {
-        printf ("\n");
+        printf ("METTA WORLD PEACE\n");
     }
      if (numeroCamisa == 38)
     {
-        printf ("\n");
+        printf ("KWAME BROWN\n");
     }
      if (numeroCamisa == 39)
     {
-        printf ("\n");
+        printf ("KWAME BROWN\n");
     }
      if (numeroCamisa == 40)
     {
-        printf ("\n");
+        printf ("SHAWN KEMP\n");
     }
         if (numeroCamisa == 41)
     {
-        printf ("\n");
+        printf ("DIRK NOWITZKI\n");
     }
      if (numeroCamisa == 42)
     {
-        printf ("\n");
+        printf ("NATE THURMOND\n");
     }
      if (numeroCamisa == 43)
     {
-        printf ("\n");
+        printf ("JACK SIKMA\n");
     }
      if (numeroCamisa == 44)
     {
-        printf ("\n");
+        printf ("JERRY WEST\n");
     }
      if (numeroCamisa == 45)
     {
-        printf ("\n");
+        printf ("MICHAEL JORDAN\n");
     }
      if (numeroCamisa == 46)
     {
-        printf ("\n");
+        printf ("BO OUTLAW\n");
     }
      if (numeroCamisa == 47)
     {
-        printf ("\n");
+        printf ("JERRY LUCAS\n");
     }
      if (numeroCamisa == 48)
     {
-        printf ("\n");
+        printf ("NAZR MOHAMMED\n");
     }
      if (numeroCamisa == 49)
     {
-        printf ("\n");
+        printf ("SHANDON ANDERSON\n");
     }
      if (numeroCamisa == 50)
     {
-        printf ("\n");
+        printf ("DAVID ROBINSON\n");
     }
         if (numeroCamisa == 51)
     {
-        printf ("\n");
+        printf ("METTA WORLD PEACE\n");
     }
      if (numeroCamisa == 52)
     {
-        printf ("\n");
+        printf ("JAMAAL WILKES\n");
     }
      if (numeroCamisa == 53)
     {
-        printf ("\n");
+        printf ("ARTIS GILMORE\n");
     }
      if (numeroCamisa == 54)
     {
-        printf ("\n");
+        printf ("HORACE GRANT\n");
     }
      if (numeroCamisa == 55)
     {
-        printf ("\n");
+        printf ("DIKEMBE MUTOMBO\n");
     }
      if (numeroCamisa == 56)
     {
-        printf ("\n");
+        printf ("FRANCISCO ELSON\n");
     }
      if (numeroCamisa == 57)
     {
-        printf ("\n");
+        printf ("HILTON ARMSTRONG\n");
     }
      if (numeroCamisa == 58)
     {
-        printf ("\n");
+        printf ("SEM JOGADORES\n");
     }
      if (numeroCamisa == 59)
     {
-        printf ("\n");
+        printf ("SEM JOGADORES\n");
     }
      if (numeroCamisa == 60)
     {
-        printf ("\n");
+        printf ("WALT KIRK\n");
     }
         if (numeroCamisa == 61)
     {
-        printf ("\n");
+        printf ("DAVE PIONTEK\n");
     }
      if (numeroCamisa == 62)
     {
-        printf ("\n");
+        printf ("SCOT POLLARD\n");
     }
      if (numeroCamisa == 63)
     {
-        printf ("\n");
+        printf ("SEM JOGADORES\n");
     }
      if (numeroCamisa == 64)
     {
-        printf ("\n");
+        printf ("SEM JOGADORES\n");
     }
      if (numeroCamisa == 65)
     {
-        printf ("\n");
+        printf ("GEORGE KATKOVICZ\n");
     }
      if (numeroCamisa == 66)
     {
-        printf ("\n");
+        printf ("SCOT POLLARD\n");
     }
      if (numeroCamisa == 67)
     {
-        printf ("\n");
+        printf ("MOE BECKER\n");
     }
      if (numeroCamisa == 68)
     {
-        printf ("\n");
+        printf ("MILT SCHON\n");
     }
      if (numeroCamisa == 69)
     {
-        printf ("\n");
+        printf ("SEM JOGADORES\n");
     }
      if (numeroCamisa == 70)
     {
-        printf ("\n");
+        printf ("DENNIS RODMAN\n");
     }
         if (numeroCamisa == 71)
     {
-        printf ("\n");
+        printf ("WILLIE NAULLS\n");
     }
      if (numeroCamisa == 72)
     {
-        printf ("\n");
+        printf ("JASON KAPONO\n");
     }
      if (numeroCamisa == 73)
     {
-        printf ("\n");
+        printf ("DENNIS RODMAN\n");
     }
      if (numeroCamisa == 74)
     {
-        printf ("\n");
+        printf ("SEM JOGADORES\n");
     }
      if (numeroCamisa == 75)
     {
-        printf ("\n");
+        printf ("SEM JOGADORES\n");
     }
      if (numeroCamisa == 76)
     {
-        printf ("\n");
+        printf ("SHAWN BRADLEY\n");
     }
      if (numeroCamisa == 77)
     {
-        printf ("\n");
+        printf ("VLADIMIR RADMANOVIC\n");
     }
      if (numeroCamisa == 78)
     {
-        printf ("\n");
+        printf ("SEM JOGADORES\n");
     }
      if (numeroCamisa == 79)
     {
-        printf ("\n");
+        printf ("SEM JOGADORES\n");
     }
      if (numeroCamisa == 80)
     {
-        printf ("\n");
+        printf ("SEM JOGADORES\n");
     }
         if (numeroCamisa == 81)
     {
-        printf ("\n");
+        printf ("SEM JOGADORES\n");
     }
      if (numeroCamisa == 82)
     {
-        printf ("\n");
+        printf ("SEM JOGADORES\n");
     }
      if (numeroCamisa == 83)
     {
-        printf ("\n");
+        printf ("CRAIG SMITH\n");
     }
      if (numeroCamisa == 84)
     {
-        printf ("\n");
+        printf ("CHRIS WEBBER\n");
     }
      if (numeroCamisa == 85)
     {
-        printf ("\n");
+        printf ("BARON DAVIS\n");
     }
      if (numeroCamisa == 86)
     {
-        printf ("\n");
+        printf ("CHRIS JOHNSON\n");
     }
      if (numeroCamisa == 87)
     {
-        printf ("\n");
+        printf ("SEM JOGADORES\n");
     }
      if (numeroCamisa == 88)
     {
-        printf ("\n");
+        printf ("ANTOINE WALKER\n");
     }
      if (numeroCamisa == 89)
     {
-        printf ("\n");
+        printf ("CLYDE LOVELLETTE\n");
     }
      if (numeroCamisa == 90)
     {
-        printf ("\n");
+        printf ("DREW GOODEN\n");
     }
         if (numeroCamisa == 91)
     {
-        printf ("\n");
+        printf ("DENNIS RODMAN\n");
     }
      if (numeroCamisa == 92)
     {
-        printf ("\n");
+        printf ("DESHAWN STEVENSON\n");
     }
      if (numeroCamisa == 93)
     {
-        printf ("\n");
+        printf ("METTA WORLD PEACE\n");
     }
      if (numeroCamisa == 94)
     {
-        printf ("\n");
+        printf ("EVAN FOURNIER\n");
     }
      if (numeroCamisa == 95)
     {
-        printf ("\n");
+        printf ("SEM JOGADORES\n");
     }
      if (numeroCamisa == 96)
     {
-        printf ("\n");
+        printf ("METTA WORLD PEACE\n");
     }
      if (numeroCamisa == 97)
     {
-        printf ("\n");
+        printf ("SEM JOGADORES\n");
     }
      if (numeroCamisa == 98)
     {
-        printf ("\n");
+        printf ("SEM JOGADORES\n");
     }
      if (numeroCamisa == 99)
     {
-        printf ("\n");
+        printf ("GEORGE MIKAN\n");
     }
+     else return (0);
+}
