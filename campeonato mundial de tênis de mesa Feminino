@@ -1,0 +1,380 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <locale.h>
+int ano;
+int main(){
+setlocale(LC_ALL, "Portuguese");
+printf ("Digite o ano do campeonato mundial de tênis de mesa Feminino: ");
+scanf ("%d", &ano);
+if (ano == 1926)
+    
+    {
+      
+printf ("Maria Mednyanszky");
+    
+}
+if (ano == 1928)
+    
+    {
+      
+printf ("Maria Mednyanszky");
+    
+}
+if (ano == 1929)
+    
+    {
+      
+printf ("Maria Mednyanszky");
+    
+}
+if (ano == 1930)
+    
+    {
+      
+printf ("Maria Mednyanszky");
+    
+}
+if (ano == 1931)
+    
+    {
+      
+printf ("Maria Mednyanszky");
+    
+}
+if (ano == 1932)
+    
+    {
+      
+printf ("Anna Sipos");
+    
+    
+}
+if (ano == 1933)
+    
+    {
+      
+printf ("Anna Sipos");
+    
+}
+if (ano == 1934)
+    
+    {
+      
+printf ("Marie Kettnerova");
+    
+}
+if (ano == 1935)
+    
+    {
+      
+printf ("Marie Kettnerova");
+    
+}
+if (ano == 1936)
+    
+    {
+      
+printf ("Ruth Aarons");
+    
+}
+if (ano == 1937)
+    
+    {
+      
+printf ("Gertrude Pritzi e Ruth Aarons ");
+    
+}
+if (ano == 1938)
+    
+    {
+      
+printf ("Gertrude Pritzi");
+    
+}
+if (ano == 1939)
+    
+    {
+      
+printf ("Vlasta Depetrisova");
+    
+}
+if (ano == 1947)
+    
+    {
+      
+printf ("Gizella Farkas\n");
+    
+}
+  
+if (ano == 1948)
+    
+    {
+      
+printf ("Gizella Farkas\n");
+    
+}
+  
+if (ano == 1949)
+    
+    {
+      
+printf("Gizella Farkas\n");
+    
+}
+  
+if (ano == 1950)
+    
+    {
+      
+printf ("Angelica Rozeanu\n");
+    
+}
+  
+if (ano == 1951)
+    
+    {
+      
+printf ("Angelica Rozeanu\n");
+    
+}
+  
+if (ano == 1952)
+    
+    {
+      
+printf ("Angelica Rozeanu\n");
+    
+}
+  
+if (ano == 1953)
+    
+    {
+      
+printf ("Angelica Rozeanu\n");
+    
+}
+  
+if (ano == 1954)
+    
+    {
+      
+printf ("Angelica Rozeanu\n");
+    
+}
+  
+if (ano == 1955)
+    
+    {
+      
+printf ("Angelica Rozeanu\n");
+    
+}
+  
+if (ano == 1956)
+    
+    {
+      
+printf ("Tomie Okawa\n");
+    
+}
+  
+ 
+if (ano == 1957)
+    
+    {
+      
+printf ("Fujie Eguchi\n");
+    
+} 
+if (ano == 1959)
+    
+    {
+      
+printf ("Kimiyo Matsuzaki\n");
+    
+}
+  
+if (ano == 1961)
+    
+    {
+      
+printf ("Qiu Zhonghui\n");
+    
+}
+if (ano == 1963)
+    
+    {
+      
+printf ("Kimiyo Matsuzaki\n");
+    
+}
+ 
+if (ano == 1965)
+    
+    {
+      
+printf ("Naoko Fukazu\n");
+    
+}
+if (ano == 1967)
+    
+    {
+      
+printf ("Sachiko Morisawa\n");
+    
+}
+ 
+if (ano == 1969)
+    
+    {
+      
+printf ("Toshiko Kowada\n");
+    
+} 
+if (ano == 1971)
+    
+    {
+      
+printf ("Lin Huiqing\n");
+    
+} 
+if (ano == 1973)
+    
+    {
+      
+printf ("Hu Yulan\n");
+    
+}
+
+if (ano == 1975)
+    
+    {
+      
+printf ("Pak Yung Sun\n");
+    
+}
+
+if (ano == 1977)
+    
+    {
+      
+printf ("Pak Yung Sun\n");
+    
+}
+ 
+ 
+if (ano == 1979)
+    
+    {
+      
+printf ("Ge Xinai\n");
+    
+}
+
+if (ano == 1981)
+    
+    {
+      
+printf ("Tong Ling\n");
+    
+}
+
+if (ano == 1983)
+    
+    {
+      
+printf ("Cao Yanhua\n");
+    
+}
+if (ano == 1985)
+    
+    {
+      
+printf ("Cao Yanhua\n");
+    
+}
+if (ano == 1987)
+    
+    {
+      
+printf ("He Zhili\n");
+    
+}
+if (ano == 1989)
+    
+    {
+      
+printf ("Qiao Hong\n");
+    
+}
+
+if (ano == 1991)
+    
+    {
+      
+printf ("Deng Yaping\n");
+    
+}
+
+if (ano == 1993)
+    
+    {
+      
+printf ("Hyun Jung Hwa \n");
+    
+}
+if (ano == 1995)
+    
+    {
+      
+printf ("Deng Yaping\n");
+    
+}
+if (ano == 1997)
+    
+    {
+      
+printf ("Deng Yaping\n");
+    
+}
+if (ano == 1999)
+    
+    {
+      
+printf ("Wang Nan\n");
+    
+}
+ 
+if (ano == 2001)
+    
+    {
+      
+printf ("Wang Nan\n");
+    
+}
+ 
+if (ano == 2003)
+    
+    {
+      
+printf ("Wang Nan\n");
+
+ 
+if (ano == 2005)
+    
+    {
+      
+printf ("Zhang Yining\n");
+    
+}
+ 
+if (ano == 2007)
+    
+    {
+      
+printf ("Guo Yue\n");
+    
+}
+else{
+    exit;
+}
