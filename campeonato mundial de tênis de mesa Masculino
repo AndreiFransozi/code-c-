@@ -1,0 +1,380 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <locale.h>
+int ano;
+int main(){
+setlocale(LC_ALL, "Portuguese");
+printf ("Digite o ano do campeonato mundial de tênis de mesa Masculino : ");
+scanf ("%d", &ano);
+if (ano == 1926)
+    
+    {
+      
+printf ("Roland Jacobi");
+    
+}
+if (ano == 1928)
+    
+    {
+      
+printf ("Zoltán Mechlovits");
+    
+}
+if (ano == 1929)
+    
+    {
+      
+printf ("Fred Perry");
+    
+}
+if (ano == 1930)
+    
+    {
+      
+printf ("Viktor Barna");
+    
+}
+if (ano == 1931)
+    
+    {
+      
+printf ("Miklós Szabados");
+    
+}
+if (ano == 1932)
+    
+    {
+      
+printf ("Viktor Barna");
+    
+    
+}
+if (ano == 1933)
+    
+    {
+      
+printf ("Viktor Barna");
+    
+}
+if (ano == 1934)
+    
+    {
+      
+printf ("Viktor Barna");
+    
+}
+if (ano == 1935)
+    
+    {
+      
+printf ("Viktor Barna");
+    
+}
+if (ano == 1936)
+    
+    {
+      
+printf ("Stanislav Kolar");
+    
+}
+if (ano == 1937)
+    
+    {
+      
+printf ("Richard Bergmann");
+    
+}
+if (ano == 1938)
+    
+    {
+      
+printf ("Bohumil Vana");
+    
+}
+if (ano == 1939)
+    
+    {
+      
+printf ("Richard Bergmann");
+    
+}
+if (ano == 1947)
+    
+    {
+      
+printf ("Bohumil Vana\n");
+    
+}
+  
+if (ano == 1948)
+    
+    {
+      
+printf ("Richard Bergmann\n");
+    
+}
+  
+if (ano == 1949)
+    
+    {
+      
+printf("Johnny Leach\n");
+    
+}
+  
+if (ano == 1950)
+    
+    {
+      
+printf ("Richard Bergmann\n");
+    
+}
+  
+if (ano == 1951)
+    
+    {
+      
+printf ("Johnny Leach\n");
+    
+}
+  
+if (ano == 1952)
+    
+    {
+      
+printf ("Hiroji Satoh\n");
+    
+}
+  
+if (ano == 1953)
+    
+    {
+      
+printf ("Ferenc Sidó\n");
+    
+}
+  
+if (ano == 1954)
+    
+    {
+      
+printf ("Ichiro Ogimura\n");
+    
+}
+  
+if (ano == 1955)
+    
+    {
+      
+printf ("Toshio Tanaka\n");
+    
+}
+  
+if (ano == 1956)
+    
+    {
+      
+printf ("Ichiro Ogimura\n");
+    
+}
+  
+ 
+if (ano == 1957)
+    
+    {
+      
+printf ("Toshio Tanaka\n");
+    
+} 
+if (ano == 1959)
+    
+    {
+      
+printf ("Rong Guotuan\n");
+    
+}
+  
+if (ano == 1961)
+    
+    {
+      
+printf ("Zhuang Zedong\n");
+    
+}
+if (ano == 1963)
+    
+    {
+      
+printf ("Zhuang Zedong\n");
+    
+}
+ 
+if (ano == 1965)
+    
+    {
+      
+printf ("Zhuang Zedong\n");
+    
+}
+if (ano == 1967)
+    
+    {
+      
+printf ("Nobuhiko Hasegawa\n");
+    
+}
+ 
+if (ano == 1969)
+    
+    {
+      
+printf ("Shigeo Itoh\n");
+    
+} 
+if (ano == 1971)
+    
+    {
+      
+printf ("Stellan Bengtsson\n");
+    
+} 
+if (ano == 1973)
+    
+    {
+      
+printf ("Xi Enting\n");
+    
+}
+
+if (ano == 1975)
+    
+    {
+      
+printf ("István Jónyer\n");
+    
+}
+
+if (ano == 1977)
+    
+    {
+      
+printf ("Mitsuru Kohno\n");
+    
+}
+ 
+ 
+if (ano == 1979)
+    
+    {
+      
+printf ("Seiji Ono\n");
+    
+}
+
+if (ano == 1981)
+    
+    {
+      
+printf ("Guo Yuehua\n");
+    
+}
+
+if (ano == 1983)
+    
+    {
+      
+printf ("Guo Yuehua\n");
+    
+}
+if (ano == 1985)
+    
+    {
+      
+printf ("Jiang Jialiang\n");
+    
+}
+if (ano == 1987)
+    
+    {
+      
+printf ("Jiang Jialiang\n");
+    
+}
+if (ano == 1989)
+    
+    {
+      
+printf ("Jan-Ove Waldner\n");
+    
+}
+
+if (ano == 1991)
+    
+    {
+      
+printf ("Jörgen Persson\n");
+    
+}
+
+if (ano == 1993)
+    
+    {
+      
+printf ("Jean-Philippe Gatien\n");
+    
+}
+if (ano == 1995)
+    
+    {
+      
+printf ("Kong Linghui\n");
+    
+}
+if (ano == 1997)
+    
+    {
+      
+printf ("Jan-Ove Waldner\n");
+    
+}
+if (ano == 1999)
+    
+    {
+      
+printf ("Liu Guoliang\n");
+    
+}
+ 
+if (ano == 2001)
+    
+    {
+      
+printf ("Wang Liqin\n");
+    
+}
+ 
+if (ano == 2003)
+    
+    {
+      
+printf ("Werner Schlager\n");
+
+ 
+if (ano == 2005)
+    
+    {
+      
+printf ("Wang Liqin\n");
+    
+}
+ 
+if (ano == 2007)
+    
+    {
+      
+printf ("Wang Liqin\n");
+    
+}
+else{
+    exit;
+}
