@@ -1,0 +1,216 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <locale.h>
+int ano;
+int main(){
+setlocale(LC_ALL, "Portuguese");
+
+printf ("Digite o ano do titulo da Liga Nacional de Handebol Masculino : ");
+scanf ("%d", &ano);
+if (ano == 1997)
+    
+    {
+      
+printf ("AAA Metodista\n");
+    
+}
+  
+ 
+if (ano == 1998)
+    
+    {
+      
+printf ("AAA Metodista\n");
+    
+}
+  
+ 
+if (ano == 1999)
+    
+    {
+      
+printf ("AAA Metodista\n");
+    
+}
+  
+ 
+if (ano == 2000)
+    
+    {
+      
+printf ("AAA Metodista\n");
+    
+}
+  
+ 
+if (ano == 2001)
+    
+    {
+      
+printf ("AAA Metodista\n");
+    
+}
+  
+ 
+if (ano == 2002)
+    
+    {
+      
+printf ("AAA Metodista\n");
+    
+}
+  
+ 
+if (ano == 2003)
+    
+    {
+      
+printf ("Imes São Caetano\n");
+    
+}
+  
+if (ano == 2004)
+    
+    {
+      
+printf ("AAA Metodista\n");
+    
+}
+  
+ 
+if (ano == 2005)
+    
+    {
+      
+printf ("ALE Londrina\n");
+    
+}
+  
+ 
+if (ano == 2006)
+    
+    {
+      
+printf ("AAA Metodista\n");
+    
+}
+  
+ 
+if (ano == 2007)
+    
+    {
+      
+printf ("EC Pinheiros\n");
+    
+}
+  
+ 
+if (ano == 2008)
+    
+    {
+      
+printf ("ALE Londrina\n");
+    
+}
+  
+if (ano == 2009)
+    
+    {
+      
+printf ("EC Pinheiros\n");
+    
+}
+  
+ 
+if (ano == 2010)
+    
+    {
+      
+printf ("EC Pinheiros\n");
+    
+}
+  
+ 
+if (ano == 2011)
+    
+    {
+      
+printf ("EC Pinheiros\n");
+    
+}
+  
+ 
+if (ano == 2012)
+    
+    {
+      
+printf ("EC Pinheiros\n");
+    
+}
+  
+ 
+if (ano == 2013)
+    
+    {
+      
+printf ("Handebol Taubaté\n");
+    
+}
+  
+ 
+if (ano == 2014)
+    
+    {
+      
+printf ("Handebol Taubaté\n");
+    
+}
+  
+ 
+if (ano == 2015)
+    
+    {
+      
+printf ("EC Pinheiros\n");
+    
+}
+  
+ 
+if (ano == 2016)
+    
+    {
+      
+printf ("Handebol Taubaté\n");
+    
+}
+  
+if (ano == 2017)
+    
+    {
+      
+printf ("EC Pinheiros\n");
+    
+}
+  
+ 
+if (ano == 2018)
+    
+    {
+      
+printf ("EC Pinheiros\n");
+    
+}
+  
+ 
+if (ano == 2019)
+    
+    {
+      
+printf ("Handebol Taubaté\n");
+    
+}
+else{
+    exit;
+}
+  return(0);
+}
