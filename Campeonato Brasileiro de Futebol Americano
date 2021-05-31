@@ -1,0 +1,109 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <locale.h>
+int ano;
+int
+main ()
+{
+  setlocale (LC_ALL, "Portuguese");
+
+  printf ("Digite o ano do titulo da Campeonato Brasileiro de Futebol Americano");
+  scanf ("%d", &ano);
+  if (ano == 2009)
+
+    {
+
+      printf ("Rio de Janeiro Imperadores\n");
+
+    }
+
+
+  if (ano == 2010)
+
+    {
+
+      printf ("Vila Velha Tritões e Cuiabá Arsenal\n");
+
+    }
+
+
+  if (ano == 2011)
+
+    {
+
+      printf ("Corinthians Steamrollers & Fluminense Imperadores\n");
+
+    }
+
+
+  if (ano == 2012)
+
+    {
+
+      printf ("Corinthians Steamrollers e Cuiabá Arsenal\n");
+
+    }
+
+
+  if (ano == 2013)
+
+    {
+
+      printf ("Jaraguá Breakers e Coritiba Crocodiles\n");
+
+    }
+
+
+  if (ano == 2014)
+
+    {
+
+      printf ("Vasco da Gama Patriotas e Coritiba Crocodiles\n");
+
+    }
+
+
+  if (ano == 2015)
+
+    {
+
+      printf ("Timbó Rex e João Pessoa Espectros\n");
+
+    }
+
+
+  if (ano == 2016)
+
+    {
+
+      printf ("Timbó Rex\n");
+
+    }
+
+  if (ano == 2017)
+
+    {
+
+      printf ("Sada Cruzeiro\n");
+
+    }
+
+
+  if (ano == 2018)
+
+    {
+
+      printf ("Galo FA\n");
+
+    }
+
+
+  if (ano == 2019)
+
+    {
+
+      printf ("João Pessoa Espectros\n");
+
+    }
+  return (0);
+}
