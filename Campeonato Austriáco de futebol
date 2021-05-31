@@ -1,0 +1,246 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <locale.h>
+int ano;
+int main(){
+setlocale(LC_ALL, "Portuguese");
+
+printf ("Digite o ano do titulo do Campeonato Austriáco de futebol: ");
+scanf ("%d", &ano);
+if(ano ==1974)
+  {
+      
+printf ("FC Wacker Innsbruck");
+    
+}
+if(ano == 1975)
+  {
+      
+printf ("Austria Viena");
+    
+}
+if(ano == 1976)
+  {
+      
+printf ("FC Wacker Innsbruck");
+    
+}
+if(ano == 1977)
+  {
+      
+printf ("Austria Viena");
+    
+}
+if(ano == 1978)
+  {
+      
+printf ("Austria Viena");
+    
+}
+if(ano == 1979)
+  {
+      
+printf ("Austria Viena");
+    
+}
+if(ano == 1980)
+  {
+      
+printf ("Austria Viena");
+    
+}
+if(ano == 1981)
+  {
+      
+printf ("Rapid Viena");
+    
+}
+if(ano == 1982)
+  {
+      
+printf ("Rapid Viena");
+    
+}
+if(ano == 1983)
+  {
+      
+printf ("Austria Viena");
+    
+}
+if(ano == 1984)
+  {
+      
+printf ("Austria Viena");
+    
+}
+if(ano == 1985)
+  {
+      
+printf ("Austria Viena");
+}
+if(ano == 1986)
+  {
+      
+printf ("Rapid Viena");
+    
+}
+if(ano == 1987)
+  {
+      
+printf ("Rapid Viena");
+    
+}
+if(ano == 1988)
+  {
+      
+printf ("FC Swarovski Tirol");
+    
+}
+if(ano == 1989)
+  {
+      
+printf ("FC Swarovski Tirol");
+    
+}
+if(ano == 1990)
+  {
+      
+printf ("Austria Viena");
+    
+}
+if(ano == 1991)
+  {
+      
+printf ("Austria Viena");
+}
+if(ano == 1992)
+  {
+      
+printf ("Austria Viena");
+}
+if(ano == 1993)
+  {
+      
+printf ("Austria Salzburg");
+}
+if(ano == 1994)
+  {
+      
+printf ("Austria Salzburg");
+}
+if(ano == 1995)
+  {
+      
+printf ("Rapid Viena");
+}
+if(ano == 1996)
+  {
+      
+printf ("Austria Salzburg");
+}
+if(ano == 1997)
+  {
+      
+printf ("Sturm Graz");
+}
+if(ano == 1998)
+  {
+      
+printf ("Sturm Graz");
+}
+if(ano == 1999)
+  {
+      
+printf ("FC Tirol Innsbruck");
+}
+if(ano == 2000)
+  {
+      
+printf ("FC Tirol Innsbruck");
+}
+if(ano == 2001)
+  {
+      
+printf ("FC Tirol Innsbruck");
+}
+if(ano == 2002)
+  {
+      
+printf ("Austria Viena");
+}
+if(ano == 2003)
+  {
+      
+printf ("Grazer AK");
+}
+if(ano == 2004)
+  {
+      
+printf ("Rapid Viena");
+}
+if(ano == 2005)
+  {
+      
+printf ("Austria Viena");
+}
+if(ano == 2006)
+  {
+printf ("Red Bull Salzburg");
+}
+if(ano == 2007)
+  {
+printf ("Rapid Viena");
+}
+if(ano == 2008)
+  {
+printf ("Red Bull Salzburg");
+}
+if(ano == 2009)
+  {
+printf ("Red Bull Salzburg");
+}
+if(ano == 2010)
+  {
+printf ("SK Sturm Graz");
+}
+if(ano == 2011)
+  {
+printf ("Red Bull Salzburg");
+}
+if(ano == 2012)
+  {
+printf ("Austria Viena");
+}
+if(ano == 2013)
+  {
+printf ("Red Bull Salzburg");
+}
+if(ano == 2014)
+  {
+printf ("Red Bull Salzburg");
+}
+if(ano == 2015)
+  {
+printf ("Red Bull Salzburg");
+}
+if(ano == 2016)
+  {
+printf ("Red Bull Salzburg");
+}
+if(ano == 2017)
+  {
+printf ("Red Bull Salzburg");
+}
+if(ano == 2018)
+  {
+printf ("Red Bull Salzburg");
+}
+if(ano == 2019)
+  {
+printf ("Red Bull Salzburg");
+}
+else{
+    exit;
+}
+  return(0);
+}
