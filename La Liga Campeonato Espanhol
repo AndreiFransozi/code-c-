@@ -31,5 +31,17 @@ printf("Real Madrid");
 printf("Real Madrid");
 }
 
+  if (anoInicio = 1933 && anoFinal == 1934)
+{
+printf("Athletic Bilbao ");
+}
+  if (anoInicio = 1934 && anoFinal == 1935)
+{
+printf("Betis");
+}
+  if (anoInicio = 1935 && anoFinal == 1936)
+{
+printf("Athletic Bilbao ");
+}
   return(0);
 }
