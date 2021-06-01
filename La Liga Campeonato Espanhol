@@ -31,6 +31,91 @@ printf("Real Madrid");
 printf("Real Madrid");
 }
 
+  if (anoInicio = 1939 && anoFinal == 1940)
+{
+printf("Atlético Aviación");
+}
+  if (anoInicio = 1940 && anoFinal == 1941)
+{
+printf("Atlético Aviación");
+}
+  if (anoInicio = 1941 && anoFinal == 1942)
+{
+printf("Valencia");
+}
+  if (anoInicio = 1942 && anoFinal == 1943)
+{
+printf("Atlético Bilbao");
+}
+  if (anoInicio = 1943 && anoFinal == 1944)
+{
+printf("Valencia");
+}
+  if (anoInicio = 1944 && anoFinal == 1945)
+{
+printf("Barcelona");
+}
+  if (anoInicio = 1945 && anoFinal == 1946)
+{
+printf("Sevilla");
+}
+  if (anoInicio = 1946 && anoFinal == 1947)
+{
+printf("Valencia");
+}
+  if (anoInicio = 1947 && anoFinal == 1948)
+{
+printf("Barcelona");
+}
+  if (anoInicio = 1948 && anoFinal == 1949)
+{
+printf("Barcelona");
+}
+  if (anoInicio = 1949 && anoFinal == 1950)
+{
+printf("");
+}
+  if (anoInicio = 1950 && anoFinal == 1951)
+{
+printf("");
+}
+  if (anoInicio = 1951 && anoFinal ==1952 )
+{
+printf("");
+}
+    if (anoInicio = 1952 && anoFinal ==1953 )
+{
+printf("");
+}    if (anoInicio = 1953 && anoFinal ==1954 )
+{
+printf("");
+}
+  if (anoInicio =  && anoFinal == )
+{
+printf("");
+}
+    if (anoInicio = 1954 && anoFinal ==1955 )
+{
+printf("");
+}
+    if (anoInicio = 1955 && anoFinal ==1956 ){
+printf("");
+}
+    if (anoInicio = 1956 && anoFinal ==1957 ){
+printf("");
+}
+  if (anoInicio = 1957 && anoFinal == 1958 )
+{
+printf("");
+}
+  if (anoInicio = 1958 && anoFinal == 1959)
+{
+printf("");
+}
+  if (anoInicio = 1959 && anoFinal == 1960)
+{
+printf("");
+}
   if (anoInicio = 1933 && anoFinal == 1934)
 {
 printf("Athletic Bilbao ");
