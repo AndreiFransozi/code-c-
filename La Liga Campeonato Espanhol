@@ -164,5 +164,209 @@ printf("Real Madrid");
 {
 printf("Atlético de Madrid");
 }
+  if (anoInicio = 1970 && anoFinal == 1971)
+{
+printf("Valencia");
+}
+  if (anoInicio = 1971 && anoFinal == 1972)
+{
+printf("Real Madrid");
+}
+  if (anoInicio = 1972 && anoFinal == 1973)
+{
+printf("Atlético de Madrid");
+}  
+if (anoInicio = 1973 && anoFinal == 1974)
+{
+printf("Barcelona");
+}
+  if (anoInicio = 1974 && anoFinal == 1975)
+{
+printf("Real Madrid");
+}
+  if (anoInicio = 1975 && anoFinal == 1976)
+{
+printf("Real Madrid");
+}
+  if (anoInicio = 1976 && anoFinal == 1977)
+{
+printf("Atlético de Madrid");
+}
+  if (anoInicio = 1977 && anoFinal == 1978)
+{
+printf("Real Madrid");
+}
+  if (anoInicio = 1978 && anoFinal == 1979)
+{
+printf("Real Madrid");
+}
+  if (anoInicio = 1979 && anoFinal == 1980)
+{
+printf("Real Madrid");
+}
+  if (anoInicio = 1980 && anoFinal == 1981)
+{
+printf("Real Sociedad");
+}
+  if (anoInicio = 1981 && anoFinal == 1982)
+{
+printf("Real Sociedad");
+}
+  if (anoInicio =1982  && anoFinal == 1983)
+{
+printf("Athletic Bilbao");
+}
+  if (anoInicio = 1983 && anoFinal == 1984)
+{
+printf("Athletic Bilbao");
+}
+  if (anoInicio = 1984 && anoFinal == 1985)
+{
+printf("Barcelona");
+}
+  if (anoInicio = 1985 && anoFinal == 1986)
+{
+printf("Real Madrid");
+}
+  if (anoInicio = 1986 && anoFinal == 1987)
+{
+printf("Real Madrid");
+}
+  if (anoInicio = 1987 && anoFinal == 1988)
+{
+printf("Real Madrid");
+}
+  if (anoInicio = 1988 && anoFinal == 1989)
+{
+printf("Real Madrid");
+}
+  if (anoInicio = 1989 && anoFinal == 1990)
+{
+printf("Real Madrid");
+}
+  if (anoInicio = 1990 && anoFinal == 1991)
+{
+printf("Barcelona");
+}
+  if (anoInicio = 1991 && anoFinal == 1992)
+{
+printf("Barcelona");
+}
+  if (anoInicio = 1992 && anoFinal == 1993)
+{
+printf("Barcelona");
+}
+  if (anoInicio = 1993 && anoFinal == 1994)
+{
+printf("Barcelona");
+}  
+if (anoInicio = 1994 && anoFinal == 1995)
+{
+printf("Real Madrid");
+}
+  if (anoInicio = 1995 && anoFinal == 1996)
+{
+printf("Atlético de Madrid");
+}
+  if (anoInicio = 1996 && anoFinal == 1997)
+{
+printf("Real Madrid");
+}
+  if (anoInicio = 1997 && anoFinal == 1998)
+{
+printf("Barcelona");
+}
+  if (anoInicio = 1998 && anoFinal == 1999)
+{
+printf("Barcelona");
+}
+  if (anoInicio = 1999 && anoFinal == 2000)
+{
+printf("Deportivo La Coruña");
+}
+  if (anoInicio = 2000 && anoFinal == 2001)
+{
+printf("Real Madrid");
+}
+  if (anoInicio = 2001 && anoFinal == 2002)
+{
+printf("Valencia");
+}
+  if (anoInicio = 2002 && anoFinal == 2003)
+{
+printf("Real Madrid");
+}
+  if (anoInicio = 2003 && anoFinal == 2004)
+{
+printf("Valencia");
+}
+  if (anoInicio = 2004 && anoFinal == 2005)
+{
+printf("Barcelona");
+}
+  if (anoInicio = 2005 && anoFinal == 2006)
+{
+printf("Barcelona");
+}
+  if (anoInicio = 2006 && anoFinal == 2007)
+{
+printf("Real Madrid");
+}
+  if (anoInicio = 2007 && anoFinal == 2008)
+{
+printf("Real Madrid");
+}
+  if (anoInicio = 2008 && anoFinal == 2009)
+{
+printf("Barcelona");
+}
+  if (anoInicio = 2009 && anoFinal == 2010)
+{
+printf("Barcelona");
+}
+  if (anoInicio = 2010 && anoFinal == 2011)
+{
+printf("Barcelona");
+}
+  if (anoInicio = 2011 && anoFinal == 2012)
+{
+printf("Real Madrid");
+}
+  if (anoInicio = 2012 && anoFinal == 2013)
+{
+printf("Barcelona");
+}
+  if (anoInicio = 2013 && anoFinal == 2014)
+{
+printf("Atlético de Madrid");
+}
+  if (anoInicio = 2014 && anoFinal == 2015)
+{
+printf("Barcelona");
+}  
+if (anoInicio = 2015 && anoFinal == 2016)
+{
+printf("Barcelona");
+}
+ if (anoInicio = 2016 && anoFinal == 2017)
+{
+printf("Real Madrid");
+}  
+if (anoInicio = 2017 && anoFinal == 2018)
+{
+printf("Barcelona");
+}
+ if (anoInicio = 2018 && anoFinal == 2019)
+{
+printf("Barcelona");
+}  
+if (anoInicio = 2019 && anoFinal == 2020)
+{
+printf("Real Madrid");
+}
+ if (anoInicio = 2020 && anoFinal == 2021)
+{
+printf("Atlético de Madrid");
+}  
   return(0);
 }
