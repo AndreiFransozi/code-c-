@@ -1,0 +1,34 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <locale.h>
+int anoInicio;
+int anoFinal;
+int main(){
+setlocale(LC_ALL, "Portuguese");
+
+printf ("Digite o ano Inicial da temporada da La Liga: ");
+scanf ("%d", &anoInicio);
+printf ("Digite o ano Final da temporada da La Liga: ");
+scanf ("%d", &anoFinal);
+    if (anoInicio = 1929 && anoFinal == 1929)
+{
+printf("Barcelona");
+}
+    if (anoInicio = 1929 && anoFinal == 1930)
+{
+printf("Athletic Bilbao");
+}
+  if (anoInicio = 1930 && anoFinal == 1931)
+{
+printf("Athletic Bilbao");
+}
+  if (anoInicio = 1931 && anoFinal == 1932)
+{
+printf("Real Madrid");
+}
+  if (anoInicio = 1932 && anoFinal == 1933)
+{
+printf("Real Madrid");
+}
+  return(0);
+}
