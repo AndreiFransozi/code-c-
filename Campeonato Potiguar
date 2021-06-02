@@ -1,1 +1,12 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <locale.h>
+int ano;
+int main(){
+setlocale(LC_ALL, "Portuguese");
 
+printf ("Digite o ano do titulo da Campeonato Potiguar): ");
+scanf ("%d", &ano);
+if ((ano == 1920) || (ano == 1921) || (ano == 1923) || (ano == 1925) || (ano == 1926) || (ano == 1928) || (ano == 1929) || (ano == 1932) || (ano == 1933) || (ano == 1934) || (ano == 1935) || (ano == 1936) || (ano == 1937) || (ano == 1938) || (ano == 1939) || (ano == 1940) || (ano == 1941 ) || (ano == 1944) || (ano == 1945) || (ano == 1947) || (ano == 1950) || (ano == 1953) || (ano == 1954) || (ano == 1955) || (ano == 1958) || (ano == 1959) || (ano == 1960) || (ano == 1961) || (ano == 1962) || (ano == 1965) || (ano == 1966) || (ano == 1970) || (ano == 1971) || (ano == 1972) || (ano == 1973) || (ano == 1976) || (ano == 1978) || (ano == 1983) || (ano == 1984) || (ano == 1990) || (ano == 1993) || (ano == 1994) || (ano == 1995) || (ano == 1997) || (ano == 1998) || (ano == 1999) || (ano == 2000) || (ano == 2005) || (ano ==  2007) || (ano == 2008) || (ano == 2010) || (ano == 2011) || (ano == 2016) || (ano == 2017) || (ano == 2018) || (ano == 2020)){
+printf ("ABC (Natal)");
+}
