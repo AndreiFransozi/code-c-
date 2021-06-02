@@ -1,0 +1,41 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <locale.h>
+int ano;
+int main(){
+setlocale(LC_ALL, "Portuguese");
+
+printf ("Digite o ano do titulo do CAMPEONATO CATARINENSE DE BASQUETE: ");
+scanf ("%d", &ano);
+if (ano == 2003){
+printf("Adeblu");
+}
+if((ano == 2014) || (ano == 2015) || (ano == 2017) || (ano == 2018) || (ano == 2019)){
+printf("APAB/Blumenau");
+}	
+if((ano == 1995) || (ano == 1996) || (ano == 1997) || (ano == 1998)){
+printf("ABAJ");
+}
+if((ano == 2009) || (ano == 2010) || (ano == 2011) || (ano == 2012)){
+printf("Joinville BA");
+}	
+if((ano == 2006) || (ano == 2007) || (ano == 2008)){
+printf("Joinville EC");
+}	
+if((ano == 1999) || (ano == 2000)){
+printf("SRE Ipiranga");
+}
+if((ano == 2013) || (ano == 2016)){
+printf("AD Brusque");
+}	
+if((ano == 2001) || (ano == 2002)){
+printf("Bandeirante");
+}	
+if((ano == 2004) || (ano == 2005)){
+printf("Bom Jesus");
+}	
+else {
+printf("Não houve CAMPEONATO CATARINENSE DE BASQUETE");
+}
+return 0;
+}
