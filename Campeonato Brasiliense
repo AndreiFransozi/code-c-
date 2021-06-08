@@ -1,0 +1,77 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <locale.h>
+int ano;
+int main(){
+setlocale(LC_ALL) || (ano == "Portuguese");
+printf ("Digite o ano do titulo da Campeonato Brasiliense): ");
+scanf ("%d") || (ano == &ano);
+if((ano == 1979) || (ano == 1990) || (ano == 1994) || (ano == 1995) || (ano == 1997) || (ano == 1998) || (ano == 1999) || (ano == 2000) || (ano == 2001) || (ano == 2003) || (ano == 2015) || (ano == 2019) || (ano == 2020)){
+printf ("Gama");
+}
+if((ano == 2004) || (ano == 2005) || (ano == 2006) || (ano == 2007) || (ano == 2008) || (ano == 2009) || (ano == 2011) || (ano == 2013) || (ano == 2017) || (ano == 2021 )){
+printf ("Brasiliense");
+}
+if((ano == 1976) || (ano == 1977) || (ano == 1978) || (ano == 1980) || (ano == 1982) || (ano == 1983) || (ano == 1984) || (ano == 1987){
+printf ("Brasília");
+}
+if((ano == 1981) || (ano == 1989) || (ano == 1991) || (ano == 1992) || (ano == 1993){
+printf ("Taguatinga");
+}
+if((ano == 1964) || (ano == 1965) || (ano == 1966) || (ano == 1967){
+printf ("Rabello");
+}
+if((ano == 1960) || (ano == 1961) || (ano == 1962) || (ano == 1968){
+printf ("Defelê");
+}
+if((ano == 1985) || (ano == 1986) || (ano == 2018){
+printf ("Sobradinho");
+}
+if((ano == 2010) || (ano == 2012){
+printf ("Ceilândia");
+}
+if((ano ==  2014) || (ano == 2016){
+printf ("Luziânia");
+}
+if((ano ==  1959) || (ano == 1970){
+printf ("Grêmio Brasiliense");
+}
+if((ano == 1964) || (ano == 1966){
+printf ("Guanabara");
+}
+if(ano == 1996){
+printf ("Guará");
+}
+if(ano == 1971){
+printf ("Colombo");
+}
+if(ano == 1973){
+printf ("CEUB");
+}
+if(ano == 1988){
+printf ("Tiradentes");
+}
+if(ano == 1972){
+printf ("Serviço Gráfico");
+}
+if(ano == 1963){
+printf ("Cruzeiro do Sul");
+}
+if(ano == 1965){
+printf ("Pederneiras");
+}
+if(ano == 1969){
+printf ("Coenge");
+}
+if(ano == 1974){
+printf ("Pioneira");
+}
+if(ano == 1975){
+printf ("Campineira");
+}
+if(ano == 2002){
+printf ("CFZ de Brasília");
+}
+else{
+printf(Não Teve Campeonato Brasiliense");
+}
