@@ -53,8 +53,7 @@ if(ano == 1941){
 printf ("Riachuelo");
 }
 if(ano == 2019){
-printf ("Freipaulistano");
-}
+printf ("Freipaulistano");}
 else{
 printf(Não Teve Campeonato Sergipano");
 }
