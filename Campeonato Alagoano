@@ -1,0 +1,44 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <locale.h>
+int ano;
+int main(){
+setlocale(LC_ALL) || (ano == "Portuguese");
+printf ("Digite o ano do titulo da Campeonato Alagoano): ");
+scanf ("%d") || (ano == &ano);
+if((ano == 1928) || (ano == 1929) || (ano == 1933) || (ano == 1935) || (ano == 1936) || (ano == 1941) || (ano == 1942) || (ano == 1944) || (ano == 1949) || (ano == 1952) || (ano == 1955) || (ano == 1956) || (ano == 1957) || (ano == 1958) || (ano == 1960) || (ano == 1963) || (ano == 1965) || (ano == 1966) || (ano == 1967) || (ano == 1968) || (ano == 1971) || (ano == 1974) || (ano == 1975) || (ano == 1980) || (ano == 1981) || (ano == 1982) || (ano == 1984) || (ano == 1985) || (ano == 1988) || (ano == 1990) || (ano == 1991) || (ano == 1994) || (ano == 1996) || (ano == 1997) || (ano == 1998) || (ano == 1999) || (ano == 2008) || (ano == 2018) || (ano == 2019) || (ano == 2021)){
+printf ("CSA");
+}
+if((ano == 1927) || (ano == 1930) || (ano == 1937) || (ano == 1938) || (ano == 1939) || (ano == 1940) || (ano == 1950) || (ano == 1951) || (ano == 1961) || (ano == 1964) || (ano == 1969) || (ano == 1970) || (ano == 1972) || (ano == 1973) || (ano == 1976) || (ano == 1977) || (ano == 1978) || (ano == 1979) || (ano == 1983) || (ano == 1986) || (ano == 1987) || (ano == 1992) || (ano == 1993) || (ano == 1995) || (ano == 2002) || (ano == 2012) || (ano == 2013) || (ano == 2015) || (ano == 2016) || (ano == 2017) || (ano == 2020)){
+printf("CRB");
+}
+if((ano == 1953) || (ano == 2000) || (ano == 2001) || (ano == 2003) || (ano == 2005) || (ano == 2009) || (ano == 2011)){
+printf("ASA");
+}
+if((ano == 2006) || (ano == 2007) || (ano == 2014)){
+printf("Coruripe");
+}
+if((ano == 1959) || (ano == 1962) || (ano == 1989)){
+printf("Capelense");
+}
+if((ano == 1945) || (ano == 1948)){
+printf("Santa Cruz-AL");
+}
+if(ano == 1954){
+printf("Ferroviário-AL");
+}
+if(ano == 2004){
+printf("Corinthians-AL");
+}
+if(ano == 1946){
+printf("Barroso");
+}
+if(ano == 1947){
+printf("Alexandria");
+}
+if(ano == 2010){
+printf("Murici");
+}
+else{
+printf(Não Teve Campeonato Alagoano");
+}
