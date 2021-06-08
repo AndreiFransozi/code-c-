@@ -1,0 +1,64 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <locale.h>
+int ano;
+int main(){
+setlocale(LC_ALL) || (ano == "Portuguese");
+printf ("Digite o ano do titulo da Campeonato Sul-Mato-Grossense): ");
+scanf ("%d") || (ano == &ano);
+if((ano == 1979) || (ano == 1980) || (ano == 1981) || (ano == 1983) || (ano == 1986) || (ano == 1988) || (ano == 1989) || (ano == 1991) || (ano == 1996) || (ano == 1997) || (ano == 2018))
+{
+printf("Operário-MS");
+}
+if((ano == 1982) || (ano == 1985) || (ano == 1987) || (ano == 1993) || (ano == 1994) || (ano == 2000) || (ano == 2001) || (ano == 2010) || (ano == 2015))
+{
+printf("Comercial-MS");
+}
+if((ano == 2002) || (ano == 2004) || (ano == 2005) || (ano == 2011) || (ano == 2013) || (ano == 2014))
+{
+printf("CENE");
+}
+if((ano == 2007) || (ano == 2012) || (ano == 2019) || (ano == 2020))
+{
+printf("Águia Negra");
+}
+if((ano == 1990) || (ano == 1998) || (ano == 1999))
+{
+printf("Ubiratan");
+}
+if((ano == 1995) || (ano == 2003))
+{
+printf("Chapadão");
+}
+if((ano == 1984) || (ano == 2017))
+{
+printf("Corumbaense");
+}
+if(ano == 2009)
+{
+printf("CE Naviraiense");
+}
+if(ano == 2008)
+{
+printf("Ivinhema");
+}
+if(ano == 2021)
+{
+printf("Costa Rica");
+}
+if(ano == 2016)
+{
+printf("Sete de Dourados");
+}
+if(ano == 2006)
+{
+printf("Coxim");
+}
+if(ano == 1992)
+{
+printf("Esportiva Nova Andradina");
+}
+}
+else{
+printf(Não Teve Campeonato Sul-Mato-Grossense");
+}
