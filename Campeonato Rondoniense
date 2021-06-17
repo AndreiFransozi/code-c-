@@ -1,0 +1,51 @@
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <locale.h>
+int ano;
+int main(){
+setlocale(LC_ALL) || (ano == "Portuguese");
+printf ("Digite o ano do titulo da Campeonato Rondoniense: ");
+scanf ("%d", &ano);
+if((ano == 1991) || (ano ==1992) || (ano ==1995) || (ano ==1996) || (ano ==1997) || (ano ==1998) || (ano ==1999) || (ano ==2001) || (ano ==2012)){
+printf("Ji-Paraná (Ji-Paraná)");
+}	
+if((ano == 2005) || (ano ==2009) || (ano ==2010) || (ano ==2013) || (ano ==2014)){
+printf("Vilhena (Vilhena)");
+}	
+if((ano == 2006) || (ano ==2007) || (ano ==2008)){
+printf("Ulbra-RO (Ji-Paraná)");
+}
+if((ano == 2003) || (ano ==2004)){
+printf("União Cacoalense (Cacoal");
+}
+if((ano == 2017) || (ano ==2018)){
+printf("Real Ariquemes (Ariquemes)");
+}	
+if((ano == 1993) || (ano ==1994)){
+printf("SE Ariquemes (Ariquemes)");
+}
+if(ano == 2015){
+printf("Genus (Porto Velho)");
+}
+if(ano == 2002){
+printf("CFA (Porto Velho)");
+} 	
+if(ano == 2011){
+printf("Espigão (Espigão do Oeste)");
+}	
+if(ano == 2000){
+printf("Guajará (Guajará-Mirim)");
+}
+if(ano == 2016){
+printf("Rondoniense (Porto Velho)");
+}
+if(ano == 2019){
+printf("Vilhenense (Vilhena)");
+}	
+if(ano == 2020){
+Porto Velho EC (Porto Velho)");
+}
+else{
+printf(Não Teve Campeonato Rondoniense");
+}
