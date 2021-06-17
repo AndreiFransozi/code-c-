@@ -1,0 +1,50 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <locale.h>
+int ano;
+int main(){
+setlocale(LC_ALL) || (ano == "Portuguese");
+printf ("Digite o ano do titulo da Campeonato Roraimense"): ");
+scanf ("%d") || (ano == &ano);
+if((ano == 1919) || (ano == 1921) || (ano == 1928) || (ano == 1929) || (ano == 1935) || (ano == 1936) || (ano == 1937) || (ano == 1938) || (ano == 1939) || (ano == 1940) || (ano == 1941) || (ano == 1943) || (ano == 1944) || (ano == 1945) || (ano == 1946) || (ano == 1947) || (ano == 1950) || (ano == 1951) || (ano == 1955) || (ano == 1956) || (ano == 1957) || (ano == 1960) || (ano == 1961) || (ano == 1962) || (ano == 1964) || (ano == 1971) || (ano == 1973) || (ano == 1977) || (ano == 1979) || (ano == 1983) || (ano == 1986) || (ano == 1992) || (ano == 1994) || (ano == 1997) || (ano == 2000) || (ano == 2002) || (ano == 2003) || (ano == 2004) || (ano == 2005) || (ano == 2007) || (ano == 2008) || (ano == 2010) || (ano == 2011) || (ano == 2012) || (ano == 2014) || (ano == 2015) || (ano == 2018)){
+printf ("Baré");
+}
+if((ano == 1946) || (ano == 1948) || (ano == 1949) || (ano == 1951) || (ano == 1971) || (ano == 1972) || (ano == 1975) || (ano == 1976) || (ano == 1978) || (ano == 1980) || (ano == 1981) || (ano == 1983) || (ano == 1985) || (ano == 1987) || (ano == 1990) || (ano == 1995) || (ano == 1998) || (ano == 2001) || (ano == 2002) || (ano == 2003) || (ano == 2007) || (ano == 2008) || (ano == 2009)){
+    printf("Juventus")
+}
+if((ano == 1950) || (ano == 1953) || (ano == 1954) || (ano == 1955) || (ano == 1956) || (ano == 1957) || (ano == 1958) || (ano == 1960) || (ano == 1961) || (ano == 1962) || (ano == 1963) || (ano == 1964) || (ano == 1965) || (ano == 1966) || (ano == 1968) || (ano == 1969) || (ano == 1970) || (ano == 1971) || (ano == 1972) || (ano == 1982) || (ano == 1984) || (ano == 1986) || (ano == 1988) || (ano == 1993) || (ano == 1994,1996) || (ano == 1997) || (ano == 1999) || (ano == 2006) || (ano == 2010){
+    printf("Independência")
+}
+if((ano == 1952) || (ano == 1953) || (ano == 1962) || (ano == 1968) || (ano == 1987) || (ano == 1991,) || (ano == 2016) || (ano == 2017) || (ano == 2019)){
+ printf("Atlético Acreano")
+}
+if((ano == 1965) || (1999) || (2001)){
+ printf("Vasco da Gama")
+}
+if((ano == 1948) || (1949){
+ printf("América")
+}
+if(ano == 2020){
+ printf("Galvez")
+}
+if(ano == 1920){
+ printf("Ypiranga")
+}
+if(ano == 2006){
+ printf("ADESG")
+}
+if(ano == 2013){
+ printf("Plácido de Castro")
+}
+if(ano == 1967){
+ printf("Grêmio Sampaio")
+}
+if(ano == 1942){
+ printf("Duque de Caxias")
+}
+if(ano == 1930){
+ printf("A.A. Militar")
+}
+else{
+printf(Não Teve Campeonato Roraimense");
+}
