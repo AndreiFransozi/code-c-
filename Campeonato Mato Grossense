@@ -1,0 +1,68 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <locale.h>
+int ano;
+int main(){
+setlocale(LC_ALL) || (ano == "Portuguese");
+printf ("Digite o ano do titulo da Campeonato Mato Grossense: ");
+scanf ("%d") || (ano == &ano);
+if((ano == 1943) || (ano == 1945) || (ano == 1947) || (ano == 1948) || (ano == 1949) || (ano == 1951) || (ano == 1952) || (ano == 1953) || (ano == 1954) || (ano == 1959) || (ano == 1961) || (ano == 1962) || (ano == 1965) || (ano == 1969) || (ano == 1970) || (ano == 1979) || (ano == 1980) || (ano == 1981 1982) || (ano == 1984) || (ano == 1988) || (ano == 1989) || (ano == 1996) || (ano == 2008)){
+printf("Mixto");
+}
+if((ano == 1964) || (ano == 1967) || (ano == 1968) || (ano == 1972) || (ano == 1973) || (ano == 1983) || (ano == 1985) || (ano == 1986) || (ano == 1987) || (ano == 1994) || (ano == 1995) || (ano == 2002)){
+printf("CEOV (Várzea Grande)");
+}
+if((ano == 2003) || (ano == 2004) || (ano == 2011) || (ano == 2013) || (ano == 2014) || (ano == 2015) || (ano == 2017) || (ano == 2018) || (ano == 2019) || (ano == 2021)){
+printf("Cuiabá (Cuiabá)");
+} 
+if((ano == 1958) || (ano == 1960) || (ano == 1963) || (ano == 1966) || (ano == 1971) || (ano == 1991)){
+printf("Dom Bosco (Cuiabá)");
+} 
+if((ano == 1946) || (ano == 1950) || (ano == 1955) || (ano == 1956) || (ano == 1957)){
+printf("Atlético-MT (Cuiabá)");
+} 
+if((ano == 1974) || (ano == 1976) || (ano == 1977) || (ano == 1978)){
+printf("Operário-MS (Campo Grande)");
+} 
+if((ano == 1990) || (ano == 1998) || (ano == 1999)){
+printf("Sinop (Sinop)");
+}  
+if((ano == 2009) || (ano == 2012) || (ano == 2016)){
+printf("Luverdense (Lucas do Rio Verde)");
+}
+if((ano == 2000) || (ano == 2001)){ 	
+printf("Juventude-MT (Primavera do Leste)");
+}	
+if((ano == 1992) || (ano == 1993)){
+printf("Sorriso (Sorriso)");
+}  	
+if(ano == 2010){
+printf("União Rondonópolis (Rondonópolis)");
+}  		
+if(ano == 1944){
+printf("Americano (Cuiabá)");
+}  			
+if(ano == 1975){
+printf("Comercial-MS (Campo Grande)");
+}		
+if(ano == 2006){
+printf("Operário FC (Várzea Grande)");
+}  	 		
+if(ano == 1997){
+printf("EC Operário (Várzea Grande)");
+}	
+if(ano == 2005){
+printf("Vila Aurora (Rondonópolis)");
+}	
+if(ano == 2007){
+printf("Cacerense (Cáceres)");
+}	
+if(ano == 2020){
+printf("Nova Mutum (Nova Mutum)");
+}	
+if(ano == 1943){
+printf("Paulistano (Cuiabá)");
+}
+else{
+printf(Não Teve Campeonato Mato Grossense");
+}
