@@ -22,7 +22,7 @@ printf("Botafogo-BA");
 printf("Galícia (Salvador)");
 } 
 if((ano == 1913) || (ano ==1915)){
-printf(" Fluminense de Salvador");
+printf("Fluminense de Salvador");
 } 
   if((ano == 1963) || (ano ==1969)){
 printf("Fluminense de Feira (Feira de Santana)");
@@ -30,31 +30,44 @@ printf("Fluminense de Feira (Feira de Santana)");
 if((ano == 1906) || (ano ==1907)){
 printf("São Salvador (Salvador)"); 
  if(ano == 1924 ){
-printf("AAB (Salvador)");  		
+printf("AAB (Salvador)");
+}
  if(ano == 1910){
-printf("Santos Dumont (Salvador)"); 	
+printf("Santos Dumont (Salvador)");
+}
 if(ano == 1927){
 printf("Bahiano de Tênis (Salvador)");
+}
 if(ano == 1966){
-printf("Leônico (Salvador)"); 	
+printf("Leônico (Salvador)");
+}
 if(ano == 2011){
 printf("Bahia de Feira (Feira de Santana)");	
+}
 if(ano == 2021){
 printf("Atlético de Alagoinhas (Alagoinhas)");
+}
 if(ano == 1914){
 printf("Internacional-BA (Salvador)");
+}
 if(ano == 1905){
 printf("Internacional de Cricket (Salvador)");
+}
  if(ano == 1911){
 printf("Sport Bahia (Salvador)");
+}
 if(ano == 1912){
 printf("Atlético de Salvador (Salvador)");
+}
 if(ano == 1916){
-printf("República (Salvador)");	
+printf("República (Salvador)");
+}
 if(ano == 1946){
 printf("Guarany-BA (Salvador)");
+}
 if(ano == 2006){
 printf("Colo Colo (Ilhéus)");
+}
 else{
 printf(Não Teve Campeonato Baiano");
 }
