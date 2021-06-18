@@ -5,7 +5,7 @@ int ano;
 int main(){
 setlocale(LC_ALL) || (ano == "Portuguese");
 printf ("Digite o ano do titulo da Campeonato Alagoano): ");
-scanf ("%d") || (ano == &ano);
+scanf ("%d", &ano);
 if((ano == 1928) || (ano == 1929) || (ano == 1933) || (ano == 1935) || (ano == 1936) || (ano == 1941) || (ano == 1942) || (ano == 1944) || (ano == 1949) || (ano == 1952) || (ano == 1955) || (ano == 1956) || (ano == 1957) || (ano == 1958) || (ano == 1960) || (ano == 1963) || (ano == 1965) || (ano == 1966) || (ano == 1967) || (ano == 1968) || (ano == 1971) || (ano == 1974) || (ano == 1975) || (ano == 1980) || (ano == 1981) || (ano == 1982) || (ano == 1984) || (ano == 1985) || (ano == 1988) || (ano == 1990) || (ano == 1991) || (ano == 1994) || (ano == 1996) || (ano == 1997) || (ano == 1998) || (ano == 1999) || (ano == 2008) || (ano == 2018) || (ano == 2019) || (ano == 2021)){
 printf ("CSA");
 }
