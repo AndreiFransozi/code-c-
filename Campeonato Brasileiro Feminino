@@ -1,0 +1,35 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <locale.h>
+int ano;
+int main(){
+setlocale(LC_ALL, "Portuguese");
+printf ("Digite o ano do titulo da Campeonato Brasileiro Feminino");
+scanf ("%d", &ano);
+if(ano == 2013){
+printf("Centro Olímpico");
+}
+if(ano == 2014){
+printf("Ferroviária");
+}
+if(ano == 2015){
+printf("Rio Preto");
+}
+if(ano == 2016){
+printf("Flamengo");
+}
+if(ano == 2017){
+printf("Santos");
+}
+if(ano == 2018){
+printf("Corinthians");
+}
+if(ano == 2019){
+printf("Ferroviária");
+}
+if(ano == 2020){
+printf("Corinthians");
+}
+else{
+printf("Não Teve Campeonato Brasileiro Feminino");
+}
