@@ -1,8 +1,6 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-/*
-*/
 typedef struct{
      char nome[80];
      long int matricula;
