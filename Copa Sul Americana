@@ -1,0 +1,175 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <locale.h>
+int ano;
+main ()
+{
+  setlocale (LC_ALL, "Portuguese");
+
+  printf ("Digite o ano do titulo da Copa Sul Americana: ");
+  scanf ("%d", &ano);
+  if (ano == 2002)
+
+    {
+
+      printf ("San Lorenzo\n");
+
+    }
+
+
+  if (ano == 2003)
+
+    {
+
+      printf ("Cienciano\n");
+
+    }
+
+  if (ano == 2004)
+
+    {
+
+      printf ("Boca Juniors\n");
+
+    }
+
+
+  if (ano == 2005)
+
+    {
+
+      printf ("Boca Juniors\n");
+
+    }
+
+
+  if (ano == 2006)
+
+    {
+
+      printf ("Pachuca\n");
+
+    }
+
+
+  if (ano == 2007)
+
+    {
+
+      printf ("Arsenal de Sarandí\n");
+
+    }
+
+
+  if (ano == 2008)
+
+    {
+
+      printf ("Internacional\n");
+
+    }
+
+  if (ano == 2009)
+
+    {
+
+      printf ("LDU Quito\n");
+
+    }
+
+
+  if (ano == 2010)
+
+    {
+
+      printf ("Independiente\n");
+
+    }
+
+
+  if (ano == 2011)
+
+    {
+
+      printf ("Universidad de Chile\n");
+
+    }
+
+
+  if (ano == 2012)
+
+    {
+
+      printf ("São Paulo\n");
+
+    }
+
+
+  if (ano == 2013)
+
+    {
+
+      printf ("Lanús\n");
+
+    }
+
+
+  if (ano == 2014)
+
+    {
+
+      printf ("River Plate\n");
+
+    }
+
+
+  if (ano == 2015)
+
+    {
+
+      printf ("Santa Fe\n");
+
+    }
+
+
+  if (ano == 2016)
+
+    {
+
+      printf ("Chapecoense\n");
+
+    }
+
+  if (ano == 2017)
+
+    {
+
+      printf ("Independiente\n");
+
+    }
+
+
+  if (ano == 2018)
+
+    {
+
+      printf ("Atlético Paranaense\n");
+
+    }
+    
+  if (ano == 2019)
+
+    {
+
+      printf ("Independiente del Valle\n");
+
+    }
+      if (ano == 2020)
+
+    {
+
+      printf ("Defensa y Justicia\n");
+
+    }
+  return (0);
+}
