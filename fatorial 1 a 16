@@ -1,0 +1,26 @@
+#include <stdio.h>
+int fat(int n) {
+    if(n==0)
+        return 1;
+    else
+        return n*fat(n-1);
+}
+
+main(){
+     printf("Fatorial de 1: %d \n",fat(1));
+     printf("Fatorial de 2: %d \n",fat(2));
+     printf("Fatorial de 3: %d \n",fat(3));
+     printf("Fatorial de 4: %d \n",fat(4));
+     printf("Fatorial de 5: %d \n",fat(5));
+     printf("Fatorial de 6: %d \n",fat(6));
+     printf("Fatorial de 7: %d \n",fat(7));
+     printf("Fatorial de 8: %d \n",fat(8));
+     printf("Fatorial de 9: %d \n",fat(9));
+     printf("Fatorial de 10: %d \n",fat(10));
+     printf("Fatorial de 11: %d \n",fat(11));
+     printf("Fatorial de 12: %d \n",fat(12));
+     printf("Fatorial de 13: %d \n",fat(13));
+     printf("Fatorial de 14: %d \n",fat(14));
+     printf("Fatorial de 15: %d \n",fat(15));
+     printf("Fatorial de 16: %d \n",fat(16));
+}
