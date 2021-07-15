@@ -1,0 +1,71 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <locale.h>
+int ano;
+int main(){
+setlocale(LC_ALL, "Portuguese");
+printf ("Digite o ano do titulo da Campeonato Basquete Gaúcho: ");
+scanf ("%d", &ano);
+if((ano == 1932 || ano == 1933 || ano == 1935 || ano == 1937 || ano == 1938 || ano == 1942 || ano == 1943 || ano == 1944 || ano == 1946 || ano == 1969 || ano == 1974 || ano == 1975 || ano == 1976 || ano == 1982)){
+printf ("Internacional");
+}
+if((ano == 1958 || ano == 1983 || ano == 1984 || ano == 1990 || ano == 1991 || ano == 1992 || ano == 1993 || ano == 1994 || ano == 1995 || ano == 1996 || ano == 1999 || ano == 2001 || ano == 2018)){
+printf("Corinthians");
+}
+if((ano == 1945 || 1948 || 1949 || 1950 || 1951 || 1952 || 1956 || 1968 || 1970 || 1972 || 1973)){
+printf("Cruzeiro");
+}
+if((ano == 1977 || 1981 || 1985 || 1986 || 1989 || 1997 || 2000)){
+printf("SOGIPA");
+}
+if((ano == 2009 || 2010 || 2014 || 2015 || 2016 || 2017 || 2020)){
+printf("Caxias do Sul");
+}
+if((ano == 1947 || 1957 || 1960 || 1961 || 1962 || 1965))){
+printf("Corinthians");
+}
+if((ano == 1997* || 1998 || 2002 || 2003 || 2004 || 2005))){
+printf("ULBRA");
+}
+if((ano == 2006 || 2007 || 2008 || 2011 || 2012 || 2013))){
+printf("Bira");
+}
+if((ano == 1927 || 1928 || 1939 || 1940 || 1941))){
+printf("Fussball Porto Alegre");
+}
+if((ano == 1963 || 1964 || 1978 || 1987 || 1988){
+printf("GNU");
+}
+if((ano == 1930 || 1931 || 1936){
+printf("São Geraldo");
+}
+if((ano == 1934 || 1954 || 1955){
+printf("Grêmio");
+}
+if((ano == 1966 || 1979 || 1980){
+printf("Petrópole");
+}
+if((ano == 1923 || 1929){
+printf("ACM");
+}
+if((ano == 1924 || 1925){
+printf("Tamandaré");
+}
+if(ano == 1953){
+printf("Florida");
+}
+if(ano == 1959){
+printf("Guanabara");
+}
+if(ano == 1967){
+printf("Regatas");
+}
+if(ano == 1971){
+printf("Ipiranga");
+}
+if(ano == 2019){
+printf("Sojão Basquete");
+}
+else{
+printf(Não Teve Campeonato Basquete Gaúcho");
+}
