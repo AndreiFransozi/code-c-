@@ -1,0 +1,15 @@
+//Faça um programa que mostre na tela algumas frases assassinas, que são
+//aquelas que fazem com muitas idéias sejam perdidas antes que amadureçam ou seja aprofundadas.
+//Eis alguns exemplos (bole também os seus):
+#include <stdio.h>
+#include <stdlib.h>
+#include <locale.h>
+int main(){
+printf("Isto não vai dar certo");
+printf("Você nunca vai conseguir");
+printf("Você vai se estrepar");
+printf("Não vai dar em nada");
+printf("Está tudo errado!");
+printf("Essa àrea não é para você");
+return 0;
+}
