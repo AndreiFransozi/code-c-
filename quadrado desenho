@@ -1,0 +1,13 @@
+//Quadrado
+//Escrever um programa que mostre a seguinte figura no alto da tela
+#include <stdio.h>
+#include <stdlib.h>
+#include <locale.h>
+int main(){
+printf(" XXXXX ");
+printf(" X   X ");
+printf(" X   X ");
+printf(" X   X ");
+printf(" XXXXX ");
+return 0;
+}
