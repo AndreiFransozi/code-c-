@@ -1,0 +1,19 @@
+#include <stdio.h>
+int print(int i) {
+printf("função de impressão %d\n", i);
+return i;
+}
+int main(void) {
+int a = 20;
+/* aqui 'print(a)' não é chamado,
+já que um 'a != 20' é falso. */
+if (a != 20 && print(a)) {
+printf("Eu não serei impresso!\n");
+}
+/* aqui 'print(a)' é chamado,
+uma vez que um 'a == 20' é verdadeiro. */
+if (a == 20 && print(a)) {
+printf("Eu serei impresso!\n");
+}
+return 0;
+}
