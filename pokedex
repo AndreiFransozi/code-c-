@@ -3707,5 +3707,9 @@ int main(){
     {
         printf ("Wyrdeer\n");
     }
+      if (nationaldex == 900)
+    {
+        printf ("Kleavor\n");
+    }
                             return(0);
                         }
